@@ -1,0 +1,1668 @@
+symbol	Unicode	polymertype	letter3	name	monomertype
+Trp1Me	0100	PEPTIDE	WA7	(2~{S})-2-amino-3-(1-methylindol-3-yl)propanoic acid	Backbone
+1Nal	0101	PEPTIDE	WA0	(2~{S})-2-amino-3-naphthalen-1-ylpropanoic acid	Backbone
+Phe245F3	0102	PEPTIDE	HA6	(2~{S})-2-amino-3-(2,4,5-trifluorophenyl)propanoic acid	Backbone
+Phe24F2	0103	PEPTIDE	HA7	(2~{S})-2-amino-3-(2,4-difluorophenyl)propanoic acid	Backbone
+Phe2Br	0104	PEPTIDE	FAQ	(2~{S})-2-amino-3-(2-bromophenyl)propanoic acid	Backbone
+Phe2Cl	0105	PEPTIDE	FAR	(2~{S})-2-amino-3-(2-chlorophenyl)propanoic acid	Backbone
+Phe2F	0106	PEPTIDE	FAT	(2~{S})-2-amino-3-(2-fluorophenyl)propanoic acid	Backbone
+TyrOMe2Me	0107	PEPTIDE	FBF	(2~{S})-2-amino-3-(4-methoxy-2-methylphenyl)propanoic acid	Backbone
+2Nal	0108	PEPTIDE	FA2	(2~{S})-2-amino-3-naphthalen-2-ylpropanoic acid	Backbone
+2Pal	0109	PEPTIDE	HA0	(2~{S})-2-amino-3-pyridin-2-ylpropanoic acid	Backbone
+Phe34Cl2	010A	PEPTIDE	YAC	(2~{S})-2-amino-3-(3,4-dichlorophenyl)propanoic acid	Backbone
+Phe34F2	010B	PEPTIDE	YAD	(2~{S})-2-amino-3-(3,4-difluorophenyl)propanoic acid	Backbone
+Phe34OMe2	010C	PEPTIDE	YAF	(2~{S})-2-amino-3-(3,4-dimethoxyphenyl)propanoic acid	Backbone
+Phe35F2	010D	PEPTIDE	FAV	(2~{S})-2-amino-3-(3,5-difluorophenyl)propanoic acid	Backbone
+Phe3Br	010E	PEPTIDE	FAW	(2~{S})-2-amino-3-(3-bromophenyl)propanoic acid	Backbone
+Phe3CF3	010F	PEPTIDE	FAX	(2~{S})-2-amino-3-[3-(trifluoromethyl)phenyl]propanoic acid	Backbone
+Phe3Cl	0110	PEPTIDE	FAY	(2~{S})-2-amino-3-(3-chlorophenyl)propanoic acid	Backbone
+Phe3CN	0111	PEPTIDE	FAZ	(2~{S})-2-amino-3-(3-cyanophenyl)propanoic acid	Backbone
+Phe3CONH2	0112	PEPTIDE	FB0	(2~{S})-2-amino-3-(3-carbamoylphenyl)propanoic acid	Backbone
+Phe3F	0113	PEPTIDE	FB2	(2~{S})-2-amino-3-(3-fluorophenyl)propanoic acid	Backbone
+Phe3I	0114	PEPTIDE	FB3	(2~{S})-2-amino-3-(3-iodophenyl)propanoic acid	Backbone
+Phe3Me	0115	PEPTIDE	FB4	(2~{S})-2-amino-3-(3-methylphenyl)propanoic acid	Backbone
+TyrOMe3Me	0116	PEPTIDE	YB0	(2~{S})-2-amino-3-(4-methoxy-3-methylphenyl)propanoic acid	Backbone
+Phe3OMe	0117	PEPTIDE	FB5	(2~{S})-2-amino-3-(3-methoxyphenyl)propanoic acid	Backbone
+3Pal	0118	PEPTIDE	FA3	(2~{S})-2-amino-3-pyridin-3-ylpropanoic acid	Backbone
+3RHL	0119	PEPTIDE	TA0	(2~{S},3~{R})-2-amino-3-hydroxy-4-methylpentanoic acid	Backbone
+Trp4az	011A	PEPTIDE	WA8	(2~{S})-2-amino-3-(1~{H}-pyrrolo[3,2-b]pyridin-3-yl)propanoic acid	Backbone
+Phe4Br	011B	PEPTIDE	YAG	(2~{S})-2-amino-3-(4-bromophenyl)propanoic acid	Backbone
+Phe4CF3	011C	PEPTIDE	YAH	(2~{S})-2-amino-3-[4-(trifluoromethyl)phenyl]propanoic acid	Backbone
+Phe4Cl	011D	PEPTIDE	YAI	(2~{S})-2-amino-3-(4-chlorophenyl)propanoic acid	Backbone
+Phe4CN	011E	PEPTIDE	YAJ	(2~{S})-2-amino-3-(4-cyanophenyl)propanoic acid	Backbone
+Phe4CONH2	011F	PEPTIDE	YAK	(2~{S})-2-amino-3-(4-carbamoylphenyl)propanoic acid	Backbone
+Phe4COOH	0120	PEPTIDE	YAL	4-[(2~{S})-2-amino-2-carboxyethyl]benzoic acid	Backbone
+Phe4F	0121	PEPTIDE	YAM	(2~{S})-2-amino-3-(4-fluorophenyl)propanoic acid	Backbone
+Phe4I	0122	PEPTIDE	YAO	(2~{S})-2-amino-3-(4-iodophenyl)propanoic acid	Backbone
+Phe4Me	0123	PEPTIDE	YAP	(2~{S})-2-amino-3-(4-methylphenyl)propanoic acid	Backbone
+4Pal	0124	PEPTIDE	FA4	(2~{S})-2-amino-3-pyridin-4-ylpropanoic acid	Backbone
+Phe4tbutyl	0125	PEPTIDE	YAS	(2~{S})-2-amino-3-(4-~{tert}-butylphenyl)propanoic acid	Backbone
+Trp5az	0126	PEPTIDE	WA9	(2~{S})-2-amino-3-(1~{H}-pyrrolo[3,2-c]pyridin-3-yl)propanoic acid	Backbone
+Trp5Br	0127	PEPTIDE	WAA	(2~{S})-2-amino-3-(5-bromo-1~{H}-indol-3-yl)propanoic acid	Backbone
+Trp5Cl	0128	PEPTIDE	WAB	(2~{S})-2-amino-3-(5-chloro-1~{H}-indol-3-yl)propanoic acid	Backbone
+Trp5CN	0129	PEPTIDE	WAC	(2~{S})-2-amino-3-(5-cyano-1~{H}-indol-3-yl)propanoic acid	Backbone
+Trp5F	012A	PEPTIDE	WAD	(2~{S})-2-amino-3-(5-fluoro-1~{H}-indol-3-yl)propanoic acid	Backbone
+Trp5Me	012B	PEPTIDE	WAE	(2~{S})-2-amino-3-(5-methyl-1~{H}-indol-3-yl)propanoic acid	Backbone
+Trp5OH	012C	PEPTIDE	WAF	(2~{S})-2-amino-3-(5-hydroxy-1~{H}-indol-3-yl)propanoic acid	Backbone
+Trp5OMe	012D	PEPTIDE	WAG	(2~{S})-2-amino-3-(5-methoxy-1~{H}-indol-3-yl)propanoic acid	Backbone
+Trp6az	012E	PEPTIDE	WAH	(2~{S})-2-amino-3-(1~{H}-pyrrolo[2,3-c]pyridin-3-yl)propanoic acid	Backbone
+Trp7az	012F	PEPTIDE	WAJ	(2~{S})-2-amino-3-(1~{H}-pyrrolo[2,3-b]pyridin-3-yl)propanoic acid	Backbone
+A	0130	PEPTIDE	ALA	(2~{S})-2-aminopropanoic acid	Backbone
+Acc3	0131	PEPTIDE	GX0	1-aminocyclopropane-1-carboxylic acid	Backbone
+Acc4	0132	PEPTIDE	GX1	1-aminocyclobutane-1-carboxylic acid	Backbone
+Acc5	0133	PEPTIDE	GX2	1-aminocyclopentane-1-carboxylic acid	Backbone
+Acc6	0134	PEPTIDE	GX3	1-aminocyclohexane-1-carboxylic acid	Backbone
+Abu	0135	PEPTIDE	SA0	(2~{S})-2-aminobutanoic acid	Backbone
+Ac	0136	PEPTIDE	1X0	acetic acid	Backbone
+Aca	0137	PEPTIDE	KA0	(2~{S})-2-aminodecanoic acid	Backbone
+AEF	0138	PEPTIDE	YA0	(2~{S})-2-amino-3-[4-(2-aminoethoxy)phenyl]propanoic acid	Backbone
+Agb	0139	PEPTIDE	RA0	(2~{S})-2-amino-4-carbamimidamidobutanoic acid	Backbone
+Agp	013A	PEPTIDE	RA1	(2~{S})-2-amino-3-carbamimidamidopropanoic acid	Backbone
+Ahe	013B	PEPTIDE	KA1	(2~{S})-2-aminohept-6-enoic acid	Backbone
+Ahp	013C	PEPTIDE	KA2	(2~{S})-2-aminoheptanoic acid	Backbone
+Aib	013D	PEPTIDE	AX0	2-amino-2-methylpropanoic acid	Backbone
+aMeC	013E	PEPTIDE	C01	(2~{R})-2-amino-2-methyl-3-sulfanylpropanoic acid	Backbone
+aMeD	013F	PEPTIDE	G01	(2~{S})-2-amino-2-methylbutanedioic acid	Backbone
+daMeC	0140	PEPTIDE	CA0	(2~{S})-2-amino-2-methyl-3-sulfanylpropanoic acid	Backbone
+daMeD	0141	PEPTIDE	GA0	(2~{R})-2-amino-2-methylbutanedioic acid	Backbone
+daMeE	0142	PEPTIDE	GA1	(2~{R})-2-amino-2-methylpentanedioic acid	Backbone
+daMeF	0143	PEPTIDE	FA9	(2~{R})-2-amino-2-methyl-3-phenylpropanoic acid	Backbone
+daMeH	0144	PEPTIDE	HA2	(2~{R})-2-amino-3-(1~{H}-imidazol-4-yl)-2-methylpropanoic acid	Backbone
+daMeI	0145	PEPTIDE	I02	(2~{R},3~{R})-2-amino-2,3-dimethylpentanoic acid	Backbone
+daMeK	0146	PEPTIDE	KA8	(2~{R})-2,6-diamino-2-methylhexanoic acid	Backbone
+daMeL	0147	PEPTIDE	L01	(2~{R})-2-amino-2,4-dimethylpentanoic acid	Backbone
+daMeM	0148	PEPTIDE	MA0	(2~{R})-2-amino-2-methyl-4-methylsulfanylbutanoic acid	Backbone
+daMeN	0149	PEPTIDE	NA1	(2~{R})-2,4-diamino-2-methyl-4-oxobutanoic acid	Backbone
+daMeP	014A	PEPTIDE	PA1	(2~{R})-2-methylpyrrolidine-2-carboxylic acid	Backbone
+daMeQ	014B	PEPTIDE	QA0	(2~{R})-2,5-diamino-2-methyl-5-oxopentanoic acid	Backbone
+daMeR	014C	PEPTIDE	RA3	(2~{R})-2-amino-5-carbamimidamido-2-methylpentanoic acid	Backbone
+daMeS	014D	PEPTIDE	GA2	(2~{R})-2-amino-3-hydroxy-2-methylpropanoic acid	Backbone
+daMeT	014E	PEPTIDE	A01	(2~{R},3~{S})-2-amino-3-hydroxy-2-methylbutanoic acid	Backbone
+daMeV	014F	PEPTIDE	V01	(2~{R})-2-amino-2,3-dimethylbutanoic acid	Backbone
+daMeW	0150	PEPTIDE	WA1	(2~{R})-2-amino-3-(1~{H}-indol-3-yl)-2-methylpropanoic acid	Backbone
+daMeY	0151	PEPTIDE	YA6	(2~{R})-2-amino-3-(4-hydroxyphenyl)-2-methylpropanoic acid	Backbone
+aMeE	0152	PEPTIDE	G02	(2~{S})-2-amino-2-methylpentanedioic acid	Backbone
+aMeF	0153	PEPTIDE	F01	(2~{S})-2-amino-2-methyl-3-phenylpropanoic acid	Backbone
+aMeH	0154	PEPTIDE	H01	(2~{S})-2-amino-3-(1~{H}-imidazol-4-yl)-2-methylpropanoic acid	Backbone
+aMeI	0155	PEPTIDE	IA1	(2~{S},3~{S})-2-amino-2,3-dimethylpentanoic acid	Backbone
+aMeK	0156	PEPTIDE	K01	(2~{S})-2,6-diamino-2-methylhexanoic acid	Backbone
+aMeL	0157	PEPTIDE	LA4	(2~{S})-2-amino-2,4-dimethylpentanoic acid	Backbone
+aMeM	0158	PEPTIDE	M01	(2~{S})-2-amino-2-methyl-4-methylsulfanylbutanoic acid	Backbone
+aMeN	0159	PEPTIDE	N01	(2~{S})-2,4-diamino-2-methyl-4-oxobutanoic acid	Backbone
+aMeP	015A	PEPTIDE	P02	(2~{S})-2-methylpyrrolidine-2-carboxylic acid	Backbone
+aMeQ	015B	PEPTIDE	Q01	(2~{S})-2,5-diamino-2-methyl-5-oxopentanoic acid	Backbone
+aMeR	015C	PEPTIDE	R01	(2~{S})-2-amino-5-carbamimidamido-2-methylpentanoic acid	Backbone
+aMeS	015D	PEPTIDE	G04	(2~{S})-2-amino-3-hydroxy-2-methylpropanoic acid	Backbone
+aMeT	015E	PEPTIDE	AA0	(2~{S},3~{R})-2-amino-3-hydroxy-2-methylbutanoic acid	Backbone
+aMeV	015F	PEPTIDE	VA0	(2~{S})-2-amino-2,3-dimethylbutanoic acid	Backbone
+aMeW	0160	PEPTIDE	W01	(2~{S})-2-amino-3-(1~{H}-indol-3-yl)-2-methylpropanoic acid	Backbone
+aMeY	0161	PEPTIDE	Y01	(2~{S})-2-amino-3-(4-hydroxyphenyl)-2-methylpropanoic acid	Backbone
+Apc	0162	PEPTIDE	PX0	piperidine-4-carboxylic acid	Backbone
+Ape	0163	PEPTIDE	LA6	(2~{S})-2-aminopent-4-enoic acid	Backbone
+AlaPEG3N3	0164	PEPTIDE	SA1	(2~{S})-2-amino-3-[2-[2-(2-azidoethoxy)ethoxy]ethoxy]propanoic acid	Backbone
+Apm	0165	PEPTIDE	KA5	(2~{S})-2-aminoheptanedioic acid	Backbone
+Asu	0166	PEPTIDE	KA6	(2~{S})-2-aminooctanedioic acid	Backbone
+Aze	0167	PEPTIDE	PA0	(2~{S})-azetidine-2-carboxylic acid	Backbone
+bA	0168	PEPTIDE	GX6	3-aminopropanoic acid	Backbone
+Bhv	0169	PEPTIDE	AA2	(2~{S})-2-amino-3-hydroxy-3-methylbutanoic acid	Backbone
+Bip	016A	PEPTIDE	FA8	(2~{S})-2-amino-3-(4-phenylphenyl)propanoic acid	Backbone
+C	016B	PEPTIDE	CYS	(2~{R})-2-amino-3-sulfanylpropanoic acid	Backbone
+Proc3OH	016C	PEPTIDE	PAH	(2~{S},3~{R})-3-hydroxypyrrolidine-2-carboxylic acid	Backbone
+Proc4NH2	016D	PEPTIDE	PAM	(2~{S},4~{S})-4-aminopyrrolidine-2-carboxylic acid	Backbone
+Proc4F	016E	PEPTIDE	PAL	(2~{S},4~{S})-4-fluoropyrrolidine-2-carboxylic acid	Backbone
+Proc4OH	016F	PEPTIDE	PAN	(2~{S},4~{S})-4-hydroxypyrrolidine-2-carboxylic acid	Backbone
+CysSAc	0170	PEPTIDE	NA0	(2~{R})-2-amino-3-(2-amino-2-oxoethyl)sulfanylpropanoic acid	Backbone
+CysACM	0171	PEPTIDE	SA4	(2~{R})-3-(acetamidomethylsulfanyl)-2-aminopropanoic acid	Backbone
+cBuA	0172	PEPTIDE	LA8	(2~{S})-2-amino-3-cyclobutylpropanoic acid	Backbone
+Cbg	0173	PEPTIDE	VA2	(2~{S})-2-amino-2-cyclobutylacetic acid	Backbone
+CeG	0174	PEPTIDE	EX0	3-(carboxymethylamino)propanoic acid	Backbone
+Cha	0175	PEPTIDE	LA9	(2~{S})-2-amino-3-cyclohexylpropanoic acid	Backbone
+Chg	0176	PEPTIDE	VA3	(2~{S})-2-amino-2-cyclohexylacetic acid	Backbone
+Cit	0177	PEPTIDE	RA2	(2~{S})-2-amino-5-(carbamoylamino)pentanoic acid	Backbone
+ClAc	0178	PEPTIDE	GX7	2-chloroacetic acid	Backbone
+cPeA	0179	PEPTIDE	LAA	(2~{S})-2-amino-3-cyclopentylpropanoic acid	Backbone
+cPeG	017A	PEPTIDE	VA4	(2~{S})-2-amino-2-cyclopentylacetic acid	Backbone
+cPrA	017B	PEPTIDE	LAB	(2~{S})-2-amino-3-cyclopropylpropanoic acid	Backbone
+cPrG	017C	PEPTIDE	VA5	(2~{S})-2-amino-2-cyclopropylacetic acid	Backbone
+Cya	017D	PEPTIDE	SA3	(2~{R})-2-amino-3-sulfopropanoic acid	Backbone
+D	017E	PEPTIDE	ASP	(2~{S})-2-aminobutanedioic acid	Backbone
+d1Nal	017F	PEPTIDE	W02	(2~{R})-2-amino-3-naphthalen-1-ylpropanoic acid	Backbone
+d2Nal	0180	PEPTIDE	F02	(2~{R})-2-amino-3-naphthalen-2-ylpropanoic acid	Backbone
+dA	0181	PEPTIDE	A00	(2~{R})-2-aminopropanoic acid	Backbone
+Dab	0182	PEPTIDE	KA7	(2~{S})-2,4-diaminobutanoic acid	Backbone
+dAbu	0183	PEPTIDE	S01	(2~{R})-2-aminobutanoic acid	Backbone
+dAhe	0184	PEPTIDE	K02	(2~{R})-2-aminohept-6-enoic acid	Backbone
+Dap	0185	PEPTIDE	SA5	(2~{S})-2,3-diaminopropanoic acid	Backbone
+dAze	0186	PEPTIDE	P03	(2~{R})-azetidine-2-carboxylic acid	Backbone
+Dbh	0187	PEPTIDE	LAC	(2~{S})-2-amino-3-(2-tricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,12,14-hexaenyl)propanoic acid	Backbone
+dC	0188	PEPTIDE	C00	(2~{S})-2-amino-3-sulfanylpropanoic acid	Backbone
+dcBuA	0189	PEPTIDE	L03	(2~{R})-2-amino-3-cyclobutylpropanoic acid	Backbone
+dCha	018A	PEPTIDE	L04	(2~{R})-2-amino-3-cyclohexylpropanoic acid	Backbone
+dcPeA	018B	PEPTIDE	L05	(2~{R})-2-amino-3-cyclopentylpropanoic acid	Backbone
+dD	018C	PEPTIDE	D00	(2~{R})-2-aminobutanedioic acid	Backbone
+dDab	018D	PEPTIDE	K03	(2~{R})-2,4-diaminobutanoic acid	Backbone
+dDap	018E	PEPTIDE	S02	(2~{R})-2,3-diaminopropanoic acid	Backbone
+dE	018F	PEPTIDE	E00	(2~{R})-2-aminopentanedioic acid	Backbone
+dF	0190	PEPTIDE	F00	(2~{R})-2-amino-3-phenylpropanoic acid	Backbone
+dH	0191	PEPTIDE	H00	(2~{R})-2-amino-3-(1~{H}-imidazol-4-yl)propanoic acid	Backbone
+dhC	0192	PEPTIDE	C02	(2~{R})-2-amino-4-sulfanylbutanoic acid	Backbone
+dhE	0193	PEPTIDE	E02	(2~{R})-2-aminohexanedioic acid	Backbone
+dhF	0194	PEPTIDE	F07	(2~{R})-2-amino-4-phenylbutanoic acid	Backbone
+dhH	0195	PEPTIDE	H02	(2~{R})-2-amino-4-(1~{H}-imidazol-4-yl)butanoic acid	Backbone
+dhhPra	0196	PEPTIDE	K04	(2~{R})-2-aminohept-6-ynoic acid	Backbone
+dhK	0197	PEPTIDE	K05	(2~{R})-2,7-diaminoheptanoic acid	Backbone
+dhL	0198	PEPTIDE	L06	(2~{R})-2-amino-5-methylhexanoic acid	Backbone
+dhM	0199	PEPTIDE	M02	(2~{R})-2-amino-5-methylsulfanylpentanoic acid	Backbone
+dhPra	019A	PEPTIDE	E03	(2~{R})-2-aminohex-5-ynoic acid	Backbone
+dhQ	019B	PEPTIDE	Q02	(2~{R})-2,6-diamino-6-oxohexanoic acid	Backbone
+dhR	019C	PEPTIDE	R02	(2~{R})-2-amino-6-carbamimidamidohexanoic acid	Backbone
+dhS	019D	PEPTIDE	S04	(2~{R})-2-amino-4-hydroxybutanoic acid	Backbone
+dhW	019E	PEPTIDE	W03	(2~{R})-2-amino-4-(1~{H}-indol-3-yl)butanoic acid	Backbone
+dhY	019F	PEPTIDE	Y02	(2~{R})-2-amino-4-(4-hydroxyphenyl)butanoic acid	Backbone
+dI	01A0	PEPTIDE	I00	(2~{R},3~{R})-2-amino-3-methylpentanoic acid	Backbone
+Dip	01A1	PEPTIDE	FAA	(2~{S})-2-amino-3,3-diphenylpropanoic acid	Backbone
+dK	01A2	PEPTIDE	K00	(2~{R})-2,6-diaminohexanoic acid	Backbone
+dL	01A3	PEPTIDE	L00	(2~{R})-2-amino-4-methylpentanoic acid	Backbone
+dM	01A4	PEPTIDE	M00	(2~{R})-2-amino-4-methylsulfanylbutanoic acid	Backbone
+dN	01A5	PEPTIDE	N00	(2~{R})-2,4-diamino-4-oxobutanoic acid	Backbone
+dDabN3	01A6	PEPTIDE	E01	(2~{R})-2-amino-4-azidobutanoic acid	Backbone
+dDapN3	01A7	PEPTIDE	S03	(2~{R})-2-amino-3-azidopropanoic acid	Backbone
+dOrnN3	01A8	PEPTIDE	K08	(2~{R})-2-amino-5-azidopentanoic acid	Backbone
+dNip	01A9	PEPTIDE	P04	(3~{S})-piperidine-3-carboxylic acid	Backbone
+dNle	01AA	PEPTIDE	K06	(2~{R})-2-aminohexanoic acid	Backbone
+dNva	01AB	PEPTIDE	E04	(2~{R})-2-aminopentanoic acid	Backbone
+DOPA	01AC	PEPTIDE	YA7	(2~{S})-2-amino-3-(3,4-dihydroxyphenyl)propanoic acid	Backbone
+dP	01AD	PEPTIDE	P00	(2~{R})-pyrrolidine-2-carboxylic acid	Backbone
+dPen	01AE	PEPTIDE	A03	(2~{S})-2-amino-3-methyl-3-sulfanylbutanoic acid	Backbone
+dPhg	01AF	PEPTIDE	F0B	(2~{R})-2-amino-2-phenylacetic acid	Backbone
+dPip	01B0	PEPTIDE	P08	(2~{R})-piperidine-2-carboxylic acid	Backbone
+dPra	01B1	PEPTIDE	D01	(2~{R})-2-aminopent-4-ynoic acid	Backbone
+dQ	01B2	PEPTIDE	Q00	(2~{R})-2,5-diamino-5-oxopentanoic acid	Backbone
+dR	01B3	PEPTIDE	R00	(2~{R})-2-amino-5-carbamimidamidopentanoic acid	Backbone
+dS	01B4	PEPTIDE	S00	(2~{R})-2-amino-3-hydroxypropanoic acid	Backbone
+dSec	01B5	PEPTIDE	S06	(2~{S})-2-amino-3-selanylpropanoic acid	Backbone
+dT	01B6	PEPTIDE	T00	(2~{R},3~{S})-2-amino-3-hydroxybutanoic acid	Backbone
+dTic	01B7	PEPTIDE	P0F	(3~{R})-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid	Backbone
+dTle	01B8	PEPTIDE	A04	(2~{R})-2-amino-3,3-dimethylbutanoic acid	Backbone
+dV	01B9	PEPTIDE	V00	(2~{R})-2-amino-3-methylbutanoic acid	Backbone
+dW	01BA	PEPTIDE	W00	(2~{R})-2-amino-3-(1~{H}-indol-3-yl)propanoic acid	Backbone
+dY	01BB	PEPTIDE	Y00	(2~{R})-2-amino-3-(4-hydroxyphenyl)propanoic acid	Backbone
+E	01BC	PEPTIDE	GLU	(2~{S})-2-aminopentanedioic acid	Backbone
+Env	01BD	PEPTIDE	VA6	(2~{S})-2-amino-3-ethylpentanoic acid	Backbone
+F	01BE	PEPTIDE	PHE	(2~{S})-2-amino-3-phenylpropanoic acid	Backbone
+AbuF3	01BF	PEPTIDE	DA0	(2~{S})-2-amino-4,4,4-trifluorobutanoic acid	Backbone
+PheF5	01C0	PEPTIDE	FB6	(2~{S})-2-amino-3-(2,3,4,5,6-pentafluorophenyl)propanoic acid	Backbone
+LeuF6	01C1	PEPTIDE	LAH	(2~{S})-2-amino-5,5,5-trifluoro-4-(trifluoromethyl)pentanoic acid	Backbone
+G	01C2	PEPTIDE	GLY	2-aminoacetic acid	Backbone
+gE	01C3	PEPTIDE	EA2	(2~{S})-2-aminopentanedioic acid	Backbone
+H	01C4	PEPTIDE	HIS	(2~{S})-2-amino-3-(1~{H}-imidazol-4-yl)propanoic acid	Backbone
+Hag	01C5	PEPTIDE	EA3	(2~{S})-2-aminohex-5-enoic acid	Backbone
+hC	01C6	PEPTIDE	CA1	(2~{S})-2-amino-4-sulfanylbutanoic acid	Backbone
+hE	01C7	PEPTIDE	EA4	(2~{S})-2-aminohexanedioic acid	Backbone
+hF	01C8	PEPTIDE	FAB	(2~{S})-2-amino-4-phenylbutanoic acid	Backbone
+hH	01C9	PEPTIDE	HA3	(2~{S})-2-amino-4-(1~{H}-imidazol-4-yl)butanoic acid	Backbone
+hhPra	01CA	PEPTIDE	KA9	(2~{S})-2-aminohept-6-ynoic acid	Backbone
+hK	01CB	PEPTIDE	KAA	(2~{S})-2,7-diaminoheptanoic acid	Backbone
+hL	01CC	PEPTIDE	LAF	(2~{S})-2-amino-5-methylhexanoic acid	Backbone
+hM	01CD	PEPTIDE	MA1	(2~{S})-2-amino-5-methylsulfanylpentanoic acid	Backbone
+hPra	01CE	PEPTIDE	EA5	(2~{S})-2-aminohex-5-ynoic acid	Backbone
+hQ	01CF	PEPTIDE	QA1	(2~{S})-2,6-diamino-6-oxohexanoic acid	Backbone
+hR	01D0	PEPTIDE	RA4	(2~{S})-2-amino-6-carbamimidamidohexanoic acid	Backbone
+hS	01D1	PEPTIDE	SA8	(2~{S})-2-amino-4-hydroxybutanoic acid	Backbone
+hW	01D2	PEPTIDE	WA2	(2~{S})-2-amino-4-(1~{H}-indol-3-yl)butanoic acid	Backbone
+hY	01D3	PEPTIDE	YA8	(2~{S})-2-amino-4-(4-hydroxyphenyl)butanoic acid	Backbone
+I	01D4	PEPTIDE	ILE	(2~{S},3~{S})-2-amino-3-methylpentanoic acid	Backbone
+Idc	01D5	PEPTIDE	FAC	(2~{S})-2,3-dihydro-1~{H}-indole-2-carboxylic acid	Backbone
+Iva	01D6	PEPTIDE	GA3	(2~{S})-2-amino-2-methylbutanoic acid	Backbone
+K	01D7	PEPTIDE	LYS	(2~{S})-2,6-diaminohexanoic acid	Backbone
+L	01D8	PEPTIDE	LEU	(2~{S})-2-amino-4-methylpentanoic acid	Backbone
+M	01D9	PEPTIDE	MET	(2~{S})-2-amino-4-methylsulfanylbutanoic acid	Backbone
+DapMe2	01DA	PEPTIDE	SA6	(2~{S})-2-amino-3-(dimethylamino)propanoic acid	Backbone
+LysMe2	01DB	PEPTIDE	KAC	(2~{S})-2-amino-6-(dimethylamino)hexanoic acid	Backbone
+LysMe3	01DC	PEPTIDE	KAD	[(5~{S})-5-amino-5-carboxypentyl]-trimethylazanium	Backbone
+LysMe	01DD	PEPTIDE	KAB	(2~{S})-2-amino-6-(methylamino)hexanoic acid	Backbone
+MO2	01DE	PEPTIDE	MA2	(2~{S})-2-amino-4-methylsulfonylbutanoic acid	Backbone
+Mse	01DF	PEPTIDE	MA3	(2~{S})-2-amino-4-methylselanylbutanoic acid	Backbone
+mTyr	01E0	PEPTIDE	FAF	(2~{S})-2-amino-3-(3-hydroxyphenyl)propanoic acid	Backbone
+N	01E1	PEPTIDE	ASN	(2~{S})-2,4-diamino-4-oxobutanoic acid	Backbone
+DabN3	01E2	PEPTIDE	EA1	(2~{S})-2-amino-4-azidobutanoic acid	Backbone
+DapN3	01E3	PEPTIDE	SA7	(2~{S})-2-amino-3-azidopropanoic acid	Backbone
+LysN3	01E4	PEPTIDE	KAE	(2~{S})-2-amino-6-azidohexanoic acid	Backbone
+OrnN3	01E5	PEPTIDE	KAI	(2~{S})-2-amino-5-azidopentanoic acid	Backbone
+NhexG	01E6	PEPTIDE	PX2	2-(hexylamino)acetic acid	Backbone
+Nip	01E7	PEPTIDE	PA2	(3~{R})-piperidine-3-carboxylic acid	Backbone
+Nle	01E8	PEPTIDE	KAF	(2~{S})-2-aminohexanoic acid	Backbone
+NMeA	01E9	PEPTIDE	AA3	(2~{S})-2-(methylamino)propanoic acid	Backbone
+NMeC	01EA	PEPTIDE	CA2	(2~{R})-2-(methylamino)-3-sulfanylpropanoic acid	Backbone
+NMeD	01EB	PEPTIDE	PA4	(2~{S})-2-(methylamino)butanedioic acid	Backbone
+dNMeA	01EC	PEPTIDE	A02	(2~{R})-2-(methylamino)propanoic acid	Backbone
+dNMeC	01ED	PEPTIDE	C03	(2~{S})-2-(methylamino)-3-sulfanylpropanoic acid	Backbone
+dNMeD	01EE	PEPTIDE	P05	(2~{R})-2-(methylamino)butanedioic acid	Backbone
+dNMeE	01EF	PEPTIDE	P06	(2~{R})-2-(methylamino)pentanedioic acid	Backbone
+dNMeF	01F0	PEPTIDE	F08	(2~{R})-2-(methylamino)-3-phenylpropanoic acid	Backbone
+dNMeH	01F1	PEPTIDE	H03	(2~{R})-3-(1~{H}-imidazol-4-yl)-2-(methylamino)propanoic acid	Backbone
+dNMeI	01F2	PEPTIDE	I03	(2~{R},3~{S})-3-methyl-2-(methylamino)pentanoic acid	Backbone
+dNMeK	01F3	PEPTIDE	K07	(2~{R})-6-amino-2-(methylamino)hexanoic acid	Backbone
+dNMeL	01F4	PEPTIDE	L07	(2~{R})-4-methyl-2-(methylamino)pentanoic acid	Backbone
+dNMeM	01F5	PEPTIDE	M03	(2~{R})-2-(methylamino)-4-methylsulfanylbutanoic acid	Backbone
+dNMeN	01F6	PEPTIDE	N02	(2~{R})-4-amino-2-(methylamino)-4-oxobutanoic acid	Backbone
+dNMeQ	01F7	PEPTIDE	Q03	(2~{R})-5-amino-2-(methylamino)-5-oxopentanoic acid	Backbone
+dNMeR	01F8	PEPTIDE	R03	(2~{R})-5-carbamimidamido-2-(methylamino)pentanoic acid	Backbone
+dNMeS	01F9	PEPTIDE	P07	(2~{R})-3-hydroxy-2-(methylamino)propanoic acid	Backbone
+dNMeT	01FA	PEPTIDE	T01	(2~{R},3~{R})-3-hydroxy-2-(methylamino)butanoic acid	Backbone
+dNMeV	01FB	PEPTIDE	V03	(2~{R})-3-methyl-2-(methylamino)butanoic acid	Backbone
+dNMeW	01FC	PEPTIDE	W04	(2~{R})-3-(1~{H}-indol-3-yl)-2-(methylamino)propanoic acid	Backbone
+dNMeY	01FD	PEPTIDE	Y03	(2~{R})-3-(4-hydroxyphenyl)-2-(methylamino)propanoic acid	Backbone
+NMeE	01FE	PEPTIDE	PA5	(2~{S})-2-(methylamino)pentanedioic acid	Backbone
+NMeF	01FF	PEPTIDE	FAJ	(2~{S})-2-(methylamino)-3-phenylpropanoic acid	Backbone
+NMeH	0200	PEPTIDE	HA5	(2~{S})-3-(1~{H}-imidazol-4-yl)-2-(methylamino)propanoic acid	Backbone
+NMeI	0201	PEPTIDE	IA3	(2~{S},3~{S})-3-methyl-2-(methylamino)pentanoic acid	Backbone
+NMeK	0202	PEPTIDE	KAG	(2~{S})-6-amino-2-(methylamino)hexanoic acid	Backbone
+NMeL	0203	PEPTIDE	LAI	(2~{S})-4-methyl-2-(methylamino)pentanoic acid	Backbone
+NMeM	0204	PEPTIDE	MA4	(2~{S})-2-(methylamino)-4-methylsulfanylbutanoic acid	Backbone
+NMeN	0205	PEPTIDE	NA2	(2~{S})-4-amino-2-(methylamino)-4-oxobutanoic acid	Backbone
+NMeNle	0206	PEPTIDE	PA6	(2~{S})-2-(methylamino)hexanoic acid	Backbone
+NMeQ	0207	PEPTIDE	QA2	(2~{S})-5-amino-2-(methylamino)-5-oxopentanoic acid	Backbone
+NMeR	0208	PEPTIDE	RA5	(2~{S})-5-carbamimidamido-2-(methylamino)pentanoic acid	Backbone
+NMeS	0209	PEPTIDE	PA8	(2~{S})-3-hydroxy-2-(methylamino)propanoic acid	Backbone
+NMeT	020A	PEPTIDE	TA2	(2~{S},3~{R})-3-hydroxy-2-(methylamino)butanoic acid	Backbone
+NMeV	020B	PEPTIDE	VA7	(2~{S})-3-methyl-2-(methylamino)butanoic acid	Backbone
+NMeW	020C	PEPTIDE	WA4	(2~{S})-3-(1~{H}-indol-3-yl)-2-(methylamino)propanoic acid	Backbone
+NMeY	020D	PEPTIDE	YAA	(2~{S})-3-(4-hydroxyphenyl)-2-(methylamino)propanoic acid	Backbone
+NPhEtG	020E	PEPTIDE	FX2	2-(2-phenylethylamino)acetic acid	Backbone
+Nty	020F	PEPTIDE	YAB	(2~{S})-3-(4-hydroxyphenyl)-2-nitramidopropanoic acid	Backbone
+Nva	0210	PEPTIDE	EA6	(2~{S})-2-aminopentanoic acid	Backbone
+Oic	0211	PEPTIDE	PA9	(2~{S},3~{a}~{S},7~{a}~{S})-2,3,3~{a},4,5,6,7,7~{a}-octahydro-1~{H}-indole-2-carboxylic acid	Backbone
+ThrOMe	0212	PEPTIDE	TA3	(2~{S},3~{R})-2-amino-3-methoxybutanoic acid	Backbone
+Orn	0213	PEPTIDE	KAH	(2~{S})-2,5-diaminopentanoic acid	Backbone
+P	0214	PEPTIDE	PRO	(2~{S})-pyrrolidine-2-carboxylic acid	Backbone
+mAF	0215	PEPTIDE	FAP	(2~{S})-2-amino-3-[3-(aminomethyl)phenyl]propanoic acid	Backbone
+Pen	0216	PEPTIDE	AA4	(2~{R})-2-amino-3-methyl-3-sulfanylbutanoic acid	Backbone
+pGlu	0217	PEPTIDE	PAA	(2~{S})-5-oxopyrrolidine-2-carboxylic acid	Backbone
+Phg	0218	PEPTIDE	FB7	(2~{S})-2-amino-2-phenylacetic acid	Backbone
+Pip	0219	PEPTIDE	PAB	(2~{S})-piperidine-2-carboxylic acid	Backbone
+Pra	021A	PEPTIDE	DA4	(2~{S})-2-aminopent-4-ynoic acid	Backbone
+Q	021B	PEPTIDE	GLN	(2~{S})-2,5-diamino-5-oxopentanoic acid	Backbone
+R	021C	PEPTIDE	ARG	(2~{S})-2-amino-5-carbamimidamidopentanoic acid	Backbone
+R5	021D	PEPTIDE	LAJ	(2~{R})-2-amino-2-methylhept-6-enoic acid	Backbone
+S	021E	PEPTIDE	SER	(2~{S})-2-amino-3-hydroxypropanoic acid	Backbone
+S5	021F	PEPTIDE	L08	(2~{S})-2-amino-2-methylhept-6-enoic acid	Backbone
+Sar	0220	PEPTIDE	GXD	2-(methylamino)acetic acid	Backbone
+Sec	0221	PEPTIDE	SAA	(2~{R})-2-amino-3-selanylpropanoic acid	Backbone
+STrp	0222	PEPTIDE	WA6	(2~{S})-2-amino-3-(1-benzothiophen-3-yl)propanoic acid	Backbone
+T	0223	PEPTIDE	THR	(2~{S},3~{R})-2-amino-3-hydroxybutanoic acid	Backbone
+Prot3OH	0224	PEPTIDE	PAU	(2~{S},3~{S})-3-hydroxypyrrolidine-2-carboxylic acid	Backbone
+Prot4NH2	0225	PEPTIDE	PAZ	(2~{S},4~{R})-4-aminopyrrolidine-2-carboxylic acid	Backbone
+Prot4F	0226	PEPTIDE	PAX	(2~{S},4~{R})-4-fluoropyrrolidine-2-carboxylic acid	Backbone
+Prot4OH	0227	PEPTIDE	PB1	(2~{S},4~{R})-4-hydroxypyrrolidine-2-carboxylic acid	Backbone
+Tba	0228	PEPTIDE	DA7	(2~{S})-2-amino-4,4-dimethylpentanoic acid	Backbone
+Thi	0229	PEPTIDE	FBD	(2~{S})-2-amino-3-thiophen-2-ylpropanoic acid	Backbone
+Thp	022A	PEPTIDE	GXE	4-aminothiane-4-carboxylic acid	Backbone
+Tic	022B	PEPTIDE	PB3	(3~{S})-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid	Backbone
+Tle	022C	PEPTIDE	AA5	(2~{S})-2-amino-3,3-dimethylbutanoic acid	Backbone
+Tza	022D	PEPTIDE	HA9	(2~{S})-2-amino-3-(1,3-thiazol-4-yl)propanoic acid	Backbone
+V	022E	PEPTIDE	VAL	(2~{S})-2-amino-3-methylbutanoic acid	Backbone
+W	022F	PEPTIDE	TRP	(2~{S})-2-amino-3-(1~{H}-indol-3-yl)propanoic acid	Backbone
+Wil	0230	PEPTIDE	HAA	(2~{S})-2-amino-3-(2,4-dioxopyrimidin-1-yl)propanoic acid	Backbone
+Y	0231	PEPTIDE	TYR	(2~{S})-2-amino-3-(4-hydroxyphenyl)propanoic acid	Backbone
+TyrOAl	0232	PEPTIDE	YAT	(2~{S})-2-amino-3-(4-prop-2-enoxyphenyl)propanoic acid	Backbone
+TyrOBn	0233	PEPTIDE	FBE	(2~{S})-2-amino-3-(4-phenylmethoxyphenyl)propanoic acid	Backbone
+TyrOcm	0234	PEPTIDE	YAW	(2~{S})-2-amino-3-[4-(carboxymethoxy)phenyl]propanoic acid	Backbone
+TyrOEt	0235	PEPTIDE	YAX	(2~{S})-2-amino-3-(4-ethoxyphenyl)propanoic acid	Backbone
+TyrOip	0236	PEPTIDE	YAY	(2~{S})-2-amino-3-(4-propan-2-yloxyphenyl)propanoic acid	Backbone
+TyrOMe	0237	PEPTIDE	YAZ	(2~{S})-2-amino-3-(4-methoxyphenyl)propanoic acid	Backbone
+alT	0238	PEPTIDE	TA1	(2~{S},3~{S})-2-amino-3-hydroxybutanoic acid	Backbone
+NibG	0239	PEPTIDE	LX0	2-(2-methylpropylamino)acetic acid	Backbone
+alI	023A	PEPTIDE	IA0	(2~{S},3~{R})-2-amino-3-methylpentanoic acid	Backbone
+NMeNva	023B	PEPTIDE	PA7	(2~{S})-2-(methylamino)pentanoic acid	Backbone
+Aoc	023C	PEPTIDE	KA4	(2~{S})-2-aminooctanoic acid	Backbone
+Anon	023D	PEPTIDE	KA3	(2~{S})-2-aminononanoic acid	Backbone
+NBuG	023E	PEPTIDE	PX1	2-(butylamino)acetic acid	Backbone
+NPrG	023F	PEPTIDE	GX8	2-(propylamino)acetic acid	Backbone
+Ndm	0240	PEPTIDE	DA3	(2~{S})-2-amino-4-(dimethylamino)-4-oxobutanoic acid	Backbone
+Qdm	0241	PEPTIDE	EA8	(2~{S})-2-amino-5-(dimethylamino)-5-oxopentanoic acid	Backbone
+Mpd	0242	PEPTIDE	FAE	(2~{S})-2-amino-3-(~{N}-methylanilino)propanoic acid	Backbone
+NMeBip	0243	PEPTIDE	FAI	(2~{S})-2-(methylamino)-3-(4-phenylphenyl)propanoic acid	Backbone
+NMePhe4Cl	0244	PEPTIDE	YA9	(2~{S})-3-(4-chlorophenyl)-2-(methylamino)propanoic acid	Backbone
+NMe2Nal	0245	PEPTIDE	FAH	(2~{S})-2-(methylamino)-3-naphthalen-2-ylpropanoic acid	Backbone
+NMemBip	0246	PEPTIDE	FAK	(2~{S})-2-(methylamino)-3-(3-phenylphenyl)propanoic acid	Backbone
+NMe1Nal	0247	PEPTIDE	WA3	(2~{S})-2-(methylamino)-3-naphthalen-1-ylpropanoic acid	Backbone
+NMeCha	0248	PEPTIDE	PA3	(2~{S})-3-cyclohexyl-2-(methylamino)propanoic acid	Backbone
+NMeoBip4Cl	0249	PEPTIDE	FAM	(2~{S})-3-[2-(4-chlorophenyl)phenyl]-2-(methylamino)propanoic acid	Backbone
+NMeoBip	024A	PEPTIDE	FAL	(2~{S})-2-(methylamino)-3-(2-phenylphenyl)propanoic acid	Backbone
+Amp	024B	PEPTIDE	LA5	(2~{S})-2-amino-3-(1-methylpiperidin-4-yl)propanoic acid	Backbone
+His3Me	024C	PEPTIDE	HA4	(2~{S})-2-amino-3-(3-methylimidazol-4-yl)propanoic acid	Backbone
+NMeAib	024D	PEPTIDE	AX2	2-methyl-2-(methylamino)propanoic acid	Backbone
+SerOMe	024E	PEPTIDE	SAB	(2~{S})-2-amino-3-methoxypropanoic acid	Backbone
+PraCH2Cl	024F	PEPTIDE	DA5	(2~{S})-2-amino-6-chlorohex-4-ynoic acid	Backbone
+PyD	0250	PEPTIDE	DA6	(2~{S})-2-amino-4-oxo-4-pyrrolidin-1-ylbutanoic acid	Backbone
+AspOBn	0251	PEPTIDE	FA5	(2~{S})-2-amino-4-oxo-4-phenylmethoxybutanoic acid	Backbone
+Trp7Cl	0252	PEPTIDE	WAK	(2~{S})-2-amino-3-(7-chloro-1~{H}-indol-3-yl)propanoic acid	Backbone
+Trp6Cl	0253	PEPTIDE	WAI	(2~{S})-2-amino-3-(6-chloro-1~{H}-indol-3-yl)propanoic acid	Backbone
+Ala2Ind	0254	PEPTIDE	LA1	(2~{S})-2-amino-3-(2,3-dihydro-1~{H}-inden-2-yl)propanoic acid	Backbone
+Bip34Cl2	0255	PEPTIDE	YA2	(2~{S})-2-amino-3-[4-(3,4-dichlorophenyl)phenyl]propanoic acid	Backbone
+Bip4Cl	0256	PEPTIDE	YA5	(2~{S})-2-amino-3-[4-(4-chlorophenyl)phenyl]propanoic acid	Backbone
+Bip3CONH2	0257	PEPTIDE	YA3	(2~{S})-2-amino-3-[4-(3-carbamoylphenyl)phenyl]propanoic acid	Backbone
+Bip3OH	0258	PEPTIDE	YA4	(2~{S})-2-amino-3-[4-(3-hydroxyphenyl)phenyl]propanoic acid	Backbone
+Phe4pm	0259	PEPTIDE	YAR	(2~{S})-2-amino-3-[4-(phosphonomethyl)phenyl]propanoic acid	Backbone
+Phe4NH2	025A	PEPTIDE	YAQ	(2~{S})-2-amino-3-(4-aminophenyl)propanoic acid	Backbone
+Phe4Gn	025B	PEPTIDE	YAN	(2~{S})-2-amino-3-(4-carbamimidamidophenyl)propanoic acid	Backbone
+Phe34mdio	025C	PEPTIDE	YAE	(2~{S})-2-amino-3-(1,3-benzodioxol-5-yl)propanoic acid	Backbone
+Phe3COOH	025D	PEPTIDE	FB1	3-[(2~{S})-2-amino-2-carboxyethyl]benzoic acid	Backbone
+Phe3ind3	025E	PEPTIDE	WA5	(2~{S})-2-amino-3-[3-(1~{H}-indol-3-yl)phenyl]propanoic acid	Backbone
+mBip	025F	PEPTIDE	FAD	(2~{S})-2-amino-3-(3-phenylphenyl)propanoic acid	Backbone
+Phe2CONH	0260	PEPTIDE	FAS	(2~{S})-2-amino-3-(2-carbamoylphenyl)propanoic acid	Backbone
+oBip4Cl	0261	PEPTIDE	FAO	(2~{S})-2-amino-3-[2-(4-chlorophenyl)phenyl]propanoic acid	Backbone
+oBip	0262	PEPTIDE	FAN	(2~{S})-2-amino-3-(2-phenylphenyl)propanoic acid	Backbone
+AlaPip4	0263	PEPTIDE	LA2	(2~{S})-2-amino-3-piperidin-4-ylpropanoic acid	Backbone
+AlaTHP4	0264	PEPTIDE	LA3	(2~{S})-2-amino-3-(oxan-4-yl)propanoic acid	Backbone
+AbuCN	0265	PEPTIDE	EA0	(2~{S})-2-amino-4-cyanobutanoic acid	Backbone
+hhPraCH2Cl	0266	PEPTIDE	K0A	(2~{R})-2-amino-8-chlorooct-6-ynoic acid	Backbone
+DT6	0267	PEPTIDE	K09	(2~{R})-2-amino-11-chloroundec-9-ynoic acid	Backbone
+2Inda	0268	PEPTIDE	FA1	(2~{S})-2-amino-3-indazol-2-ylpropanoic acid	Backbone
+1Thq	0269	PEPTIDE	FA0	(2~{S})-2-amino-3-(3,4-dihydro-2~{H}-quinolin-1-yl)propanoic acid	Backbone
+AlaPyz1	026A	PEPTIDE	SA2	(2~{S})-2-amino-3-pyrazol-1-ylpropanoic acid	Backbone
+dAspOBn	026B	PEPTIDE	F03	(2~{R})-2-amino-4-oxo-4-phenylmethoxybutanoic acid	Backbone
+dBip	026C	PEPTIDE	F05	(2~{R})-2-amino-3-(4-phenylphenyl)propanoic acid	Backbone
+dPhe4Cl	026D	PEPTIDE	Y04	(2~{R})-2-amino-3-(4-chlorophenyl)propanoic acid	Backbone
+dPhe4F	026E	PEPTIDE	Y05	(2~{R})-2-amino-3-(4-fluorophenyl)propanoic acid	Backbone
+dPhe4I	026F	PEPTIDE	Y06	(2~{R})-2-amino-3-(4-iodophenyl)propanoic acid	Backbone
+dPhe3CF3	0270	PEPTIDE	F09	(2~{R})-2-amino-3-[3-(trifluoromethyl)phenyl]propanoic acid	Backbone
+dPhe3Cl	0271	PEPTIDE	F0A	(2~{R})-2-amino-3-(3-chlorophenyl)propanoic acid	Backbone
+NEtCONH2G	0272	PEPTIDE	QX0	2-[(3-amino-3-oxopropyl)amino]acetic acid	Backbone
+AlaCarb3	0273	PEPTIDE	FX0	2-amino-3-(9~{H}-carbazol-3-yl)propanoic acid	Backbone
+Aic	0274	PEPTIDE	GX5	2-amino-1,3-dihydroindene-2-carboxylic acid	Backbone
+NPrNH2G	0275	PEPTIDE	GX9	2-(3-aminopropylamino)acetic acid	Backbone
+Pro34dehyd	0276	PEPTIDE	PAD	(2~{S})-2,5-dihydro-1~{H}-pyrrole-2-carboxylic acid	Backbone
+NEtIm4G	0277	PEPTIDE	HX0	2-[2-(1~{H}-imidazol-4-yl)ethylamino]acetic acid	Backbone
+N4ClPhEtG	0278	PEPTIDE	YX0	2-[2-(4-chlorophenyl)ethylamino]acetic acid	Backbone
+N4FPhEtG	0279	PEPTIDE	YX1	2-[2-(4-fluorophenyl)ethylamino]acetic acid	Backbone
+N4OHPhEtG	027A	PEPTIDE	YX2	2-[2-(4-hydroxyphenyl)ethylamino]acetic acid	Backbone
+N3ClPhEtG	027B	PEPTIDE	FX1	2-[2-(3-chlorophenyl)ethylamino]acetic acid	Backbone
+COOH	027C	PEPTIDE	9X0	formic acid	Backbone
+CH2	027D	PEPTIDE	AX1	methane	Backbone
+NH2	0281	PEPTIDE	9X1	azane	Backbone
+Phe345F3	0283	PEPTIDE	FAU	(2~{S})-2-amino-3-(3,4,5-trifluorophenyl)propanoic acid	Backbone
+AlaTet5	0284	PEPTIDE	HA1	(2~{S})-2-amino-3-(1~{H}-tetrazol-5-yl)propanoic acid	Backbone
+aEtP	0285	PEPTIDE	P01	(2~{S})-2-ethylpyrrolidine-2-carboxylic acid	Backbone
+DBSG	0286	PEPTIDE	F06	(2~{R})-2-amino-2-(2-tricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,12,14-hexaenyl)acetic acid	Backbone
+AbuF2	0287	PEPTIDE	LA0	(2~{S})-2-amino-4,4-difluorobutanoic acid	Backbone
+deHLeu	0288	PEPTIDE	DA2	(2~{S})-2-amino-4-methylpent-4-enoic acid	Backbone
+aMeNva	0289	PEPTIDE	G03	(2~{R})-2-amino-2-methylpentanoic acid	Backbone
+hhL	028A	PEPTIDE	LAE	(2~{S})-2-amino-6-methylheptanoic acid	Backbone
+Prot34c3	028B	PEPTIDE	PAQ	(3~{S},3~{a}~{S},6~{a}~{R})-1,2,3,3~{a},4,5,6,6~{a}-octahydrocyclopenta[c]pyrrole-3-carboxylic acid	Backbone
+Prot3Ph	028C	PEPTIDE	PAV	(2~{S},3~{R})-3-phenylpyrrolidine-2-carboxylic acid	Backbone
+Prot3Me	028D	PEPTIDE	PAT	(2~{S},3~{S})-3-methylpyrrolidine-2-carboxylic acid	Backbone
+Prot34CCl2	028E	PEPTIDE	PAR	(1~{S},2~{S},5~{R})-6,6-dichloro-3-azabicyclo[3.1.0]hexane-2-carboxylic acid	Backbone
+Prot34ip	028F	PEPTIDE	PAS	(1~{R},2~{S},5~{S})-6,6-dimethyl-3-azabicyclo[3.1.0]hexane-2-carboxylic acid	Backbone
+Proc3Ph	0290	PEPTIDE	PAI	(2~{S},3~{S})-3-phenylpyrrolidine-2-carboxylic acid	Backbone
+dProc3OH	0291	PEPTIDE	P0B	(2~{R},3~{S})-3-hydroxypyrrolidine-2-carboxylic acid	Backbone
+dProt34CH2	0292	PEPTIDE	P0C	(1~{R},2~{R},5~{S})-3-azabicyclo[3.1.0]hexane-2-carboxylic acid	Backbone
+dProc35c2	0293	PEPTIDE	P0A	(1~{S},3~{R},4~{R})-2-azabicyclo[2.2.1]heptane-3-carboxylic acid	Backbone
+dProt3Ph	0294	PEPTIDE	P0E	(2~{R},3~{S})-3-phenylpyrrolidine-2-carboxylic acid	Backbone
+dProt3OH	0295	PEPTIDE	P0D	(2~{R},3~{R})-3-hydroxypyrrolidine-2-carboxylic acid	Backbone
+TyrOCF2	0296	PEPTIDE	YAU	(2~{S})-2-amino-3-[4-(difluoromethoxy)phenyl]propanoic acid	Backbone
+TyrOCF3	0297	PEPTIDE	YAV	(2~{S})-2-amino-3-[4-(trifluoromethoxy)phenyl]propanoic acid	Backbone
+Tyr26Me2	0298	PEPTIDE	HA8	(2~{S})-2-amino-3-(4-hydroxy-2,6-dimethylphenyl)propanoic acid	Backbone
+SerOBn	0299	PEPTIDE	FBC	(2~{S})-2-amino-3-phenylmethoxypropanoic acid	Backbone
+Nle4OBn	029A	PEPTIDE	FAG	(2~{S})-2-amino-6-phenylmethoxyhexanoic acid	Backbone
+Proc34CH2	029B	PEPTIDE	PAG	(1~{R},2~{S},5~{S})-3-azabicyclo[3.1.0]hexane-2-carboxylic acid	Backbone
+Proc45CH2	029C	PEPTIDE	PAJ	(1~{S},3~{S},5~{S})-2-azabicyclo[3.1.0]hexane-3-carboxylic acid	Backbone
+Prot4Ph	029D	PEPTIDE	FBB	(2~{S},4~{S})-4-phenylpyrrolidine-2-carboxylic acid	Backbone
+Pro24CH2	029E	PEPTIDE	GXC	2-azabicyclo[2.1.1]hexane-1-carboxylic acid	Backbone
+Dbg	029F	PEPTIDE	IX0	2-amino-2-butylhexanoic acid	Backbone
+dTyrOCF2	02A0	PEPTIDE	Y07	(2~{R})-2-amino-3-[4-(difluoromethoxy)phenyl]propanoic acid	Backbone
+Pro33Me2	02A1	PEPTIDE	PAC	(2~{S})-3,3-dimethylpyrrolidine-2-carboxylic acid	Backbone
+Prot4Bn	02A2	PEPTIDE	FB9	(2~{S},4~{R})-4-benzylpyrrolidine-2-carboxylic acid	Backbone
+Prot4chex	02A3	PEPTIDE	PAW	(2~{S},4~{S})-4-cyclohexylpyrrolidine-2-carboxylic acid	Backbone
+Pro44Me2	02A4	PEPTIDE	PAE	(2~{S})-4,4-dimethylpyrrolidine-2-carboxylic acid	Backbone
+Proc4Ph	02A5	PEPTIDE	FB8	(2~{S},4~{R})-4-phenylpyrrolidine-2-carboxylic acid	Backbone
+Proc4SH	02A6	PEPTIDE	PAO	(2~{S},4~{S})-4-sulfanylpyrrolidine-2-carboxylic acid	Backbone
+Prot4Gn	02A7	PEPTIDE	PAY	(2~{S},4~{R})-4-carbamimidamidopyrrolidine-2-carboxylic acid	Backbone
+Proc4chex	02A8	PEPTIDE	PAK	(2~{S},4~{R})-4-cyclohexylpyrrolidine-2-carboxylic acid	Backbone
+Prot4OAcOH	02A9	PEPTIDE	PB0	(2~{S},4~{R})-4-(carboxymethoxy)pyrrolidine-2-carboxylic acid	Backbone
+Prot4OBn	02AA	PEPTIDE	FBA	(2~{S},4~{R})-4-phenylmethoxypyrrolidine-2-carboxylic acid	Backbone
+Proc5Ph	02AB	PEPTIDE	PAP	(2~{S},5~{R})-5-phenylpyrrolidine-2-carboxylic acid	Backbone
+Prot4SH	02AC	PEPTIDE	PB2	(2~{S},4~{R})-4-sulfanylpyrrolidine-2-carboxylic acid	Backbone
+Pro4c2	02AD	PEPTIDE	PAF	(6~{S})-5-azaspiro[2.4]heptane-6-carboxylic acid	Backbone
+LeuF3	02AE	PEPTIDE	SA9	(2~{S})-2-amino-5,5,5-trifluoro-4-methylpentanoic acid	Backbone
+AspMe2	02AF	PEPTIDE	AA1	(3~{S})-3-amino-2,2-dimethylbutanedioic acid	Backbone
+dPro4pip	02B0	PEPTIDE	P09	(3~{R})-2,8-diazaspiro[4.5]decane-3-carboxylic acid	Backbone
+dalI	02B1	PEPTIDE	I01	(2~{R},3~{S})-2-amino-3-methylpentanoic acid	Backbone
+dLeuF3	02B2	PEPTIDE	S05	(2~{R})-2-amino-5,5,5-trifluoro-4-methylpentanoic acid	Backbone
+AEEA	02B3	PEPTIDE	GX4	2-[2-(2-aminoethoxy)ethoxy]acetic acid	Backbone
+b2hF	02B4	PEPTIDE	FCV	(2~{R})-2-(aminomethyl)-3-phenylpropanoic acid	Backbone
+b3I	02B5	PEPTIDE	IA2	(3~{R},4~{S})-3-amino-4-methylhexanoic acid	Backbone
+b3hF	02B6	PEPTIDE	FCW	(3~{S})-3-amino-4-phenylbutanoic acid	Backbone
+b3Y	02B7	PEPTIDE	YA1	(3~{S})-3-amino-4-(4-hydroxyphenyl)butanoic acid	Backbone
+b3S	02B8	PEPTIDE	DA1	(3~{R})-3-amino-4-hydroxybutanoic acid	Backbone
+b3L	02B9	PEPTIDE	LA7	(3~{S})-3-amino-5-methylhexanoic acid	Backbone
+b3V	02BA	PEPTIDE	VA1	(3~{R})-3-amino-4-methylpentanoic acid	Backbone
+db3F	02BB	PEPTIDE	F04	(3~{R})-3-amino-4-phenylbutanoic acid	Backbone
+db3V	02BC	PEPTIDE	V02	(3~{S})-3-amino-4-methylpentanoic acid	Backbone
+PEG2diacid	02BD	CHEM	BX2	3-[2-(2-carboxyethoxy)ethoxy]propanoic acid	
+PEG25diacid	02BE	CHEM	BX1	PEG25diacid	
+PEG3NH2Acid	02BF	PEPTIDE	GXA	3-[2-[2-(2-aminoethoxy)ethoxy]ethoxy]propanoic acid	Backbone
+PEG6diNH2	02C0	CHEM	BX4	2-[2-[2-[2-[2-[2-(2-aminoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanamine	
+PEG6NH2acid	02C1	PEPTIDE	GXB	3-[2-[2-[2-[2-[2-(2-aminoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	Backbone
+PEG2diNH2	02C2	CHEM	BX3	2-[2-(2-aminoethoxy)ethoxy]ethanamine	
+PEG2OHacid	02C3	PEPTIDE	EX1	3-[2-(2-hydroxyethoxy)ethoxy]propanoic acid	Backbone
+Biotin	02C4	PEPTIDE	1X1	5-[(3~{a}~{S},4~{S},6~{a}~{R})-2-oxo-1,3,3~{a},4,6,6~{a}-hexahydrothieno[3,4-d]imidazol-4-yl]pentanoic acid	Backbone
+Ahx	02C5	PEPTIDE	KX0	6-aminohexanoic acid	Backbone
+PEG11diacid	02C6	CHEM	BX0	3-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-carboxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	
+5FITC	02C7	CHEM	9X3	5-(carbonobromidothioylamino)-2-(3-hydroxy-6-oxoxanthen-9-yl)benzoic acid	
+5FAM	02C8	CHEM	9X2	4-(3-hydroxy-6-oxoxanthen-9-yl)benzene-1,3-dicarboxylic acid	
+AF488COOH5	02C9	CHEM	9X4	4-(3-amino-6-imino-4,5-disulfoxanthen-9-yl)benzene-1,3-dicarboxylic acid	
+AF488COOH6	02CA	CHEM	9X5	2-(3-amino-6-imino-4,5-disulfoxanthen-9-yl)terephthalic acid	
+AlaCN	02D2	PEPTIDE	Y08	(2~{S})-2-amino-3-cyanopropanoic acid	Backbone
+AlTOBn	02D3	PEPTIDE	R04	(2~{S},3~{S})-2-amino-3-phenylmethoxybutanoic acid	Backbone
+b3R	02D4	PEPTIDE	W05	(3~{S})-3-amino-6-carbamimidamidohexanoic acid	Backbone
+Bip2OH	02D5	PEPTIDE	W06	(2~{S})-2-amino-3-[4-(2-hydroxyphenyl)phenyl]propanoic acid	Backbone
+d3Pal	02D6	PEPTIDE	F0C	(2~{R})-2-amino-3-pyridin-3-ylpropanoic acid	Backbone
+d4Pal	02D7	PEPTIDE	F0D	(2~{R})-2-amino-3-pyridin-4-ylpropanoic acid	Backbone
+dAca	02D8	PEPTIDE	K0B	(2~{R})-2-aminodecanoic acid	Backbone
+dAlaTri4	02D9	PEPTIDE	H04	(2~{R})-2-amino-3-(1~{H}-triazol-4-yl)propanoic acid	Backbone
+daMeChg	02DA	PEPTIDE	LAK	(2~{R})-2-amino-2-cyclohexylpropanoic acid	Backbone
+dBip2OH	02DB	PEPTIDE	Y09	(2~{R})-2-amino-3-[4-(2-hydroxyphenyl)phenyl]propanoic acid	Backbone
+dCit	02DC	PEPTIDE	R05	(2~{R})-2-amino-5-(carbamoylamino)pentanoic acid	Backbone
+dPhe34Cl2	02DD	PEPTIDE	Y0A	(2~{R})-2-amino-3-(3,4-dichlorophenyl)propanoic acid	Backbone
+dPhe34OMe2	02DE	PEPTIDE	Y0B	(2~{R})-2-amino-3-(3,4-dimethoxyphenyl)propanoic acid	Backbone
+dPhe4CH2NH2	02DF	PEPTIDE	Y0C	(2~{R})-2-amino-3-[4-(aminomethyl)phenyl]propanoic acid	Backbone
+dPhe4CN	02E0	PEPTIDE	Y0D	(2~{R})-2-amino-3-(4-cyanophenyl)propanoic acid	Backbone
+dPhe4COOH	02E1	PEPTIDE	Y0E	4-[(2~{R})-2-amino-2-carboxyethyl]benzoic acid	Backbone
+dTyrOBn	02E2	PEPTIDE	F0E	(2~{R})-2-amino-3-(4-phenylmethoxyphenyl)propanoic acid	Backbone
+dTyrOBn26Cl2	02E3	PEPTIDE	Y0F	(2~{R})-2-amino-3-[4-[(2,6-dichlorophenyl)methoxy]phenyl]propanoic acid	Backbone
+Glu2COOH	02E4	PEPTIDE	LAL	(3~{S})-3-aminopropane-1,1,3-tricarboxylic acid	Backbone
+GluOBn	02E5	PEPTIDE	FBG	(2~{S})-2-amino-5-oxo-5-phenylmethoxypentanoic acid	Backbone
+GluOMe	02E6	PEPTIDE	EA9	(2~{S})-2-amino-5-methoxy-5-oxopentanoic acid	Backbone
+N4CF3PhEtG	02E7	PEPTIDE	YX3	2-[2-[4-(trifluoromethyl)phenyl]ethylamino]acetic acid	Backbone
+NbipG	02E8	PEPTIDE	FX3	2-[(4-phenylphenyl)methylamino]acetic acid	Backbone
+NchaG	02E9	PEPTIDE	PX3	2-(cyclohexylmethylamino)acetic acid	Backbone
+NhEG	02EA	PEPTIDE	EX2	4-(carboxymethylamino)butanoic acid	Backbone
+NMePraCH2Cl	02EB	PEPTIDE	PB4	(2~{S})-6-chloro-2-(methylamino)hex-4-ynoic acid	Backbone
+NMeTyrOBn	02EC	PEPTIDE	FBH	(2~{S})-2-(methylamino)-3-(4-phenylmethoxyphenyl)propanoic acid	Backbone
+Phe24Cl2	02ED	PEPTIDE	HAB	(2~{S})-2-amino-3-(2,4-dichlorophenyl)propanoic acid	Backbone
+Phe2CF3	02EE	PEPTIDE	FBI	(2~{S})-2-amino-3-[2-(trifluoromethyl)phenyl]propanoic acid	Backbone
+Phe4CH2NH2	02EF	PEPTIDE	YB1	(2~{S})-2-amino-3-[4-(aminomethyl)phenyl]propanoic acid	Backbone
+Proc4OAcOH	02F0	PEPTIDE	PB5	(2~{S},4~{S})-4-(carboxymethoxy)pyrrolidine-2-carboxylic acid	Backbone
+SerOPO3	02F1	PEPTIDE	SAC	(2~{S})-2-amino-3-phosphonooxypropanoic acid	Backbone
+ThrOBn	02F2	PEPTIDE	FBJ	(2~{S},3~{R})-2-amino-3-phenylmethoxybutanoic acid	Backbone
+Trp7F	02F3	PEPTIDE	WAL	(2~{S})-2-amino-3-(7-fluoro-1~{H}-indol-3-yl)propanoic acid	Backbone
+TyrOPO3	02F4	PEPTIDE	YB2	(2~{S})-2-amino-3-(4-phosphonooxyphenyl)propanoic acid	Backbone
+dLysN3	02F5	PEPTIDE	K0C	(2~{R})-2-amino-6-azidohexanoic acid	Backbone
+BrAc	02F6	CHEM	BX5	2-bromoacetic acid	
+PEG3acidOMe	02F7	CHEM	1X2	3-[2-(2-methoxyethoxy)ethoxy]propanoic acid	
+PEG4NH2OMe	02F8	CHEM	9X6	2-[2-[2-(2-methoxyethoxy)ethoxy]ethoxy]ethanamine	
+PEGacidNH2	02F9	CHEM	BX6	3-(2-aminoethoxy)propanoic acid	
+PEGAcOHNH2	02FA	CHEM	BX7	2-(2-aminoethoxy)acetic acid	
+PEG2acidN3	02FB	CHEM	1X3	3-[2-(2-azidoethoxy)ethoxy]propanoic acid	
+cRCM	0302	CHEM	XXR	(~{Z})-but-2-ene	Undefined
+Prot4Tet	0303	PEPTIDE	PB7	(2~{S},4~{R})-4-(1~{H}-tetrazol-5-yl)pyrrolidine-2-carboxylic acid	Backbone
+Prot45CH2	0304	PEPTIDE	PB8	(1~{R},3~{S},5~{R})-2-azabicyclo[3.1.0]hexane-3-carboxylic acid	Backbone
+Prot3Pra	0305	PEPTIDE	PB9	(2~{S},3~{S})-3-prop-2-ynoxypyrrolidine-2-carboxylic acid	Backbone
+Prot3OAl	0306	PEPTIDE	PBA	(2~{S},3~{S})-3-prop-2-enoxypyrrolidine-2-carboxylic acid	Backbone
+dhhPraCH2Cl	0307	PEPTIDE	KAJ	(2~{S})-2-amino-8-chlorooct-6-ynoic acid	Backbone
+dApe	0308	PEPTIDE	L02	(2~{R})-2-aminopent-4-enoic acid	Backbone
+NMe2	0309	CHEM	9X8	~{N}-methylmethanamine	
+NHMe	030A	CHEM	9X9	methanamine	
+NHEt	030B	CHEM	9XA	ethanamine	
+NHBn	030C	CHEM	9XB	phenylmethanamine	
+NHPh	030D	CHEM	9X7	aniline	
+PhotoLeu	0313	PEPTIDE	DA8	(2~{S})-2-amino-3-(3-methyldiazirin-3-yl)propanoic acid	Backbone
+AlaPent	0314	PEPTIDE	DA9	(2~{S})-2-amino-3-(1-bicyclo[1.1.1]pentanyl)propanoic acid	Backbone
+Dap6	0315	PEPTIDE	CA3	(2~{S})-2-amino-3-[(4-hydroxy-6-methyl-1,3,5-triazin-2-yl)amino]propanoic acid	Backbone
+C7PEG2	0316	CHEM	1X4	2-(2-heptoxyethoxy)ethanamine	
+PEG2NH2c6Cl	0317	CHEM	1X5	2-[2-(6-chlorohexoxy)ethoxy]ethanamine	
+Thalidomide	0318	CHEM	1X6	2-[2-(2,6-dioxopiperidin-3-yl)-1,3-dioxoisoindol-4-yl]oxyacetic acid	
+C16	0319	CHEM	1X7	hexadecanoic acid	
+C4diacid	031A	CHEM	BX8	butanedioic acid	
+C8	031B	CHEM	1X8	octanoic acid	
+Ado	031C	CHEM	BX9	12-aminododecanoic acid	
+4PyrCH22CO	031D	CHEM	1X9	3-pyridin-4-ylpropanoic acid	
+5AzPent	031E	CHEM	1XA	5-azidopentanoic acid	
+4PyrCH23CO	031F	CHEM	1XB	4-pyridin-4-ylbutanoic acid	
+Mpa	0320	CHEM	BXA	3-sulfanylpropanoic acid	
+Ph4FCH22CO	0321	CHEM	1XC	3-(4-fluorophenyl)propanoic acid	
+Ph3FCH22CO	0322	CHEM	1XD	3-(3-fluorophenyl)propanoic acid	
+PhCH22CO	0323	CHEM	1XE	3-phenylpropanoic acid	Undefined
+3PyrCH22CO	0324	CHEM	1XF	3-pyridin-3-ylpropanoic acid	
+Cysteamine	0325	CHEM	BXB	2-aminoethanethiol	
+tRCM	0336	CHEM	BXC	(~{E})-but-2-ene	Undefined
+AspOMe	0337	PEPTIDE	DAA	(2~{S})-2-amino-4-methoxy-4-oxobutanoic acid	Backbone
+Aca8Gn	0338	PEPTIDE	RA6	(2~{S})-2-amino-10-carbamimidamidodecanoic acid	Backbone
+Ahp5Gn	0339	PEPTIDE	RA7	(2~{S})-2-amino-7-carbamimidamidoheptanoic acid	Backbone
+N3LysN3	033A	PEPTIDE	1XG	(2~{S})-2,6-diazidohexanoic acid	Backbone
+ArgMeMe	033B	PEPTIDE	KAK	(2~{S})-2-amino-5-[bis(methylamino)methylideneamino]pentanoic acid	Backbone
+hIle	033C	PEPTIDE	IA4	(2~{S},4~{S})-2-amino-4-methylhexanoic acid	Backbone
+Trp6OH	033D	PEPTIDE	DAB	(2~{S})-2-amino-3-(6-hydroxy-1~{H}-indol-3-yl)propanoic acid	Backbone
+Tyr3F	033E	PEPTIDE	YB3	(2~{S})-2-amino-3-(3-fluoro-4-hydroxyphenyl)propanoic acid	Backbone
+Tyr3OMe	033F	PEPTIDE	YB4	(2~{S})-2-amino-3-(4-hydroxy-3-methoxyphenyl)propanoic acid	Backbone
+NMePhe4F	0340	PEPTIDE	YB5	(2~{S})-3-(4-fluorophenyl)-2-(methylamino)propanoic acid	Backbone
+TyrOPh	0341	PEPTIDE	FBK	(2~{S})-2-amino-3-(4-phenoxyphenyl)propanoic acid	Backbone
+AlaInd4	0342	PEPTIDE	WAM	(2~{S})-2-amino-3-(1~{H}-indol-4-yl)propanoic acid	Backbone
+S3	0343	PEPTIDE	G05	(2~{S})-2-amino-2-methylpent-4-enoic acid	Backbone
+S4	0344	PEPTIDE	L09	(2~{S})-2-amino-2-methylhex-5-enoic acid	Backbone
+aMEMV	0345	PEPTIDE	LAD	(2~{R})-2-amino-2-(2-methoxyethoxymethyl)-3-methylbutanoic acid	Backbone
+Pip1yl	0346	PEPTIDE	1XH	piperidine	Backbone
+aMEMP	0347	PEPTIDE	P0G	(2~{R})-2-(2-methoxyethoxymethyl)pyrrolidine-2-carboxylic acid	Backbone
+R3	0348	PEPTIDE	GA4	(2~{R})-2-amino-2-methylpent-4-enoic acid	Backbone
+aCH2OHS	0349	PEPTIDE	GXF	2-amino-3-hydroxy-2-(hydroxymethyl)propanoic acid	Backbone
+agDap	034A	PEPTIDE	SAD	(2~{S})-2,3-diaminopropanoic acid	Backbone
+Pros4pip	034B	PEPTIDE	PBB	(3~{S})-2,8-diazaspiro[4.5]decane-3-carboxylic acid	Backbone
+Proc4N3	034C	PEPTIDE	PBC	(2~{S},4~{S})-4-azidopyrrolidine-2-carboxylic acid	Backbone
+Prot4N3	034D	PEPTIDE	PBD	(2~{S},4~{R})-4-azidopyrrolidine-2-carboxylic acid	Backbone
+Maleamide	034E	PEPTIDE	VX0	pyrrole-2,5-dione	Backbone
+PEG3NH2c6Cl	034F	CHEM	9XC	2-[2-[2-(6-chlorohexoxy)ethoxy]ethoxy]ethanamine	
+cHxc14diacid	0350	CHEM	BXD	cyclohexane-1,4-dicarboxylic acid	
+Terephthalyl	0351	CHEM	BXE	terephthalic acid	
+Isophthalyl	0352	CHEM	BXF	benzene-1,3-dicarboxylic acid	
+Phthalyl	0353	CHEM	BXG	phthalic acid	
+PEG4NH2c6Cl	0354	CHEM	9XD	2-[2-[2-[2-(6-chlorohexoxy)ethoxy]ethoxy]ethoxy]ethanamine	
+OEt	0355	CHEM	9XE	ethanol	
+Oxalyl	0356	CHEM	BXH	oxalic acid	
+cHexAc	0357	CHEM	1XI	2-cyclohexylacetic acid	
+C5diacid	0358	CHEM	BXI	pentanedioic acid	
+C7diacid	0359	CHEM	BXJ	heptanedioic acid	
+C8diacid	035A	CHEM	BXK	octanedioic acid	
+C10	035B	CHEM	1XJ	decanoic acid	
+C18diacid	035C	CHEM	BXL	octadecanedioic acid	
+4IPhBut	035D	CHEM	1XK	4-(4-iodophenyl)butanoic acid	
+PEG2NH2acid	035E	CHEM	BXM	3-[2-(2-aminoethoxy)ethoxy]propanoic acid	
+PEG10NH2acid	035F	CHEM	BXN	3-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-aminoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	
+Bodipy1	0360	CHEM	1XL	3-(2,2-difluoro-10,12-dimethyl-3-aza-1-azonia-2-boranuidatricyclo[7.3.0.0^{3,7}]dodeca-1(12),4,6,8,10-pentaen-4-yl)propanoic acid	Undefined
+ABMT	0361	CHEM	1XM	[4-(4-methyl-1,3-thiazol-5-yl)phenyl]methanamine	
+12Xyl	0362	CHEM	BXO	1,2-xylene	
+13Xyl	0363	CHEM	BXP	1,3-xylene	
+135Ph	0364	CHEM	BXQ	1,3,5-trimethylbenzene	
+Carbonyl	0365	CHEM	BXR	formaldehyde	
+2OxPr	0366	CHEM	BXS	3,3-dimethyloxetane	
+Hydrazide	0367	CHEM	BXT	2-hydroxy-~{N}'-(2-hydroxyacetyl)acetohydrazide	
+14Ph	0368	CHEM	BXU	1,4-xylene	
+44BiPh	0369	CHEM	BXV	1-methyl-4-(4-methylphenyl)benzene	
+26Nal	036A	CHEM	BXW	2,6-dimethylnaphthalene	
+26Py	036B	CHEM	BXX	2,6-dimethylpyridine	
+14Triazole	036C	CHEM	BXY	1~{H}-triazole	
+15Triazole	036D	CHEM	BXZ	1-chlorotriazole	
+TCO	038D	CHEM	1XN	[(4~{E})-cyclooct-4-en-1-yl] hydrogen carbonate	Undefined
+PEG4NH2acid	038E	CHEM	JX0	3-[2-[2-[2-(2-aminoethoxy)ethoxy]ethoxy]ethoxy]propanoic acid	
+agdDap	0391	PEPTIDE	S07	(2~{R})-2,3-diaminopropanoic acid	Backbone
+dChg	0392	PEPTIDE	V04	(2~{R})-2-amino-2-cyclohexylacetic acid	Backbone
+C16diacid	0393	PEPTIDE	JX2	hexadecanedioic acid	Backbone
+C18acid	0394	PEPTIDE	1XO	octadecanoic acid	Backbone
+C20diacid	0395	PEPTIDE	XXL	icosanedioic acid	Backbone
+Isobutylene	0396	CHEM	XXS	2-methylprop-1-ene	
+PEG12acidN3	0398	CHEM	XXT	3-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-azidoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	
+PEG10diacid	0399	CHEM	XXU	3-[2-[2-[2-[3-[2-[2-[2-[2-[2-(2-carboxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propoxy]ethoxy]ethoxy]ethoxy]propanoic acid	
+rA	039A	PEPTIDE	AX3	2-aminopropanoic acid	Backbone
+rL	039B	PEPTIDE	LX2	2-amino-4-methylpentanoic acid	Backbone
+rD	039C	PEPTIDE	DX0	2-aminobutanedioic acid	Backbone
+rS	039D	PEPTIDE	SX0	2-amino-3-hydroxypropanoic acid	Backbone
+rE	039E	PEPTIDE	EX3	2-aminopentanedioic acid	Backbone
+rK	039F	PEPTIDE	KX1	2,6-diaminohexanoic acid	Backbone
+rY	03A0	PEPTIDE	YX5	2-amino-3-(4-hydroxyphenyl)propanoic acid	Backbone
+rF	03A1	PEPTIDE	FXA	2-amino-3-phenylpropanoic acid	Backbone
+rV	03A2	PEPTIDE	VX1	2-amino-3-methylbutanoic acid	Backbone
+rNMeF	03A3	PEPTIDE	FXB	2-(methylamino)-3-phenylpropanoic acid	Backbone
+rBip	03A4	PEPTIDE	FXC	2-amino-3-(4-phenylphenyl)propanoic acid	Backbone
+rTic	03A5	PEPTIDE	PX6	1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid	Backbone
+rP	03A6	PEPTIDE	PX7	pyrrolidine-2-carboxylic acid	Backbone
+rN	03A7	PEPTIDE	NX0	2,4-diamino-4-oxobutanoic acid	Backbone
+rC	03A8	PEPTIDE	CX0	2-amino-3-sulfanylpropanoic acid	Backbone
+ArgMe	03A9	PEPTIDE	RA8	(2~{S})-2-amino-5-[(~{N}-methylcarbamimidoyl)amino]pentanoic acid	Backbone
+dDT6	03AA	PEPTIDE	KAL	(2~{S})-2-amino-11-chloroundec-9-ynoic acid	Backbone
+dTyrOAl	03AB	PEPTIDE	Y0G	(2~{R})-2-amino-3-(4-prop-2-enoxyphenyl)propanoic acid	Backbone
+mTyrOAl	03AC	PEPTIDE	FBL	(2~{S})-2-amino-3-(3-prop-2-enoxyphenyl)propanoic acid	Backbone
+NleAl	03AD	PEPTIDE	KAM	(2~{S})-2-aminonon-8-enoic acid	Backbone
+NvaAl	03AE	PEPTIDE	KAN	(2~{S})-2-aminooct-7-enoic acid	Backbone
+Phe3Al	03AF	PEPTIDE	FBM	(2~{S})-2-amino-3-(3-prop-2-enylphenyl)propanoic acid	Backbone
+SerOAl	03B0	PEPTIDE	DAC	(2~{S})-2-amino-3-prop-2-enoxypropanoic acid	Backbone
+Trp1Me2Al5F	03B1	PEPTIDE	HAC	(2~{S})-2-amino-3-(5-fluoro-1-methyl-2-prop-2-enylindol-3-yl)propanoic acid	Backbone
+NxG1	03B2	PEPTIDE	FX4	2-(3,3-diphenylpropylamino)acetic acid	Backbone
+NxG2	03B3	PEPTIDE	FX5	2-[2-(4-benzylpiperidin-1-yl)ethylamino]acetic acid	Backbone
+NxG3	03B4	PEPTIDE	FX6	2-[3-[(carboxymethylamino)methyl]phenyl]acetic acid	Backbone
+NxG4	03B5	PEPTIDE	WX0	2-[2-(1-methylindol-3-yl)ethylamino]acetic acid	Backbone
+NxG5	03B6	PEPTIDE	FX7	2-[(4-benzylphenyl)methylamino]acetic acid	Backbone
+NxG6	03B7	PEPTIDE	WX1	2-[[4-(1~{H}-indol-3-yl)phenyl]methylamino]acetic acid	Backbone
+NxG7	03B8	PEPTIDE	YX4	2-(2,1,3-benzoxadiazol-5-ylmethylamino)acetic acid	Backbone
+NxG8	03B9	PEPTIDE	WX2	2-[[3-(1~{H}-indol-3-ylmethyl)phenyl]methylamino]acetic acid	Backbone
+NxG9	03BA	PEPTIDE	FX8	2-[[3-(aminomethyl)phenyl]methylamino]acetic acid	Backbone
+NxG10	03BB	PEPTIDE	PX4	2-(2-cyclopentylethylamino)acetic acid	Backbone
+NxG11	03BC	PEPTIDE	LX1	2-(3-propan-2-yloxypropylamino)acetic acid	Backbone
+NxG12	03BD	PEPTIDE	PX5	2-(3-pyrrolidin-1-ylpropylamino)acetic acid	Backbone
+NxG13	03BE	PEPTIDE	FX9	2-[2-(2-phenoxyphenyl)ethylamino]acetic acid	Backbone
+4FPhcbu	03BF	PEPTIDE	1XS	2-(4-fluorophenyl)cyclobutane-1-carboxylic acid	Backbone
+PhC3Alk1	03C0	PEPTIDE	1A0	(2~{S})-2-[bis(3-phenylpropyl)amino]-6-chlorohex-4-ynoic acid	Backbone
+PhC3MeAlk1	03C1	PEPTIDE	1A1	(2~{S})-6-chloro-2-[methyl(3-phenylpropyl)amino]hex-4-ynoic acid	Backbone
+C5C5dialkene	03C2	PEPTIDE	GXG	2-amino-2-pent-4-enylhept-6-enoic acid	Backbone
+AlaSt	03C3	PEPTIDE	FBN	(~{E},2~{S})-2-amino-5-phenylpent-4-enoic acid	Backbone
+7Ind	03C4	PEPTIDE	WAN	(2~{S})-2-amino-3-(1~{H}-indol-7-yl)propanoic acid	Backbone
+4Quin6F	03C5	PEPTIDE	HAD	(2~{S})-2-amino-3-(6-fluoroquinolin-4-yl)propanoic acid	Backbone
+Tpi	03C6	PEPTIDE	WAO	(3~{S})-2,3,4,9-tetrahydro-1~{H}-pyrido[3,4-b]indole-3-carboxylic acid	Backbone
+Ac4cO	03C7	PEPTIDE	GXH	3-aminooxetane-3-carboxylic acid	Backbone
+Ac4cN	03C8	PEPTIDE	GXI	3-aminoazetidine-3-carboxylic acid	Backbone
+Ac6cOH	03C9	PEPTIDE	GXJ	1-amino-4-hydroxycyclohexane-1-carboxylic acid	Backbone
+C11NH2acid	03CA	CHEM	JX1	11-aminoundecanoic acid	
+C4NH2acid	03CD	CHEM	JX3	4-aminobutanoic acid	
+C5NH2acid	03CE	CHEM	JX4	5-aminopentanoic acid	
+C8NH2acid	03CF	CHEM	JX5	8-aminooctanoic acid	
+NxG14	03D0	CHEM	1XP	2-[(3,5-dimethoxyphenyl)-$l^{2}-azanyl]acetic acid	
+NxG15	03D1	CHEM	1XQ	2-[[(1~{S})-1-(4-methoxyphenyl)ethyl]-$l^{2}-azanyl]acetic acid	
+2Napht	03D2	CHEM	1XR	naphthalene-2-carboxylic acid	
+4FPhMe2	03D3	CHEM	1XT	3-(4-fluorophenyl)-2,2-dimethylpropanoic acid	
+4FPhcPr01	03D4	CHEM	1XU	1-[(4-fluorophenyl)methyl]cyclopropane-1-carboxylic acid	
+4FPhOMe2	03D5	CHEM	1XV	2-(4-fluorophenoxy)-2-methylpropanoic acid	
+IndC3	03D6	CHEM	1XW	3-(1~{H}-indol-3-yl)propanoic acid	
+N3C4acid	03D7	CHEM	9XF	4-azidobutanoic acid	
+ThalC6acid	03D8	CHEM	9XG	6-[2-(2,6-dioxopiperidin-3-yl)-1,3-dioxoisoindol-4-yl]oxyhexanoic acid	
+4FPhcPr02	03D9	CHEM	1XX	(1~{S},2~{S})-2-(4-fluorophenyl)cyclopropane-1-carboxylic acid	
+FPyrC3	03DA	CHEM	1XY	3-(6-fluoropyridin-3-yl)propanoic acid	
+CholicAcid	03DB	CHEM	1XZ	4-(3,7,12-trihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1~{H}-cyclopenta[a]phenanthren-17-yl)pentanoic acid	Undefined
+4FPhOC2	03DC	CHEM	GXO	2-(4-fluorophenoxy)acetic acid	
+pBA	03DD	CHEM	JX6	2-[4-(aminomethyl)phenyl]acetic acid	
+1NaphC2N	03DE	CHEM	9XH	2-naphthalen-1-ylethanamine	
+L4158389	03DF	CHEM	9XI	1-amino-4-(4-phenylphenyl)butan-2-ol	
+L605359	03E0	CHEM	9XJ	4-(aminomethyl)bicyclo[2.2.2]octane-1-carboxylic acid	Undefined
+L1362835	03E1	CHEM	9XK	1-aminocyclopropane-1-carbonitrile	
+L1806807	03E2	CHEM	9XL	2-amino-2-cyclohexylethanol	
+L81908	03E3	CHEM	9XM	3-(2-amino-1-hydroxypropyl)phenol	
+L618138	03E4	CHEM	9XN	2-(aminomethyl)-6-chloro-4-phenylphenol	
+bhcLeu	03FE	PEPTIDE	P0K	(1~{R},3~{S})-3-aminocyclopentane-1-carboxylic acid	Backbone
+dgE	03FF	PEPTIDE	E06	(2~{R})-2-aminopentanedioic acid	Backbone
+Cab	0400	PEPTIDE	EA7	(2~{S})-2-amino-4-[(2-chloroacetyl)amino]butanoic acid	Backbone
+Cal	0401	PEPTIDE	RA9	(2~{S})-2-amino-6-[(2-chloroacetyl)amino]hexanoic acid	Backbone
+Cao	0402	PEPTIDE	RAA	(2~{S})-2-amino-5-[(2-chloroacetyl)amino]pentanoic acid	Backbone
+Cap	0403	PEPTIDE	SAE	(2~{S})-2-amino-3-[(2-chloroacetyl)amino]propanoic acid	Backbone
+dalk1	0404	PEPTIDE	D02	(2~{R})-2-amino-6-chlorohex-4-ynoic acid	Backbone
+rLysN3	0405	PEPTIDE	KX3	2-amino-6-azidohexanoic acid	Backbone
+rR	0406	PEPTIDE	RX1	2-amino-5-carbamimidamidopentanoic acid	Backbone
+PEG12NH2acid	0407	CHEM	GXP	3-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-aminoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	
+Cav	040A	PEPTIDE	RAK	(2~{S})-2-amino-4-carbamimidamidooxybutanoic acid	Backbone
+Sta	040B	PEPTIDE	X02	(3~{S},4~{S})-4-amino-3-hydroxy-6-methylheptanoic acid	Backbone
+NMeTza	040C	PEPTIDE	HAE	(2~{S})-2-(methylamino)-3-(1,3-thiazol-4-yl)propanoic acid	Backbone
+NMe3Pal	040D	PEPTIDE	FBO	(2~{S})-2-(methylamino)-3-pyridin-3-ylpropanoic acid	Backbone
+NMe4Pal	040E	PEPTIDE	FBP	(2~{S})-2-(methylamino)-3-pyridin-4-ylpropanoic acid	Backbone
+NMeFuran	040F	PEPTIDE	PBE	(2~{S})-3-(furan-2-yl)-2-(methylamino)propanoic acid	Backbone
+rPrp4pip	0410	PEPTIDE	PX8	2,8-diazaspiro[4.5]decane-3-carboxylic acid	Backbone
+SerOPEG	0411	PEPTIDE	SAF	(2~{S})-2-amino-3-(2-methoxyethoxy)propanoic acid	Backbone
+ArgNO2	0412	PEPTIDE	RAB	(2~{S})-2-amino-5-[(~{N}-nitrocarbamimidoyl)amino]pentanoic acid	Backbone
+Prot4prg	0413	PEPTIDE	PBF	(2~{S},4~{R})-4-prop-2-ynylpyrrolidine-2-carboxylic acid	Backbone
+Proc4prg	0414	PEPTIDE	P0H	(2~{R},4~{S})-4-prop-2-ynylpyrrolidine-2-carboxylic acid	Backbone
+N2c3gnG	0415	PEPTIDE	RX0	2-[bis(3-carbamimidamidopropyl)amino]acetic acid	Backbone
+NMeCba	0416	PEPTIDE	PBG	(2~{S})-3-cyclobutyl-2-(methylamino)propanoic acid	Backbone
+Proc4Me	0417	PEPTIDE	PBH	(2~{S},4~{S})-4-methylpyrrolidine-2-carboxylic acid	Backbone
+Prot4Me	0418	PEPTIDE	PBI	(2~{S},4~{R})-4-methylpyrrolidine-2-carboxylic acid	Backbone
+Proc4Bn	0419	PEPTIDE	FBQ	(2~{S},4~{S})-4-benzylpyrrolidine-2-carboxylic acid	Backbone
+NMeMAF	041A	PEPTIDE	FBR	(2~{S})-3-[3-(aminomethyl)phenyl]-2-(methylamino)propanoic acid	Backbone
+W7aza	041B	PEPTIDE	HAF	(2~{S})-2-amino-3-(1~{H}-pyrrolo[2,3-b]pyridin-2-yl)propanoic acid	Backbone
+4MeTetrazinePhenylacetyl	041C	CHEM	GXV	2-[4-(6-methyl-1,2,4,5-tetrazin-3-yl)phenyl]acetic acid	
+TetrazinePhenylacetyl	041D	CHEM	YX8	2-[4-(1,2,4,5-tetrazin-3-yl)phenyl]acetic acid	
+rProc4Ph	041E	PEPTIDE	FXD	(4~{R})-4-phenylpyrrolidine-2-carboxylic acid	Backbone
+rProc4CPh	041F	PEPTIDE	FXE	(4~{R})-4-benzylpyrrolidine-2-carboxylic acid	Backbone
+rProt4Ph	0420	PEPTIDE	FXF	(4~{S})-4-phenylpyrrolidine-2-carboxylic acid	Backbone
+rProt3OH	0421	PEPTIDE	PX9	(3~{S})-3-hydroxypyrrolidine-2-carboxylic acid	Backbone
+rProc3OH	0422	PEPTIDE	PXA	(3~{R})-3-hydroxypyrrolidine-2-carboxylic acid	Backbone
+Phe4T	0423	PEPTIDE		4 tritiated phenylalanine	Backbone
+Fmoc	0424	PEPTIDE	XXM	9~{H}-fluoren-9-ylmethyl hydrogen carbonate	Backbone
+PEG8NH2acid	0425	PEPTIDE	XXN	3-[2-[2-[2-[2-[2-[2-[2-(2-aminoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	Backbone
+MO1	0426	PEPTIDE	MA7	(2~{S})-2-amino-4-methylsulfinylbutanoic acid	Backbone
+NMe2H	0427	PEPTIDE	HAJ	(2~{S})-2-(dimethylamino)-3-(1~{H}-imidazol-4-yl)propanoic acid	Backbone
+PEG5NH2acid	0428	PEPTIDE	XXO	3-[2-[2-[2-[2-(2-aminoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	Backbone
+Phe345OMe3	042A	PEPTIDE	FBS	(2~{S})-2-amino-3-(3,4,5-trimethoxyphenyl)propanoic acid	Backbone
+hSOMe	042B	PEPTIDE	MA5	(2~{S})-2-amino-4-methoxybutanoic acid	Backbone
+6HArg	042C	PEPTIDE	RAC	(2~{S})-2-amino-11-carbamimidamidoundecanoic acid	Backbone
+4HArg	042D	PEPTIDE	RAD	(2~{S})-2-amino-9-carbamimidamidononanoic acid	Backbone
+3HArg	042E	PEPTIDE	RAE	(2~{S})-2-amino-8-carbamimidamidooctanoic acid	Backbone
+NMeDap	042F	PEPTIDE	PBJ	(2~{S})-3-amino-2-(methylamino)propanoic acid	Backbone
+NMeDab	0430	PEPTIDE	PBK	(2~{S})-4-amino-2-(methylamino)butanoic acid	Backbone
+Prot3Ph4Br	0431	PEPTIDE	PBL	(2~{S},3~{R})-3-(4-bromophenyl)pyrrolidine-2-carboxylic acid	Backbone
+Prot3Nal2	0432	PEPTIDE	PBM	(2~{S},3~{R})-3-naphthalen-2-ylpyrrolidine-2-carboxylic acid	Backbone
+Prot3Bip4	0433	PEPTIDE	FBT	(2~{S},3~{R})-3-(4-phenylphenyl)pyrrolidine-2-carboxylic acid	Backbone
+dHag	0434	PEPTIDE	E05	(2~{R})-2-aminohex-5-enoic acid	Backbone
+Iidc	0435	PEPTIDE	FBU	(1~{S})-2,3-dihydro-1~{H}-isoindole-1-carboxylic acid	Backbone
+dIidc	0436	PEPTIDE	F0F	(1~{R})-2,3-dihydro-1~{H}-isoindole-1-carboxylic acid	Backbone
+1Amide	0437	CHEM	GXQ	carbamic acid	
+PEG2acidNMe3	0438	CHEM	EX5	2-[2-(2-carboxyethoxy)ethoxy]ethyl-trimethylazanium	
+Rtbp	0439	CHEM	FXH	4-[2-(4-methylpyridin-2-yl)pyridin-4-yl]butanoic acid;ruthenium(6+);[2-[4-(sulfomethyl)pyridin-2-yl]pyridin-4-yl]methanesulfonic acid	
+NF3EtArg	043D	PEPTIDE	1A2	(2~{S})-5-carbamimidamido-2-(2,2,2-trifluoroethylamino)pentanoic acid	Backbone
+Proc5Me	043F	PEPTIDE	PBN	(2~{S},5~{S})-5-methylpyrrolidine-2-carboxylic acid	Backbone
+Pyr	0440	PEPTIDE	PXF	pyrrolidine	Backbone
+Pro5Me	0441	PEPTIDE	PC3	(2~{S})-5-methylpyrrolidine-2-carboxylic acid	Backbone
+C6acidMe3	0442	CHEM	EX6	5-carboxypentyl(trimethyl)azanium	
+Pro4Me	0444	PEPTIDE	PC4	(2~{S})-4-methylpyrrolidine-2-carboxylic acid	Backbone
+AMTHF	0445	PEPTIDE	JX8	(2~{S},5~{R})-5-(aminomethyl)oxolane-2-carboxylic acid	Backbone
+AOPyA	0446	PEPTIDE	EX4	2-[(3~{R})-3-amino-2-oxopyrrolidin-1-yl]acetic acid	Backbone
+AOPiA	0447	PEPTIDE	KX2	2-[(3~{R})-3-amino-2-oxopiperidin-1-yl]acetic acid	Backbone
+Phe4ethynyl	0448	PEPTIDE	YB6	(2~{S})-2-amino-3-(4-ethynylphenyl)propanoic acid	Backbone
+Azaindo	0449	PEPTIDE	FBV	(2~{S})-2-amino-3-pyrrolo[2,3-c]pyridin-1-ylpropanoic acid	Backbone
+Furan	044A	PEPTIDE	FBW	(2~{S})-2-amino-3-(furan-2-yl)propanoic acid	Backbone
+GlyTHP4	044B	PEPTIDE	VA8	(2~{S})-2-amino-2-(oxan-4-yl)acetic acid	Backbone
+2Quin	044C	PEPTIDE	HAG	(2~{S})-2-amino-3-quinolin-2-ylpropanoic acid	Backbone
+AlaMph	044D	PEPTIDE	SAG	(2~{S})-2-amino-3-morpholin-4-ylpropanoic acid	Backbone
+3DBCO	044E	CHEM	RX2	~{N}-(6-hydroxyhexyl)-4-[5-[3-[(2~{S},4~{R})-4-hydroxy-2-(hydroxymethyl)pyrrolidin-1-yl]-3-oxopropyl]-3,4,5,13-tetrazatetracyclo[13.4.0.0^{2,6}.0^{7,12}]nonadeca-1(15),2(6),3,7(12),8,10,16,18-octaen-13-yl]-4-oxobutanamide	
+5DBCO	044F	CHEM	RX3	~{N}-(5-hydroxypentyl)-4-[5-[4-(5-hydroxypentylamino)-4-oxobutyl]-3,4,5,13-tetrazatetracyclo[13.4.0.0^{2,6}.0^{7,12}]nonadeca-1(15),2(6),3,7(12),8,10,16,18-octaen-13-yl]-4-oxobutanamide	
+CysAsp	0450	PEPTIDE	CA4	(2~{R})-2-[(3~{S})-3-amino-2,5-dioxopyrrolidin-1-yl]-3-sulfanylpropanoic acid	Backbone
+ArgOtBu	0451	PEPTIDE	RAF	(2~{S})-2-amino-5-[[~{N}-[(2-methylpropan-2-yl)oxy]carbamimidoyl]amino]pentanoic acid	Backbone
+Mph	0452	PEPTIDE	9XP	morpholine	Backbone
+NMePhe4CH2NH2	0453	PEPTIDE	YB7	(2~{S})-3-[4-(aminomethyl)phenyl]-2-(methylamino)propanoic acid	Backbone
+NMePhe4GnMeMe	0454	PEPTIDE	YB8	(2~{S})-3-[4-[bis(methylamino)methylideneamino]phenyl]-2-(methylamino)propanoic acid	Backbone
+NMeOrn	0455	PEPTIDE	PBQ	(2~{S})-5-amino-2-(methylamino)pentanoic acid	Backbone
+NMeHly	0456	PEPTIDE	KAO	(2~{S})-7-amino-2-(methylamino)heptanoic acid	Backbone
+NMePhe4OCF2	0457	PEPTIDE	YB9	(2~{S})-3-[4-(difluoromethoxy)phenyl]-2-(methylamino)propanoic acid	Backbone
+4nMor	0458	PEPTIDE	PXB	2-morpholin-2-ylacetic acid	Backbone
+2moPyr	0459	PEPTIDE	PXC	2-[[(2~{R})-pyrrolidin-2-yl]methoxy]acetic acid	Backbone
+Pp	045A	PEPTIDE	GXR	propanoic acid	Backbone
+25mFur	045B	PEPTIDE	JX7	5-(aminomethyl)furan-2-carboxylic acid	Backbone
+2oAze	045C	PEPTIDE	JX9	2-(azetidin-3-yloxy)acetic acid	Backbone
+LysIbup	045D	PEPTIDE	RAH	(2~{S})-2-amino-6-[2-[4-(2-methylpropyl)phenyl]propanoylamino]hexanoic acid	Backbone
+LysIbuf	045E	PEPTIDE	RAI	(2~{S})-2-amino-6-[[2-[4-(2-methylpropyl)phenyl]acetyl]amino]hexanoic acid	Backbone
+Pros45c3	045F	PEPTIDE	PBS	(2~{S},3~{a}~{S},6~{a}~{S})-1,2,3,3~{a},4,5,6,6~{a}-octahydrocyclopenta[b]pyrrole-2-carboxylic acid	Backbone
+NMe3Quin	0460	PEPTIDE	FBX	(2~{S})-2-(methylamino)-3-quinolin-3-ylpropanoic acid	Backbone
+NMeAAl	0461	PEPTIDE	1A3	(2~{S})-2-(prop-2-enylamino)propanoic acid	Backbone
+Pro44F2	0462	PEPTIDE	PBT	(2~{S})-4,4-difluoropyrrolidine-2-carboxylic acid	Backbone
+Pros3CF3	0463	PEPTIDE	PBU	(2~{S},4~{S})-4-(trifluoromethyl)pyrrolidine-2-carboxylic acid	Backbone
+TrpCH2COOH	0464	PEPTIDE	WAP	(2~{S})-2-amino-3-[1-(carboxymethyl)indol-3-yl]propanoic acid	Backbone
+SerOEt	0465	PEPTIDE	SAH	(2~{S})-2-amino-3-ethoxypropanoic acid	Backbone
+Pror5Me	0466	PEPTIDE	PBO	(2~{S},5~{R})-5-methylpyrrolidine-2-carboxylic acid	Backbone
+TrpN6az	0467	PEPTIDE	FBY	(2~{S})-2-amino-3-pyrrolo[3,2-c]pyridin-1-ylpropanoic acid	Backbone
+NC2NH2Ala	0468	PEPTIDE	AA6	(2~{S})-2-(2-aminoethylamino)propanoic acid	Backbone
+Proc45c3	0469	PEPTIDE	PBW	(2~{S},3~{a}~{R},6~{a}~{R})-1,2,3,3~{a},4,5,6,6~{a}-octahydrocyclopenta[b]pyrrole-2-carboxylic acid	Backbone
+NMePhe3Allyl	046A	PEPTIDE	FBZ	(2~{S})-2-(methylamino)-3-(3-prop-2-enylphenyl)propanoic acid	Backbone
+Phe3AcOH	046B	PEPTIDE	FC0	(2~{S})-2-amino-3-[3-(carboxymethyl)phenyl]propanoic acid	Backbone
+dPhe3AcOH	046C	PEPTIDE	F0I	(2~{R})-2-amino-3-[3-(carboxymethyl)phenyl]propanoic acid	Backbone
+Phe3AcOMe	046D	PEPTIDE	FC1	(2~{S})-2-amino-3-[3-(2-methoxy-2-oxoethyl)phenyl]propanoic acid	Backbone
+dPhe3AcOMe	046E	PEPTIDE	F0G	(2~{R})-2-amino-3-[3-(2-methoxy-2-oxoethyl)phenyl]propanoic acid	Backbone
+Phe3COOMe	046F	PEPTIDE	FC2	(2~{S})-2-amino-3-(3-methoxycarbonylphenyl)propanoic acid	Backbone
+dPhe3COOMe	0470	PEPTIDE	F0H	(2~{R})-2-amino-3-(3-methoxycarbonylphenyl)propanoic acid	Backbone
+2Quinox	0471	PEPTIDE	HAH	(2~{S})-2-amino-3-quinoxalin-2-ylpropanoic acid	Backbone
+d2Quinox	0472	PEPTIDE	H05	(2~{R})-2-amino-3-quinoxalin-2-ylpropanoic acid	Backbone
+cTzPyr	0473	PEPTIDE	MA6	(3~{R},6~{S},8~{a}~{S})-6-amino-5-oxo-2,3,6,7,8,8~{a}-hexahydro-[1,3]thiazolo[3,2-a]pyridine-3-carboxylic acid	Backbone
+c3amCb1c	0474	PEPTIDE	JXA	3-(aminomethyl)cyclobutane-1-carboxylic acid	Backbone
+2AzAc	0475	PEPTIDE	GXS	2-azidoacetic acid	Backbone
+t3amCb1c	0476	PEPTIDE	JXB	3-(aminomethyl)cyclobutane-1-carboxylic acid	Backbone
+2amTz5c	0477	PEPTIDE	JXC	2-(aminomethyl)-1,3-thiazole-5-carboxylic acid	Backbone
+Phe4CH2NHAc	0478	PEPTIDE	YBA	(2~{S})-3-[4-(acetamidomethyl)phenyl]-2-aminopropanoic acid	Backbone
+Phe4NHAc	0479	PEPTIDE	YBB	(2~{S})-3-(4-acetamidophenyl)-2-aminopropanoic acid	Backbone
+NHpropargyl	047A	PEPTIDE	9XX	prop-2-yn-1-amine	Backbone
+3Quin	047B	PEPTIDE	FC3	(2~{S})-2-amino-3-quinolin-3-ylpropanoic acid	Backbone
+SerOAc	047C	PEPTIDE	SAI	(2~{S})-3-acetyloxy-2-aminopropanoic acid	Backbone
+SerOc10	047D	PEPTIDE	LAG	(2~{S})-2-amino-3-decoxypropanoic acid	Backbone
+Trp5FNAl	047E	PEPTIDE	WAQ	(2~{S})-2-amino-3-(5-fluoro-1-prop-2-enylindol-3-yl)propanoic acid	Backbone
+ThrOPO3	047F	PEPTIDE	TA4	(2~{S},3~{R})-2-amino-3-phosphonooxybutanoic acid	Backbone
+Trp4Br	0480	PEPTIDE	WAR	(2~{S})-2-amino-3-(4-bromo-1~{H}-indol-3-yl)propanoic acid	Backbone
+Trp4Cl	0481	PEPTIDE	WAS	(2~{S})-2-amino-3-(4-chloro-1~{H}-indol-3-yl)propanoic acid	Backbone
+Trp4F	0482	PEPTIDE	WAT	(2~{S})-2-amino-3-(4-fluoro-1~{H}-indol-3-yl)propanoic acid	Backbone
+CysSAl	0483	PEPTIDE	SAJ	(2~{R})-2-amino-3-prop-2-enylsulfanylpropanoic acid	Backbone
+PipAl	0484	PEPTIDE	QX1	4-amino-1-prop-2-enylpiperidine-4-carboxylic acid	Backbone
+PipdiAcOH	0485	PEPTIDE	GXK	4-amino-1,1-bis(carboxymethyl)piperidin-1-ium-4-carboxylic acid	Backbone
+pcP	0486	PEPTIDE	PBX	(4~{R})-1,3-thiazolidine-4-carboxylic acid	Backbone
+AdmG	0487	PEPTIDE	SAK	(2~{S})-2-(1-adamantyl)-2-aminoacetic acid	Backbone
+LysN1Nal	0488	PEPTIDE	RAG	(2~{S})-2-amino-6-(naphthalene-1-carbonylamino)hexanoic acid	Backbone
+NxG16	0489	PEPTIDE	YX6	2-[4-[(carboxymethylamino)methyl]phenyl]acetic acid	Backbone
+dAhp	048A	PEPTIDE	K0D	(2~{R})-2-aminoheptanoic acid	Backbone
+TyrOBn26Cl2	048B	PEPTIDE	YBC	(2~{S})-2-amino-3-[4-[(2,6-dichlorophenyl)methoxy]phenyl]propanoic acid	Backbone
+LysNip	048C	PEPTIDE	KAP	(2~{S})-2-amino-6-(propan-2-ylamino)hexanoic acid	Backbone
+GluOAl	048D	PEPTIDE	EAA	(2~{S})-2-amino-5-oxo-5-prop-2-enoxypentanoic acid	Backbone
+Bip4Me	048E	PEPTIDE	YBD	(2~{S})-2-amino-3-[4-(4-methylphenyl)phenyl]propanoic acid	Backbone
+Phe4N3	048F	PEPTIDE	YBE	(2~{S})-2-amino-3-(4-azidophenyl)propanoic acid	Backbone
+Trp5FNPra	0490	PEPTIDE	WAU	(2~{S})-2-amino-3-(1-ethynyl-5-fluoroindol-3-yl)propanoic acid	Backbone
+Phe23Cl2	0491	PEPTIDE	FC4	(2~{S})-2-amino-3-(2,3-dichlorophenyl)propanoic acid	Backbone
+Phg4OH	0492	PEPTIDE	Y0H	(2~{R})-2-amino-2-(4-hydroxyphenyl)acetic acid	Backbone
+r2Quin	0493	PEPTIDE	HX1	2-amino-3-quinolin-2-ylpropanoic acid	Backbone
+Phe2CH2NH2	0494	PEPTIDE	FC5	(2~{S})-2-amino-3-[2-(aminomethyl)phenyl]propanoic acid	Backbone
+Ph2FCH22CO	0495	PEPTIDE	GXT	3-(2-fluorophenyl)propanoic acid	Backbone
+NHPrNH2	0496	PEPTIDE	JXE	propane-1,3-diamine	Backbone
+Bn4OMe	0497	PEPTIDE	9XR	1-methoxy-4-methylbenzene	Backbone
+Amba	0498	PEPTIDE	JXF	3-(aminomethyl)benzoic acid	Backbone
+A647	0499	PEPTIDE	YX7	1-(5-carboxypentyl)-2-[5-[3,3-dimethyl-5-sulfo-1-(3-sulfopropyl)-2~{H}-indol-2-yl]pentyl]-3-methyl-3-(4-sulfobutyl)indol-1-ium-5-sulfonate	Backbone
+Azba	049A	PEPTIDE	JXG	4-hydrazinylbenzoic acid	Backbone
+Apbipa	049B	PEPTIDE	JXH	4-(4-aminophenyl)benzoic acid	Backbone
+PyreneAcid	049C	PEPTIDE	WX3	4-pyren-1-ylbutanoic acid	Backbone
+rcPeA	049D	PEPTIDE	LX3	2-amino-3-cyclopentylpropanoic acid	Backbone
+dAzaindo	049E	PEPTIDE	F0J	(2~{R})-2-amino-3-pyrrolo[2,3-c]pyridin-1-ylpropanoic acid	Backbone
+F4NO2	049F	PEPTIDE	YBF	(2~{S})-2-amino-3-(4-nitrophenyl)propanoic acid	Backbone
+KFlavin8581triazolyl	04A0	PEPTIDE	KAQ	(2~{S})-2-amino-6-[4-[2-[2-[2-(2,4-dioxobenzo[g]pteridin-10-yl)ethoxy]ethoxy]ethoxymethyl]triazol-1-yl]hexanoic acid	Backbone
+KFlavin6580triazolyl	04A1	PEPTIDE	KAR	(2~{S})-2-amino-6-[4-[4-[7,8-dimethyl-2,4-dioxo-10-[(2~{S},3~{S},4~{R})-2,3,4,5-tetraacetyloxypentyl]benzo[g]pteridin-3-yl]butyl]triazol-1-yl]hexanoic acid	Backbone
+KFlavin8580triazolyl	04A2	PEPTIDE	KAS	(2~{S})-2-amino-6-[4-[[7,8-dimethyl-2,4-dioxo-10-[(2~{R},3~{R},4~{S})-2,3,4,5-tetraacetyloxypentyl]benzo[g]pteridin-3-yl]methyl]triazol-1-yl]hexanoic acid	Backbone
+KFlavin8582-triazolyl	04A3	PEPTIDE	KAT	(2~{S})-2-amino-6-[4-[2-[2-[2-(7-bromo-2,4-dioxobenzo[g]pteridin-10-yl)ethoxy]ethoxy]ethoxymethyl]triazol-1-yl]hexanoic acid	Backbone
+Pro4SOEt	04A4	PEPTIDE	PBY	(2~{S},4~{R})-4-ethoxypyrrolidine-2-carboxylic acid	Backbone
+Pro4SOMe	04A5	PEPTIDE	PBZ	(2~{S},4~{R})-4-methoxypyrrolidine-2-carboxylic acid	Backbone
+Mpa2cPr	04A6	PEPTIDE	CX1	1-(sulfanylmethyl)cyclopropane-1-carboxylic acid	Backbone
+Pro55Me2	04A7	PEPTIDE	PC0	(2~{S})-5,5-dimethylpyrrolidine-2-carboxylic acid	Backbone
+Phe4CHF2	04A8	PEPTIDE	YBG	(2~{S})-2-amino-3-[4-(difluoromethyl)phenyl]propanoic acid	Backbone
+NEtAla	04A9	PEPTIDE	AA7	(2~{S})-2-(ethylamino)propanoic acid	Backbone
+2BtzAla	04AA	PEPTIDE	FC6	(2~{S})-2-amino-3-(1,3-benzothiazol-2-yl)propanoic acid	Backbone
+Pro3SOMe	04AB	PEPTIDE	PC1	(2~{S},3~{S})-3-methoxypyrrolidine-2-carboxylic acid	Backbone
+Maa	04AC	PEPTIDE	GXU	2-sulfanylacetic acid	Backbone
+dProt34C3	04AD	PEPTIDE	P0I	(3~{R},3~{a}~{R},6~{a}~{S})-1,2,3,3~{a},4,5,6,6~{a}-octahydrocyclopenta[c]pyrrole-3-carboxylic acid	Backbone
+dAzet3Ph	04AE	PEPTIDE	F0K	(2~{R},3~{R})-3-phenylazetidine-2-carboxylic acid	Backbone
+Spg4OPK2	04AF	PEPTIDE	GXN	3-aminooxolane-3-carboxylic acid	Backbone
+Azet3Ph	04B0	PEPTIDE	FC7	(2~{S},3~{S})-3-phenylazetidine-2-carboxylic acid	Backbone
+Aze33Me2	04B1	PEPTIDE	AA8	(2~{S})-3,3-dimethylazetidine-2-carboxylic acid	Backbone
+dmBip	04B2	PEPTIDE	F0L	(2~{R})-2-amino-3-(3-phenylphenyl)propanoic acid	Backbone
+dmNle	04B3	PEPTIDE	P0J	(2~{R})-2-(methylamino)hexanoic acid	Backbone
+transamcpr	04B4	PEPTIDE	G07	(1~{S},2~{S})-2-(aminomethyl)cyclopropane-1-carboxylic acid	Backbone
+spiro55	04B5	PEPTIDE	PXD	1-oxa-7-azaspiro[4.4]nonane-2-carboxylic acid	Backbone
+spiro54	04B6	PEPTIDE	PXE	5-oxa-2-azaspiro[3.4]octane-6-carboxylic acid	Backbone
+NMePhe4Gn	04B7	PEPTIDE	YBH	(2~{S})-3-[4-(diaminomethylideneamino)phenyl]-2-(methylamino)propanoic acid	Backbone
+spiro44	04B8	PEPTIDE	JXK	2-azaspiro[3.3]heptane-6-carboxylic acid	Backbone
+Rmcysteamine	04B9	PEPTIDE	9XV	(2~{R})-2-aminopropane-1-thiol	Backbone
+Smcysteamine	04BA	PEPTIDE	9XW	(2~{S})-2-aminopropane-1-thiol	Backbone
+amBCP	04BB	PEPTIDE	JXL	3-(aminomethyl)bicyclo[1.1.1]pentane-1-carboxylic acid	Backbone
+124triazole	04BC	PEPTIDE	JXM	(2~{S})-2-[3-[(1~{S})-1-aminobutyl]-1,2,4-triazol-4-yl]-3-phenylpropanoic acid	Backbone
+Phe4cPyrr	04BD	PEPTIDE	YBI	(2~{S})-2-amino-3-[4-(pyrrolidin-1-ylmethyl)phenyl]propanoic acid	Backbone
+Phe4cMph	04BE	PEPTIDE	YBJ	(2~{S})-2-amino-3-[4-(morpholin-4-ylmethyl)phenyl]propanoic acid	Backbone
+Phe4Gnc2	04BF	PEPTIDE	YBK	(2~{S})-2-amino-3-[4-(4,5-dihydro-1~{H}-imidazol-2-ylamino)phenyl]propanoic acid	Backbone
+cHxc1acid4NH2	04C0	PEPTIDE	JXO	4-aminocyclohexane-1-carboxylic acid	Backbone
+dbhcLeu	04C1	PEPTIDE	XX0	(1~{S},3~{R})-3-aminocyclopentane-1-carboxylic acid	Backbone
+2RMePEGAcOHNH2	04C2	PEPTIDE	XX1	2-[(2~{R})-2-aminopropoxy]acetic acid	Backbone
+2SMePEGAcOHNH2	04C3	PEPTIDE	XX2	2-[(2~{S})-2-aminopropoxy]acetic acid	Backbone
+2Me2PEGAcOHNH2	04C4	PEPTIDE	XX3	2-(2-amino-2-methylpropoxy)acetic acid	Backbone
+OrnNimid	04C5	PEPTIDE	RAJ	(2~{S})-2-amino-5-(1~{H}-imidazol-2-ylamino)pentanoic acid	Backbone
+NvaMph	04C6	PEPTIDE	KAU	(2~{S})-2-amino-5-morpholin-4-ylpentanoic acid	Backbone
+NvaPyz	04C7	PEPTIDE	KAV	(2~{S})-2-amino-5-pyrazol-1-ylpentanoic acid	Backbone
+NvaImid	04C8	PEPTIDE	KAW	(2~{S})-2-amino-5-imidazol-1-ylpentanoic acid	Backbone
+dAlaPip4	04C9	PEPTIDE	L0B	(2~{R})-2-amino-3-piperidin-4-ylpropanoic acid	Backbone
+Phe4CH2NMe2	04CA	PEPTIDE	YBL	(2~{S})-2-amino-3-[4-[(dimethylamino)methyl]phenyl]propanoic acid	Backbone
+NMePhe4CH2NMe3	04CB	PEPTIDE	YBM	[4-[(2~{S})-2-carboxy-2-(methylamino)ethyl]phenyl]methyl-trimethylazanium	Backbone
+NMePhe4CH2NMe2	04CC	PEPTIDE	YBN	(2~{S})-3-[4-[(dimethylamino)methyl]phenyl]-2-(methylamino)propanoic acid	Backbone
+NMeApe	04CD	PEPTIDE	PC5	(2~{S})-2-(methylamino)pent-4-enoic acid	Backbone
+3Pal4NH2	04CE	PEPTIDE	YBO	(2~{S})-2-amino-3-(6-aminopyridin-3-yl)propanoic acid	Backbone
+NMeHag	04CF	PEPTIDE	PC6	(2~{S})-2-(methylamino)hex-5-enoic acid	Backbone
+6Quin4NH2	04D0	PEPTIDE	YBP	(2~{S})-2-amino-3-(4-aminoquinolin-6-yl)propanoic acid	Backbone
+NBnG	04D1	PEPTIDE	FXG	2-(benzylamino)acetic acid	Backbone
+NBnA	04D2	PEPTIDE	FC8	(2~{S})-2-(benzylamino)propanoic acid	Backbone
+Trp6F	04D3	PEPTIDE	WAV	(2~{S})-2-amino-3-(6-fluoro-1~{H}-indol-3-yl)propanoic acid	Backbone
+NEtF	04D4	PEPTIDE	FC9	(2~{S})-2-(ethylamino)-3-phenylpropanoic acid	Backbone
+4Quin7F	04D5	PEPTIDE	HAI	(2~{S})-2-amino-3-(7-fluoroquinolin-4-yl)propanoic acid	Backbone
+AhpAl	04D6	PEPTIDE	KAX	(2~{S})-2-aminodec-9-enoic acid	Backbone
+1Inda	04D7	PEPTIDE	FCA	(2~{S})-2-amino-3-indazol-1-ylpropanoic acid	Backbone
+bTM8	04D8	PEPTIDE	XX4	2-[(3~{S})-3-amino-2-oxoazepan-1-yl]acetic acid	Backbone
+bTM2	04D9	PEPTIDE	XX5	2-[(4~{S})-4-amino-3-oxo-4,5-dihydro-1~{H}-2-benzazepin-2-yl]acetic acid	Backbone
+bTM1	04DA	PEPTIDE	XX6	2-[(3~{S})-3-amino-4-oxo-2,3-dihydro-1,5-benzoxazepin-5-yl]acetic acid	Backbone
+bTM42	04DB	PEPTIDE	XX7	2-[(3~{R})-3-amino-2-oxo-4,5-dihydro-3~{H}-1-benzazepin-1-yl]acetic acid	Backbone
+bTM41	04DC	PEPTIDE	XX8	2-[(3~{S})-3-amino-2-oxo-4,5-dihydro-3~{H}-1-benzazepin-1-yl]acetic acid	Backbone
+bTM51	04DD	PEPTIDE	XX9	(8~{S})-8-amino-5,6,7,8-tetrahydronaphthalene-2-carboxylic acid	Backbone
+bTM52	04DE	PEPTIDE	XXP	(8~{R})-8-amino-5,6,7,8-tetrahydronaphthalene-2-carboxylic acid	Backbone
+bTM61	04DF	PEPTIDE	XXA	(8~{S})-8-(aminomethyl)-5,6,7,8-tetrahydronaphthalene-2-carboxylic acid	Backbone
+bTM62	04E0	PEPTIDE	XXB	(8~{R})-8-(aminomethyl)-5,6,7,8-tetrahydronaphthalene-2-carboxylic acid	Backbone
+bTM3	04E1	PEPTIDE	XA0	(2~{S},11~{S})-11-amino-12-oxo-1-azatricyclo[6.4.1.0^{4,13}]trideca-4(13),5,7-triene-2-carboxylic acid	Backbone
+rbTM7	04E2	PEPTIDE	XXC	2-(3-amino-2-oxo-5-phenyl-3~{H}-1,4-benzodiazepin-1-yl)acetic acid	Backbone
+bTM91	04E3	PEPTIDE	XXD	6-amino-5-oxo-2,3,6,7,8,8~{a}-hexahydro-1~{H}-indolizine-3-carboxylic acid	Backbone
+bTM9I	04E4	PEPTIDE	XA1	(3~{S},6~{S},8~{a}~{R})-6-amino-5-oxo-2,3,6,7,8,8~{a}-hexahydro-1~{H}-indolizine-3-carboxylic acid	Backbone
+bTM92	04E5	PEPTIDE	XA2	(3~{S},6~{S},8~{a}~{S})-6-amino-5-oxo-2,3,6,7,8,8~{a}-hexahydro-1~{H}-indolizine-3-carboxylic acid	Backbone
+bTM93	04E6	PEPTIDE	X00	(3~{R},6~{S},8~{a}~{R})-6-amino-5-oxo-2,3,6,7,8,8~{a}-hexahydro-1~{H}-indolizine-3-carboxylic acid	Backbone
+bTM94	04E7	PEPTIDE	X01	(3~{R},6~{S},8~{a}~{S})-6-amino-5-oxo-2,3,6,7,8,8~{a}-hexahydro-1~{H}-indolizine-3-carboxylic acid	Backbone
+Tyr3Ph	04E8	PEPTIDE	YBQ	(2~{S})-2-amino-3-(4-hydroxy-3-phenylphenyl)propanoic acid	Backbone
+TetLink1	04E9	CHEM	XXQ	3-[2-[3-[bis[2-(2-prop-2-ynoxyethoxy)ethyl]amino]-3-oxopropoxy]ethoxy]-~{N},~{N}-bis[2-(2-prop-2-ynoxyethoxy)ethyl]propanamide	
+Butylene	04ED	CHEM	XXE	butane	
+6FAM	04EE	CHEM	XXF	2-(3-hydroxy-6-oxoxanthen-9-yl)terephthalic acid	
+PEG5NH2propargyl	04F3	CHEM	XXH	2-[2-[2-[2-(2-prop-2-ynoxyethoxy)ethoxy]ethoxy]ethoxy]ethanamine	
+NHbisPEG2propargyl	04F4	CHEM	XXI	2-(2-prop-2-ynoxyethoxy)-~{N}-[2-(2-prop-2-ynoxyethoxy)ethyl]ethanamine	
+xRCM	04F5	CHEM	XXJ	but-2-ene	Undefined
+Ind46Cl2	04F7	CHEM	GXW	4,6-dichloro-1~{H}-indole-2-carboxylic acid	
+Mal	04FF	CHEM	JXI	propanedioic acid	
+L000591587	0500	CHEM	9XS	5-phenylpentan-2-amine	
+L000591550	0501	CHEM	JXJ	5-amino-2-phenoxypentanoic acid	
+L005135800	0502	CHEM	9XT	2-amino-2-(5-cyclopropylpyridin-3-yl)ethanol	
+L000633160	0503	CHEM	9XU	1-amino-3-phenoxypropan-2-ol	
+amTHF	0509	CHEM	JXN	(2~{R},5~{S})-5-(aminomethyl)oxolane-2-carboxylic acid	
+Asc	050A	CHEM	XXK	(~{Z},4~{R},5~{S})-2,3,4,5,6-pentahydroxyhex-2-enoic acid	
+Phe4Al	050F	PEPTIDE	YBR	(2~{S})-2-amino-3-(4-prop-2-enylphenyl)propanoic acid	Backbone
+BiOO	0510	PEPTIDE	GXX	2-[2-[2-(aminomethyl)phenyl]phenyl]acetic acid	Backbone
+OxoPipFG	0511	PEPTIDE	FXI	2-[(3~{S})-3-benzyl-2-oxopiperazin-1-yl]acetic acid	Backbone
+OxoPipG	0512	PEPTIDE	GXY	2-(2-oxopiperazin-1-yl)acetic acid	Backbone
+PipG	0513	PEPTIDE	GXZ	2-piperazin-1-ylacetic acid	Backbone
+BiMM	0514	PEPTIDE	FXJ	2-[3-[3-(aminomethyl)phenyl]phenyl]acetic acid	Backbone
+mTyrMeCO2H	0515	PEPTIDE	FCC	(2~{S})-2-amino-3-[3-(carboxymethoxy)phenyl]propanoic acid	Backbone
+3CH3NPEG4	0516	PEPTIDE	EX7	2-[2-[2-[2-(2-carboxyethoxy)ethoxy]ethoxy]ethoxy]ethyl-trimethylazanium	Backbone
+TyrEtNAc	0517	PEPTIDE	YBS	(2~{S})-3-[4-(2-acetamidoethoxy)phenyl]-2-aminopropanoic acid	Backbone
+Phe4CH2OH	0518	PEPTIDE	YBT	(2~{S})-2-amino-3-[4-(hydroxymethyl)phenyl]propanoic acid	Backbone
+Trp2Me	0519	PEPTIDE	WAW	(2~{S})-2-amino-3-(2-methyl-1~{H}-indol-3-yl)propanoic acid	Backbone
+AhpN3	051A	PEPTIDE	KAY	(2~{S})-2-amino-7-azidoheptanoic acid	Backbone
+iQ4Ala	051B	PEPTIDE	WAX	(2~{S})-3-isoquinolin-4-yl-2-(methylamino)propanoic acid	Backbone
+2Me1oxiQAl	051C	PEPTIDE	WAY	(2~{S})-2-(methylamino)-3-(2-methyl-1-oxoisoquinolin-4-yl)propanoic acid	Backbone
+Dbf	051D	PEPTIDE	WX4	3-[6-(2-aminoethyl)dibenzofuran-4-yl]propanoic acid	Backbone
+3Thi	051E	PEPTIDE	FCE	(2~{S})-2-amino-3-thiophen-3-ylpropanoic acid	Backbone
+THTP	051F	PEPTIDE	LAM	(2~{S})-2-amino-3-(thian-4-yl)propanoic acid	Backbone
+Tip	0520	PEPTIDE	HAK	(6~{S})-4,5,6,7-tetrahydro-1~{H}-imidazo[4,5-c]pyridine-6-carboxylic acid	Backbone
+6TAMRA	0521	PEPTIDE	LX4	4-carboxy-2-[3-(dimethylamino)-6-dimethylazaniumylidenexanthen-9-yl]benzoate	Backbone
+Ph4AMPA	0523	PEPTIDE	FXK	2-[4-[(2-phenylethylamino)methyl]phenyl]acetic acid	Backbone
+Ph3AMPA	0524	PEPTIDE	FXL	2-[3-[(2-phenylethylamino)methyl]phenyl]acetic acid	Backbone
+3AMPA	0525	PEPTIDE	B0B	2-[3-(aminomethyl)phenyl]acetic acid	Backbone
+BiBAOO	0526	PEPTIDE	FXM	2-[2-(aminomethyl)phenyl]benzoic acid	Backbone
+A4AMPA	0527	PEPTIDE	PXG	2-[4-[(4,4-dimethylpentylamino)methyl]phenyl]acetic acid	Backbone
+B4AMPA	0528	PEPTIDE	YX9	2-[4-[(heptan-4-ylamino)methyl]phenyl]acetic acid	Backbone
+C4AMPA	0529	PEPTIDE	LX5	2-[4-[(3-methylbutylamino)methyl]phenyl]acetic acid	Backbone
+F4AMPA	052A	PEPTIDE	YXA	2-[4-[(3-ethoxypropylamino)methyl]phenyl]acetic acid	Backbone
+3Py4AMPA	052B	PEPTIDE	FXN	2-[4-[(pyridin-3-ylmethylamino)methyl]phenyl]acetic acid	Backbone
+Pz4AMPA	052C	PEPTIDE	FXO	2-[4-[(2-pyrazol-1-ylethylamino)methyl]phenyl]acetic acid	Backbone
+4Py4AMPA	052D	PEPTIDE	YXB	2-[4-[(2-pyridin-4-ylethylamino)methyl]phenyl]acetic acid	Backbone
+3Px4AMPA	052E	PEPTIDE	FXP	2-[4-[(2-pyridin-3-ylethylamino)methyl]phenyl]acetic acid	Backbone
+GAMPA	052F	PEPTIDE	YXC	2-[4-[[3-(dibutylamino)propylamino]methyl]phenyl]acetic acid	Backbone
+C3Cy	0530	PEPTIDE	S08	(1~{S},3~{R})-3-aminocyclohexane-1-carboxylic acid	Backbone
+NMebA	0531	PEPTIDE	B0C	3-(methylamino)propanoic acid	Backbone
+bF	0532	PEPTIDE	FCD	(3~{R})-3-amino-3-phenylpropanoic acid	Backbone
+bFCN	0533	PEPTIDE	FCF	(3~{S})-3-amino-4-(2-cyanophenyl)butanoic acid	Backbone
+T4MCy	0534	PEPTIDE	B0D	4-(aminomethyl)cyclohexane-1-carboxylic acid	Backbone
+Aha	0535	PEPTIDE	KX4	7-aminoheptanoic acid	Backbone
+2AMPA	0536	PEPTIDE	B0E	2-[2-(aminomethyl)phenyl]acetic acid	Backbone
+Trp6Br	0537	PEPTIDE	WAZ	(2~{S})-2-amino-3-(6-bromo-1~{H}-indol-3-yl)propanoic acid	Backbone
+Trp7Br	0538	PEPTIDE	WB0	(2~{S})-2-amino-3-(7-bromo-1~{H}-indol-3-yl)propanoic acid	Backbone
+NaphFluor	0539	PEPTIDE	YXD	4-(7-hydroxy-19-oxo-2-oxapentacyclo[12.8.0.0^{3,12}.0^{4,9}.0^{17,22}]docosa-1(22),3,5,7,9,11,13,15,17,20-decaen-13-yl)benzene-1,3-dicarboxylic acid	Backbone
+Bodipy2	053A	PEPTIDE	HX2	5-(2,2-difluoro-10,12-dimethyl-1-aza-3-azonia-2-boranuidatricyclo[7.3.0.0^{3,7}]dodeca-3,5,7,9,11-pentaen-4-yl)pentanoic acid	Backbone
+5TAMRA	053B	PEPTIDE	LX6	5-carboxy-2-[3-(dimethylamino)-6-dimethylazaniumylidenexanthen-9-yl]benzoate	Backbone
+AcAl	053F	PEPTIDE	101	pent-4-enoic acid	Backbone
+cPhACC	0540	PEPTIDE	FXQ	R2-[(1~{S},2~{S})-1-(R1amino)-2-phenylcyclopropyl]methanone	Backbone
+tPhACC	0541	PEPTIDE	FXR	R2-[(1~{S},2~{R})-1-(R1amino)-2-phenylcyclopropyl]methanone	Backbone
+22Me2Cysteamine	0542	PEPTIDE	CX2	2-(R1amino)-2-methylpropane-1-thiol	Backbone
+d2AminoTetralin	0543	PEPTIDE	FXS	R2-[(2~{R})-2-(R1amino)-3,4-dihydro-1~{H}-naphthalen-2-yl]methanone	Backbone
+5F1AminoIndane	0544	PEPTIDE	FXT	R2-[(1~{S})-1-(R1amino)-5-fluoro-2,3-dihydroinden-1-yl]methanone	Backbone
+2AminoTetralin	0545	PEPTIDE	FXU	R2-[(2~{S})-2-(R1amino)-3,4-dihydro-1~{H}-naphthalen-2-yl]methanone	Backbone
+AspOcHx	0546	PEPTIDE	DX1	cyclohexyl (3~{S})-4-R2-3-(R1amino)-4-oxobutanoate	Backbone
+Flavin8582	0547	CHEM	XXV	7-bromo-10-[2-[2-[2-(R3methoxy)ethoxy]ethoxy]ethyl]benzo[g]pteridine-2,4-dione	
+Flavin8580	0548	CHEM	XXW	[(2~{S},3~{R},4~{R})-2,3,4-triacetyloxy-5-[7,8-dimethyl-3-(R3methyl)-2,4-dioxobenzo[g]pteridin-10-yl]pentyl] acetate	
+Flavin6580	0549	CHEM	XXX	[(2~{R},3~{S},4~{S})-2,3,4-triacetyloxy-5-[3-(4-R3butyl)-7,8-dimethyl-2,4-dioxobenzo[g]pteridin-10-yl]pentyl] acetate	
+Flavin8581	054A	CHEM	XXY	10-[2-[2-[2-(R3methoxy)ethoxy]ethoxy]ethyl]benzo[g]pteridine-2,4-dione	
+SbMeF	054B	PEPTIDE	FCG	(2~{S},3~{S})-2-amino-3-phenylbutanoic acid	Backbone
+RbMeF	054C	PEPTIDE	FCH	(2~{S},3~{R})-2-amino-3-phenylbutanoic acid	Backbone
+bhD	054D	PEPTIDE	DAD	(3~{S})-3-amino-5-oxopentanoic acid	Backbone
+bhE	054E	PEPTIDE	EAB	(3~{S})-3-amino-6-oxohexanoic acid	Backbone
+bdhE	054F	PEPTIDE	E07	(3~{R})-3-amino-6-oxohexanoic acid	Backbone
+SbMecPrA	0550	PEPTIDE	IA5	(2~{S},3~{S})-2-amino-3-cyclopropylbutanoic acid	Backbone
+RbMecPrA	0551	PEPTIDE	IA6	(2~{S},3~{R})-2-amino-3-cyclopropylbutanoic acid	Backbone
+SbMecPrdA	0552	PEPTIDE	I04	(2~{R},3~{S})-2-amino-3-cyclopropylbutanoic acid	Backbone
+RbMecPrdA	0553	PEPTIDE	I05	(2~{R},3~{R})-2-amino-3-cyclopropylbutanoic acid	Backbone
+AspO	0554	PEPTIDE	DAE	(2~{S})-2-aminobutanedioic acid	Backbone
+dAspO	0555	PEPTIDE	D03	(2~{R})-2-aminobutanedioic acid	Backbone
+NH2IMNva	0556	PEPTIDE	KAZ	(2~{S})-2-amino-5-(2-aminoimidazol-1-yl)pentanoic acid	Backbone
+BCP	0557	PEPTIDE	B0F	3-aminobicyclo[1.1.1]pentane-1-carboxylic acid	Backbone
+NO2IMNva	0558	PEPTIDE	KB0	(2~{S})-2-amino-5-(2-nitroimidazol-1-yl)pentanoic acid	Backbone
+amOBCH	0559	PEPTIDE	B0G	1-(aminomethyl)-2-oxabicyclo[2.1.1]hexane-4-carboxylic acid	Backbone
+baceNva	055A	PEPTIDE	RAL	(2~{S})-2-amino-5-(2-imino-4,4-dimethyl-5-oxoimidazolidin-1-yl)pentanoic acid	Backbone
+amBYA	055B	PEPTIDE	B0H	4-aminobut-2-ynoic acid	Backbone
+CF3BCP	055C	PEPTIDE	S09	(2~{R})-2-amino-2-[3-(trifluoromethyl)-1-bicyclo[1.1.1]pentanyl]acetic acid	Backbone
+33AmPropynBzOH	055D	PEPTIDE	XXZ	3-(3-aminoprop-1-ynyl)benzoic acid	Backbone
+C5OHacid	055E	PEPTIDE	10E	5-hydroxypentanoic acid	Backbone
+NMeCysteamine	055F	PEPTIDE	B0W	2-(methylamino)ethanethiol	Backbone
+4CO3Pal	0560	PEPTIDE	YBU	(2~{S})-2-amino-3-(6-oxo-1~{H}-pyridin-3-yl)propanoic acid	Backbone
+5CO4Pal	0561	PEPTIDE	YBV	(2~{S})-2-amino-3-(2-oxo-1~{H}-pyridin-4-yl)propanoic acid	Backbone
+PyrimAla	0562	PEPTIDE	FCJ	(2~{S})-2-amino-3-pyrimidin-5-ylpropanoic acid	Backbone
+4OMe3Pal	0563	PEPTIDE	YBW	(2~{S})-2-amino-3-(6-methoxypyridin-3-yl)propanoic acid	Backbone
+4Me3Pal	0564	PEPTIDE	YBX	(2~{S})-2-amino-3-(6-methylpyridin-3-yl)propanoic acid	Backbone
+TZAla	0565	PEPTIDE	HAL	(2~{S})-2-amino-3-(1,3-thiazol-5-yl)propanoic acid	Backbone
+MePyzAla	0566	PEPTIDE	HAM	(2~{S})-2-amino-3-(1-methylpyrazol-3-yl)propanoic acid	Backbone
+NGnG	0567	PEPTIDE	RX4	2-(3-carbamimidamidopropylamino)acetic acid	Backbone
+NMeLysMe	0568	PEPTIDE	PC9	(2~{S})-2,6-bis(methylamino)hexanoic acid	Backbone
+IPG	0569	PEPTIDE	PXJ	2-(3-imidazol-1-ylpropylamino)acetic acid	Backbone
+TAG	056A	PEPTIDE	PXK	2-[3-(triazol-1-yl)propylamino]acetic acid	Backbone
+MorNva	056B	PEPTIDE	RAM	(2~{S})-2-amino-5-morpholin-3-ylpentanoic acid	Backbone
+PraMe	056C	PEPTIDE	DAF	(2~{S})-2-aminohex-4-ynoic acid	Backbone
+amcBu	056D	PEPTIDE	B0I	3-(aminomethyl)cyclobutane-1-carboxylic acid	Backbone
+Me2Asn	056E	PEPTIDE	D04	(2~{R})-2-amino-4-(dimethylamino)-4-oxobutanoic acid	Backbone
+THQAla	056F	PEPTIDE	FXW	2-amino-3-(3,4-dihydro-2~{H}-quinolin-1-yl)propanoic acid	Backbone
+5amHex	0570	PEPTIDE	EX8	5-aminohexanoic acid	Backbone
+PrPEG	0571	PEPTIDE	102	3-(2-chloroethoxy)propanoic acid	Backbone
+Crot	0572	PEPTIDE	GXZ	(~{E})-4-chlorobut-2-enoic acid	Backbone
+AcPEG	0573	PEPTIDE	103	2-(2-chloroethoxy)acetic acid	Backbone
+cBuAc	0574	PEPTIDE	B0J	2-(3-aminocyclobutyl)acetic acid	Backbone
+NMeNva124Tiazole	0575	PEPTIDE	PCA	(2~{S})-2-(methylamino)-5-(1,2,4-triazol-1-yl)pentanoic acid	Backbone
+NMeDabN3	0576	PEPTIDE	PCB	(2~{S})-4-azido-2-(methylamino)butanoic acid	Backbone
+NMeNva2Tetrazole	0577	PEPTIDE	PCC	(2~{S})-2-(methylamino)-5-(tetrazol-2-yl)pentanoic acid	Backbone
+NMeNva1Tetrazole	0578	PEPTIDE	PCD	(2~{S})-2-(methylamino)-5-(tetrazol-1-yl)pentanoic acid	Backbone
+NMeNvaPyz	0579	PEPTIDE	PCE	(2~{S})-2-(methylamino)-5-pyrazol-1-ylpentanoic acid	Backbone
+NMeNvaImid	057A	PEPTIDE	PCF	(2~{S})-5-imidazol-1-yl-2-(methylamino)pentanoic acid	Backbone
+NMePhe2F	057B	PEPTIDE	FCK	(2~{S})-3-(2-fluorophenyl)-2-(methylamino)propanoic acid	Backbone
+tamcPr	057C	PEPTIDE	GA5	(1~{R},2~{R})-2-(aminomethyl)cyclopropane-1-carboxylic acid	Backbone
+cBuTE	057D	PEPTIDE	CX3	(1-aminocyclobutyl)methanethiol	Backbone
+Prot34CF2	057E	PEPTIDE	PC7	(1~{S},2~{S},5~{R})-6,6-difluoro-3-azabicyclo[3.1.0]hexane-2-carboxylic acid	Backbone
+Phe2Vinyl	057F	PEPTIDE	FCI	(2~{S})-2-amino-3-(2-ethenylphenyl)propanoic acid	Backbone
+PpnAmTphn	0580	PEPTIDE	B0K	5-(3-aminoprop-1-ynyl)thiophene-3-carboxylic acid	Backbone
+FLac	0581	PEPTIDE	FXV	(2~{S})-2-hydroxy-3-phenylpropanoic acid	Backbone
+1R2RAcpc	0582	PEPTIDE	S0B	(1~{R},2~{R})-2-aminocyclopentane-1-carboxylic acid	Backbone
+1S2SAcpc	0583	PEPTIDE	SAM	(1~{S},2~{S})-2-aminocyclopentane-1-carboxylic acid	Backbone
+4Amb	0584	PEPTIDE	B0L	4-(aminomethyl)benzoic acid	Backbone
+S3MeCysteamine	0585	PEPTIDE	AX4	(2~{S})-1-aminopropane-2-thiol	Backbone
+PyrS	0586	PEPTIDE	PXI	pyrrolidin-2-ylmethanethiol	Backbone
+AlaPyrrol	0587	PEPTIDE	SAL	(2~{S})-2-amino-3-pyrrol-1-ylpropanoic acid	Backbone
+dAlaPyrrol	0588	PEPTIDE	S0A	(2~{R})-2-amino-3-pyrrol-1-ylpropanoic acid	Backbone
+rAlaPyz1	0589	PEPTIDE	SX1	2-amino-3-pyrazol-1-ylpropanoic acid	Backbone
+3QAla	058A	PEPTIDE	WB1	(2~{S})-2-amino-3-isoquinolin-4-ylpropanoic acid	Backbone
+NcPrA	058B	PEPTIDE	PC8	(2~{S})-2-(cyclopropylmethylamino)propanoic acid	Backbone
+C6Al	058C	PEPTIDE	104	hex-5-enoic acid	Backbone
+PVBZOIC	058D	PEPTIDE	105	4-ethenylbenzoic acid	Backbone
+NxG17	058E	PEPTIDE	HX3	2-[2-[4-(1~{H}-imidazol-4-yl)phenyl]ethylamino]acetic acid	Backbone
+NxG18	058F	PEPTIDE	YXE	2-[2-[4-(1~{H}-pyrazol-4-yl)phenyl]ethylamino]acetic acid	Backbone
+N4FBipEtG	0590	PEPTIDE	YXF	2-[2-[4-(4-fluorophenyl)phenyl]ethylamino]acetic acid	Backbone
+N4CO2HPhEtG	0591	PEPTIDE	YXG	4-[2-(carboxymethylamino)ethyl]benzoic acid	Backbone
+b2hA	0592	PEPTIDE	AA9	(2~{R})-3-amino-2-methylpropanoic acid	Backbone
+R8	0593	PEPTIDE	LAN	(2~{R})-2-amino-2-methyldec-9-enoic acid	Backbone
+TyrOMe3F	0594	PEPTIDE	YBY	(2~{S})-2-amino-3-(3-fluoro-4-methoxyphenyl)propanoic acid	Backbone
+NAlTyr	0595	PEPTIDE	YBZ	(2~{S})-3-(4-hydroxyphenyl)-2-(prop-2-enylamino)propanoic acid	Backbone
+9A0	0596	PEPTIDE	9A0	(2~{S})-2-methylbutan-1-amine	Backbone
+9A1	0597	PEPTIDE	9A1	2-[3-(1-methylimidazol-2-yl)phenyl]ethanamine	Backbone
+9A2	0598	PEPTIDE	9A2	[3-(aminomethyl)-5-fluorophenyl]methanol	Backbone
+9A3	0599	PEPTIDE	9A3	2-(2,5-difluorophenyl)ethanamine	Backbone
+9A4	059A	PEPTIDE	9A4	2-methyl-2-phenylpropan-1-amine	Backbone
+9A5	059B	PEPTIDE	9A5	3-methyl-3-azabicyclo[3.2.1]octan-6-amine	Backbone
+9A6	059C	PEPTIDE	9A6	(3-bromo-4-chlorophenyl)methanamine	Backbone
+9A7	059D	PEPTIDE	9A7	(3-methyltriazolo[1,5-a]pyridin-7-yl)methanamine	Backbone
+9A8	059E	PEPTIDE	9A8	[2-(2-aminoethyl)phenyl]methanol	Backbone
+9A9	059F	PEPTIDE	9A9	2-(5-phenyl-2,5-diazabicyclo[2.2.1]heptan-2-yl)ethanamine	Backbone
+9AA	05A0	PEPTIDE	9AA	[4-(2-chlorophenyl)-1~{H}-imidazol-2-yl]methanamine	Backbone
+9AB	05A1	PEPTIDE	9AB	[3-(4-methoxyphenoxy)phenyl]methanamine	Backbone
+9AC	05A2	PEPTIDE	9AC	tricyclo[4.2.1.0^{2,5}]nonan-3-amine	Backbone
+9AD	05A3	PEPTIDE	9AD	2-(4-phenoxyphenyl)ethanamine	Backbone
+9AF	05A4	PEPTIDE	9AF	2-methyl-2-(2-methylphenyl)propan-1-amine	Backbone
+9AG	05A5	PEPTIDE	9AG	3-benzyl-3-azabicyclo[3.1.1]heptan-6-amine	Backbone
+9AH	05A6	PEPTIDE	9AH	2-[3-(1,3-oxazol-2-yl)phenyl]ethanamine	Backbone
+9AI	05A7	PEPTIDE	9AI	2-[4-(1,3-oxazol-2-yl)phenyl]ethanamine	Backbone
+9AJ	05A8	PEPTIDE	9AJ	2-(1-methylimidazol-2-yl)ethanamine	Backbone
+9AK	05A9	PEPTIDE	9AK	(4-phenyl-1,3-thiazol-2-yl)methanamine	Backbone
+9AL	05AA	PEPTIDE	9AL	[3-(aminomethyl)-5-fluorophenyl]methanol	Backbone
+9AM	05AB	PEPTIDE	9AM	[3-(1,3-oxazol-2-yl)phenyl]methanamine	Backbone
+9AN	05AC	PEPTIDE	9AN	(3-pyridin-2-yloxyphenyl)methanamine	Backbone
+NvaOPyr	05AD	PEPTIDE	SAN	(2~{S})-2-amino-3-(pyrimidin-5-ylmethoxy)propanoic acid	Backbone
+NvaO3Pal	05AE	PEPTIDE	FCM	(2~{S})-2-amino-3-(pyridin-3-ylmethoxy)propanoic acid	Backbone
+NvaOOxa	05AF	PEPTIDE	HAN	(2~{S})-2-amino-3-(1,3-oxazol-4-ylmethoxy)propanoic acid	Backbone
+Phe26F2	05B0	PEPTIDE	FCN	(2~{S})-2-amino-3-(2,6-difluorophenyl)propanoic acid	Backbone
+4CF33Pal	05B1	PEPTIDE	YC0	(2~{S})-2-amino-3-[6-(trifluoromethyl)pyridin-3-yl]propanoic acid	Backbone
+4F3Pal	05B2	PEPTIDE	YC1	(2~{S})-2-amino-3-(6-fluoropyridin-3-yl)propanoic acid	Backbone
+NMeAhe	05B3	PEPTIDE	PCG	(2~{S})-2-(methylamino)hept-6-enoic acid	Backbone
+PropylNH2	05B4	PEPTIDE	B0M	2-(aminomethyl)cyclopropane-1-carboxylic acid	Backbone
+TetraAbu	05B5	PEPTIDE	EAC	(2~{S})-2-amino-4-(2~{H}-tetrazol-5-yl)butanoic acid	Backbone
+b2F	05B6	PEPTIDE	FA6	(2~{R})-3-amino-2-phenylpropanoic acid	Backbone
+AspCHOBn	05B8	PEPTIDE	FXX	(4~{S})-4-amino-5-phenylmethoxyoxolan-2-one	Backbone
+AspCHO	05B9	PEPTIDE	D05	(3~{S})-3-amino-4-oxobutanoic acid	Backbone
+KN3DBCO	05BA	PEPTIDE	KB1	(2~{S})-2-amino-6-(3,4,5,13-tetrazatetracyclo[13.4.0.0^{2,6}.0^{7,12}]nonadeca-1(15),2(6),4,7(12),8,10,16,18-octaen-3-yl)hexanoic acid	Backbone
+NOTABnNCS	05BB	PEPTIDE	YXI	2-[5-[[4-(carbonobromidothioylamino)phenyl]methyl]-4,7-bis(carboxymethyl)-1,4,7-triazonan-1-yl]acetic acid	Backbone
+PpOprg	05BC	PEPTIDE	106	3-prop-2-ynoxypropanoic acid	Backbone
+NHc3Trz	05BD	PEPTIDE	HX4	1~{H}-triazol-4-ylmethanamine	Backbone
+NHc3Trz1Me	05BE	PEPTIDE	HX5	(1-methyltriazol-4-yl)methanamine	Backbone
+NHc3Trz2Me	05BF	PEPTIDE	HX6	(2-methyltriazol-4-yl)methanamine	Backbone
+Btp3Ac	05C0	PEPTIDE	WX5	2-(1-benzothiophen-3-yl)acetic acid	Backbone
+Btp2F3Ac	05C1	PEPTIDE	WX6	2-(2-fluoro-1-benzothiophen-3-yl)acetic acid	Backbone
+FAc	05C2	PEPTIDE	107	2-fluoroacetic acid	Backbone
+Bz4F	05C3	PEPTIDE	108	4-fluorobenzoic acid	Backbone
+FCH2Ac	05C4	PEPTIDE	109	3-fluoropropanoic acid	Backbone
+Ac2Naph	05C5	PEPTIDE	FXY	2-naphthalen-2-ylacetic acid	Backbone
+EtF	05D0	CHEM	900	1-azido-2-fluoroethane	Undefined
+PEG2prg2	05D1	CHEM	B0N	3-(2-prop-2-ynoxyethoxy)prop-1-yne	Undefined
+PEG18prg2	05D2	CHEM	LX7	3-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-prop-2-ynoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]prop-1-yne	
+PEG10prg2	05D3	CHEM	LX8	3-[2-[2-[2-[2-[2-[2-[2-[2-(2-prop-2-ynoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]prop-1-yne	
+GaNOTABnNCS	05D5	PEPTIDE	YXJ	~{N}-[4-[(6,10,16-trioxo-7,9,17-trioxa-1,4,12-triaza-8-gallatricyclo[6.6.3.2^{4,12}]nonadecan-2-yl)methyl]phenyl]carbamothioyl bromide	Backbone
+C10AEF	05D7	PEPTIDE	YC2	(2~{S})-2-amino-3-[4-[2-(decanoylamino)ethoxy]phenyl]propanoic acid	Backbone
+PEG3AEF	05D8	PEPTIDE	YC3	(2~{S})-2-amino-3-[4-[2-[[2-[2-(2-methoxyethoxy)ethoxy]acetyl]amino]ethoxy]phenyl]propanoic acid	Backbone
+cBuAEF	05D9	PEPTIDE	YC4	(2~{S})-2-amino-3-[4-[2-(cyclobutanecarbonylamino)ethoxy]phenyl]propanoic acid	Backbone
+Me2AEF	05DA	PEPTIDE	YC5	(2~{S})-2-amino-3-[4-[2-(dimethylamino)ethoxy]phenyl]propanoic acid	Backbone
+3MeY	05DB	PEPTIDE	YC6	(2~{S})-2-amino-3-(4-hydroxy-3-methylphenyl)propanoic acid	Backbone
+NOTA	05DC	PEPTIDE	10A	2-[4,7-bis(carboxymethyl)-1,4,7-triazonan-1-yl]acetic acid	Backbone
+SbMeW	05DE	PEPTIDE	WB2	(2~{S},3~{S})-2-amino-3-(1~{H}-indol-3-yl)butanoic acid	Backbone
+RbMeW	05DF	PEPTIDE	WB3	(2~{S},3~{R})-2-amino-3-(1~{H}-indol-3-yl)butanoic acid	Backbone
+Phe3N3	05E0	PEPTIDE	FCQ	(2~{S})-2-amino-3-(3-azidophenyl)propanoic acid	Backbone
+HFB	05E1	CHEM	B0O	1,2,3,4,5,6-hexafluorobenzene	Undefined
+DFB	05E2	CHEM	B0P	1,2,3,4,5-pentafluoro-6-(2,3,4,5,6-pentafluorophenyl)benzene	Undefined
+mDBX	05E3	CHEM	FXZ	1,3-bis(bromomethyl)benzene	
+oDBX	05E4	CHEM	B0X	1,2-bis(bromomethyl)benzene	Undefined
+27BMN	05E5	CHEM	YXK	2,7-bis(bromomethyl)naphthalene	
+AcMaa	05E6	PEPTIDE	10B	2-acetylsulfanylacetic acid	Backbone
+deHIle	05E8	PEPTIDE	TA7	(2~{S},3~{S})-2-amino-3-methylpent-4-enoic acid	Backbone
+bMeF	05E9	PEPTIDE	TA8	(2~{S})-2-amino-3-phenylbutanoic acid	Backbone
+NHbisPEG3acid	05EA	PEPTIDE	EX9	3-[2-[2-[2-[2-[2-[2-(2-carboxyethoxy)ethoxy]ethoxy]ethylamino]ethoxy]ethoxy]ethoxy]propanoic acid	Backbone
+NtrisPEG3NH2diacid	05EC	CHEM	B0Q	3-[2-[2-[2-[2-[2-[2-(2-aminoethoxy)ethoxy]ethoxy]ethyl-[2-[2-[2-(2-carboxyethoxy)ethoxy]ethoxy]ethyl]amino]ethoxy]ethoxy]ethoxy]propanoic acid	Undefined
+BrPr	05ED	PEPTIDE	10C	3-bromopropanoic acid	Backbone
+135Mesityl	05EE	CHEM	HX7	1,3,5-trimethylbenzene	Undefined
+CO1	05EF	PEPTIDE	SAO	(2~{R})-2-amino-3-hydrosulfinylpropanoic acid	Backbone
+aNH2Apc	05F0	PEPTIDE	B0R	4-aminopiperidine-4-carboxylic acid	Backbone
+DapMe	05F1	PEPTIDE	SAP	(2~{S})-2-amino-3-(methylamino)propanoic acid	Backbone
+4cOAP	05F2	PEPTIDE	PCH	(2~{S},4~{S})-4-prop-2-enoxypyrrolidine-2-carboxylic acid	Backbone
+mPenY	05F3	PEPTIDE	FCR	(2~{S})-2-amino-3-(3-pent-4-enoxyphenyl)propanoic acid	Backbone
+PhAcAEF	05F4	PEPTIDE	FCS	(2~{S})-2-amino-3-[4-[2-[(2-phenylacetyl)amino]ethoxy]phenyl]propanoic acid	Backbone
+sbW5F	05F5	PEPTIDE	WB4	(2~{S},3~{S})-2-amino-3-(5-fluoro-1~{H}-indol-3-yl)butanoic acid	Backbone
+3MAPhg	05F6	PEPTIDE	FCT	(2~{S})-2-amino-2-[3-(aminomethyl)phenyl]acetic acid	Backbone
+4PyrF	05F7	PEPTIDE	YC7	(2~{S})-2-amino-3-(4-pyridin-4-ylphenyl)propanoic acid	Backbone
+2TzA	05F8	PEPTIDE	HAO	(2~{S})-2-amino-3-(1,3-thiazol-2-yl)propanoic acid	Backbone
+YOmCh	05F9	PEPTIDE	YC8	(2~{S})-2-amino-3-[4-(cyclohexylmethoxy)phenyl]propanoic acid	Backbone
+dAgp	05FA	PEPTIDE	R06	(2~{R})-2-amino-3-carbamimidamidopropanoic acid	Backbone
+acmY	05FB	PEPTIDE	YC9	(2~{S})-2-amino-3-[4-[2-(methylamino)-2-oxoethoxy]phenyl]propanoic acid	Backbone
+rbC	05FC	PEPTIDE	TA9	(2~{R},3~{R})-2-amino-3-sulfanylbutanoic acid	Backbone
+4OMBip	05FD	PEPTIDE	YCA	(2~{S})-2-amino-3-[4-(4-methoxyphenyl)phenyl]propanoic acid	Backbone
+F4MCO2H	05FE	PEPTIDE	YCB	(2~{S})-2-amino-3-[4-(carboxymethyl)phenyl]propanoic acid	Backbone
+NMeAhpAl	05FF	PEPTIDE	PCI	(2~{S})-2-(methylamino)dec-9-enoic acid	Backbone
+4BPhg	0600	PEPTIDE	AAA	(2~{S})-2-amino-2-(4-bromophenyl)acetic acid	Backbone
+d4BPhg	0601	PEPTIDE	A05	(2~{R})-2-amino-2-(4-bromophenyl)acetic acid	Backbone
+4OPhg	0602	PEPTIDE	YCC	(2~{S})-2-amino-2-(4-hydroxyphenyl)acetic acid	Backbone
+Adi	0603	CHEM	B0S	hexanedioic acid	Undefined
+C6OH	0604	CHEM	901	hexanoic acid	Undefined
+NPEGAcOH	0605	CHEM	B0T	2-(2-aminoethoxy)acetic acid	Undefined
+dpV	0606	PEPTIDE	VX2	(2~{S})-2-hydroxy-3-methylbutanoic acid	Backbone
+PipAcAl	0607	PEPTIDE	QX2	4-amino-1-pent-4-enoylpiperidine-4-carboxylic acid	Backbone
+Acryl	0608	PEPTIDE	10D	prop-2-enoic acid	Backbone
+1Napht	0609	PEPTIDE	WX8	naphthalene-1-carboxylic acid	Backbone
+PEG7NH2acid	060A	PEPTIDE	B0U	3-[2-[2-[2-[2-[2-[2-(2-aminoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	Backbone
+WX7	060B	CHEM	WX7	1-(2-naphthalen-1-ylethyl)pyrrolidine-2,5-dione	
+L003382956	060C	CHEM	YXL	3-(aminomethyl)-6-(4-ethylphenyl)-1~{H}-pyridin-2-one	Undefined
+pToluoyl	060E	CHEM	B0V	4-methylbenzoic acid	Undefined
+ORCM	060F	CHEM	AX5	2,3-dimethyloxirane	Undefined
+PEG10prgacid	0611	CHEM	EXA	3-[2-[2-[2-[2-[2-[2-[2-[2-(2-prop-2-ynoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	
+AETM	0612	CHEM	SX2	(2~{S},3~{S},4~{S},5~{S},6~{R})-2-[[(2~{R},3~{R},4~{S},5~{S},6~{S})-6-(2-aminoethoxy)-3,5-dihydroxy-4-[(2~{R},3~{S},4~{S},5~{S},6~{R})-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]methoxy]-6-(hydroxymethyl)oxane-3,4,5-triol	
+NN2K	0614	PEPTIDE	KX5	(2~{S})-6-amino-2-azidohexanoic acid	Backbone
+S6	0615	PEPTIDE	L0C	(2~{S})-2-amino-2-methyloct-7-enoic acid	Backbone
+B07	0616	PEPTIDE	B07	2-methyl-2-piperazin-1-ylpropanoic acid	Backbone
+B08	0617	PEPTIDE	B08	2-(2,2-dimethylpiperazin-1-yl)acetic acid	Backbone
+Bz3N3	0618	PEPTIDE	100	3-azidobenzoic acid	Backbone
+B00	061A	CHEM	B00	2-[4-[(cyclohexylmethylamino)methyl]phenyl]acetic acid	
+B01	061B	CHEM	B01	2-[4-[(prop-2-enylamino)methyl]phenyl]acetic acid	
+B02	061C	CHEM	B02	2-[3-[(cyclohexylmethylamino)methyl]phenyl]acetic acid	
+B03	061D	CHEM	B03	2-[3-[(prop-2-enylamino)methyl]phenyl]acetic acid	
+B04	061E	CHEM	B04	4-[(2-phenylethylamino)methyl]benzoic acid	
+B05	061F	CHEM	B05	4-[(cyclohexylmethylamino)methyl]benzoic acid	
+B06	0620	CHEM	B06	4-[(prop-2-enylamino)methyl]benzoic acid	
+IThz	062A	PEPTIDE	B0Y	2-[(1~{S},2~{S})-1-amino-2-methylbutyl]-1,3-thiazole-4-carboxylic acid	Backbone
+NMeLysN3	062B	PEPTIDE	PCJ	(2~{S})-6-azido-2-(methylamino)hexanoic acid	Backbone
+bMe2W	062C	PEPTIDE	WB5	(2~{S})-2-amino-3-(1~{H}-indol-3-yl)-3-methylbutanoic acid	Backbone
+bMe2F	062D	PEPTIDE	FCU	(2~{S})-2-amino-3-methyl-3-phenylbutanoic acid	Backbone
+rIThz	062E	PEPTIDE	B0Z	2-[(2~{S})-1-amino-2-methylbutyl]-1,3-thiazole-4-carboxylic acid	Backbone
+90B	062F	PEPTIDE	90B	2-[4-(aminomethyl)phenyl]propan-2-ol	Backbone
+90C	0630	PEPTIDE	90C	(1~{R},5~{S})-tricyclo[3.3.1.0^{3,7}]nonan-3-amine	Backbone
+90D	0631	PEPTIDE	90D	(2-phenylmethoxyphenyl)methanamine	Backbone
+90E	0632	PEPTIDE	90E	(2~{R})-2-aminohexan-1-ol	Backbone
+90G	0633	PEPTIDE	90G	(2~{E})-3,7-dimethylocta-2,6-dien-1-amine	Backbone
+90H	0634	PEPTIDE	90H	2-methyl-2-pyridin-3-ylpropan-1-amine	Backbone
+90I	0635	PEPTIDE	90I	2-(5-ethylpyridin-2-yl)ethanamine	Backbone
+ACHC	0636	PEPTIDE	K0E	(1~{R},2~{R})-2-aminocyclohexane-1-carboxylic acid	Backbone
+Lys3F2	0637	PEPTIDE	EAD	(2~{S})-2,6-diamino-5,5-difluorohexanoic acid	Backbone
+b3hK	0638	PEPTIDE	KB2	(3~{S})-3,7-diaminoheptanoic acid	Backbone
+PEG4acidN3	0639	CHEM	10F	3-[2-[2-[2-(2-azidoethoxy)ethoxy]ethoxy]ethoxy]propanoic acid	
+PEG8acidN3	063A	CHEM	10G	3-[2-[2-[2-[2-[2-[2-[2-(2-azidoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	
+Cbz	063B	PEPTIDE	10H	benzyl hydrogen carbonate	Backbone
+QCMK	063D	PEPTIDE	90K	(4~{S})-4-amino-6-chloro-5-oxohexanamide	Backbone
+DHP	063E	PEPTIDE	B10	5-hydroxy-2,6-dihydro-1~{H}-pyridin-3-one	Backbone
+cPrS	063F	PEPTIDE	SAQ	(2~{S})-2-amino-2-(1-hydroxycyclopropyl)acetic acid	Backbone
+4Quin	0640	PEPTIDE	WB6	(2~{S})-2-amino-3-quinolin-4-ylpropanoic acid	Backbone
+NAlG	0641	PEPTIDE	B11	2-(prop-2-enylamino)acetic acid	Backbone
+AspOAl	0642	PEPTIDE	DAG	(2~{S})-2-amino-4-oxo-4-prop-2-enoxybutanoic acid	Backbone
+PalkFV	0643	PEPTIDE	B12	(~{Z},2~{R})-4-fluoro-2-propan-2-yl-4-[(2~{S})-pyrrolidin-2-yl]but-3-enoic acid	Backbone
+NInG	0644	PEPTIDE	B13	2-(1~{H}-indol-3-ylmethylamino)acetic acid	Backbone
+aMedAze	0645	PEPTIDE	PCK	(2~{R})-2-methylazetidine-2-carboxylic acid	Backbone
+aMeAze	0646	PEPTIDE	P0L	(2~{S})-2-methylazetidine-2-carboxylic acid	Backbone
+Pyr2enMe2	0647	PEPTIDE	B14	(~{E})-2,2-dimethyl-4-[(2~{S})-pyrrolidin-2-yl]but-3-enoic acid	Backbone
+5SaHex3en	0648	PEPTIDE	B15	(5~{S})-5-aminohex-3-enoic acid	Backbone
+t6aHex2en	0649	PEPTIDE	B16	(~{E})-6-aminohex-2-enoic acid	Backbone
+cRSamcPr	064A	PEPTIDE	G08	(1~{S},2~{R})-2-(aminomethyl)cyclopropane-1-carboxylic acid	Backbone
+cSRamcPr	064B	PEPTIDE	GA6	(1~{R},2~{S})-2-(aminomethyl)cyclopropane-1-carboxylic acid	Backbone
+a4Penten	064C	PEPTIDE	90L	pent-4-en-1-amine	Backbone
+AlaOxadz	064D	PEPTIDE	HAP	(2~{S})-2-amino-3-(2-oxo-3~{H}-1,3,4-oxadiazol-5-yl)propanoic acid	Backbone
+spPyrPyr	064E	PEPTIDE	B17	2-(2,7-diazaspiro[4.4]nonan-2-yl)acetic acid	Backbone
+spAzeAze	064F	PEPTIDE	B18	2-(2,6-diazaspiro[3.3]heptan-2-yl)acetic acid	Backbone
+spPipcBu	0650	PEPTIDE	B19	2-(7-azaspiro[3.5]nonan-2-ylamino)acetic acid	Backbone
+spAzePip	0651	PEPTIDE	B1A	2-(2,7-diazaspiro[3.5]nonan-7-yl)acetic acid	Backbone
+aePh4CO2H	0652	PEPTIDE	B1C	4-(2-aminoethyl)benzoic acid	Backbone
+Cysteamine3Me	0653	PEPTIDE	90M	(2~{S})-1-aminopropane-2-thiol	Backbone
+Pyr2CH2S	0654	PEPTIDE	90N	pyrrolidin-2-ylmethanethiol	Backbone
+acBu	0655	PEPTIDE	B1D	3-aminocyclobutane-1-carboxylic acid	Backbone
+AspOiPr	0656	PEPTIDE	LAO	(2~{S})-2-amino-4-oxo-4-propan-2-yloxybutanoic acid	Backbone
+NMeOrnMe	0657	PEPTIDE	PCL	(2~{S})-2,5-bis(methylamino)pentanoic acid	Backbone
+NMeArg1MeMe	0658	PEPTIDE	PCM	(2~{S})-2-(methylamino)-5-[methyl-(~{N}-methylcarbamimidoyl)amino]pentanoic acid	Backbone
+TyrOEtPyr	0659	PEPTIDE	YCD	(2~{S})-2-amino-3-[4-(2-pyrrolidin-1-ylethoxy)phenyl]propanoic acid	Backbone
+Phe4GnMeMe	065A	PEPTIDE	YCE	(2~{S})-2-amino-3-[4-[methyl-(~{N}-methylcarbamimidoyl)amino]phenyl]propanoic acid	Backbone
+NMeArgMe	065B	PEPTIDE	PCN	(2~{S})-2-(methylamino)-5-[(~{N}-methylcarbamimidoyl)amino]pentanoic acid	Backbone
+NMeAla5Oxa	065C	PEPTIDE	PCO	(2~{S})-2-(methylamino)-3-(1,3-oxazol-5-yl)propanoic acid	Backbone
+NMeHis1Me	065D	PEPTIDE	HAQ	(2~{S})-2-(methylamino)-3-(1-methylimidazol-4-yl)propanoic acid	Backbone
+NMeAlaPyrim	065E	PEPTIDE	PCP	(2~{S})-2-(methylamino)-3-pyrimidin-5-ylpropanoic acid	Backbone
+NMe3Pal4Me	065F	PEPTIDE	PCQ	(2~{S})-2-(methylamino)-3-(6-methylpyridin-3-yl)propanoic acid	Backbone
+Phe2CN	0660	PEPTIDE	FCV	(2~{S})-2-amino-3-(2-cyanophenyl)propanoic acid	Backbone
+Ala4Pyz1Me	0661	PEPTIDE	FCW	(2~{S})-2-amino-3-(1-methylpyrazol-4-yl)propanoic acid	Backbone
+Ala3Fur	0662	PEPTIDE	FCX	(2~{S})-2-amino-3-(furan-3-yl)propanoic acid	Backbone
+AspOEt	0663	PEPTIDE	DAH	(2~{S})-2-amino-4-ethoxy-4-oxobutanoic acid	Backbone
+Proc4Ph35F2	0664	PEPTIDE	PCR	(2~{S},4~{R})-4-(3,5-difluorophenyl)pyrrolidine-2-carboxylic acid	Backbone
+Prot4Ph35F2	0665	PEPTIDE	PCS	(2~{S},4~{S})-4-(3,5-difluorophenyl)pyrrolidine-2-carboxylic acid	Backbone
+Prot4Bn4F	0666	PEPTIDE	FCY	(2~{S},4~{R})-4-[(4-fluorophenyl)methyl]pyrrolidine-2-carboxylic acid	Backbone
+NvaOMe	0667	PEPTIDE	KB3	(2~{S})-2-amino-5-methoxypentanoic acid	Backbone
+dPhe4CF3	0668	PEPTIDE	Y0I	(2~{R})-2-amino-3-[4-(trifluoromethyl)phenyl]propanoic acid	Backbone
+BocDAB	0669	PEPTIDE	RAN	(2~{S})-2-amino-4-[(2-methylpropan-2-yl)oxycarbonylamino]butanoic acid	Backbone
+DABPEG4N3	066A	PEPTIDE	RAO	(2~{S})-2-amino-4-[2-[2-[2-[2-(2-azidoethoxy)ethoxy]ethoxy]ethoxy]ethylamino]butanoic acid	Backbone
+DABPEG6N3	066B	PEPTIDE	RAP	(2~{S})-2-amino-4-[2-[2-[2-[2-[2-[2-(2-azidoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethylamino]butanoic acid	Backbone
+DABPEG8N3	066C	PEPTIDE	RAQ	(2~{S})-2-amino-4-[2-[2-[2-[2-[2-[2-[2-[2-(2-azidoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethylamino]butanoic acid	Backbone
+DABPEG10N3	066D	PEPTIDE	RAR	(2~{S})-2-amino-4-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-azidoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethylamino]butanoic acid	Backbone
+10I	066E	PEPTIDE	10I	5-(dimethylamino)naphthalene-1-sulfonic acid	Backbone
+10J	066F	PEPTIDE	10J	6-oxo-1-phenylpyridine-3-carboxylic acid	Backbone
+4pentynoyl	0670	PEPTIDE	10K	pent-4-ynoic acid	Backbone
+5hexynoyl	0671	PEPTIDE	10L	hex-5-ynoic acid	Backbone
+S6MeOct	0672	PEPTIDE	10M	(6~{S})-6-methyloctanoic acid	Backbone
+PEG3diacid	0673	PEPTIDE	10N	3-[2-[2-(2-azidoethoxy)ethoxy]ethoxy]propanoic acid	Backbone
+PEG4diacid	0674	PEPTIDE	B1E	3-[2-[2-[2-(2-carboxyethoxy)ethoxy]ethoxy]ethoxy]propanoic acid	Backbone
+PEG7acidN3	0675	PEPTIDE	10O	3-[2-[2-[2-[2-[2-[2-(2-azidoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	Backbone
+PEG8diacid	0676	PEPTIDE	B1F	3-[2-[2-[2-[2-[2-[2-[2-(2-carboxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	Backbone
+PEG9acidN3	0677	PEPTIDE	10P	3-[2-[2-[2-[2-[2-[2-[2-[2-(2-azidoethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	Backbone
+BrKTA2	0682	CHEM	PCT	(2~{S})-2-[[(3~{S},5~{R})-3,5-bis[2-[(2-bromoacetyl)amino]ethylcarbamoyl]-1,3,5-trimethylcyclohexanecarbonyl]amino]-3-[(2-bromoacetyl)amino]propanoic acid	
+bMe2dF	0683	PEPTIDE	F0M	(2~{R})-2-amino-3-methyl-3-phenylbutanoic acid	Backbone
+sbOHdF	0684	PEPTIDE	F0N	(2~{R},3~{S})-2-amino-3-hydroxy-3-phenylpropanoic acid	Backbone
+rbOHdF	0685	PEPTIDE	F0O	(2~{R},3~{R})-2-amino-3-hydroxy-3-phenylpropanoic acid	Backbone
+3Pip	0686	PEPTIDE	PCU	(2~{S})-2-amino-2-piperidin-3-ylacetic acid	Backbone
+d3Pip	0687	PEPTIDE	P0M	(2~{R})-2-amino-2-piperidin-3-ylacetic acid	Backbone
+d4Oxe	0688	PEPTIDE	I06	(2~{R})-2-amino-2-(oxepan-4-yl)acetic acid	Backbone
+4Oxe	0689	PEPTIDE	IA7	(2~{S})-2-amino-2-(oxepan-4-yl)acetic acid	Backbone
+r4Oxe	068A	PEPTIDE	B1G	2-amino-2-(oxepan-4-yl)acetic acid	Backbone
+r3Pip	068B	PEPTIDE	B1H	2-amino-2-piperidin-3-ylacetic acid	Backbone
+racbOHdF	068C	PEPTIDE	F0P	(2~{R})-2-amino-3-hydroxy-3-phenylpropanoic acid	Backbone
+rbMe2F	068D	PEPTIDE	B1I	2-amino-3-methyl-3-phenylbutanoic acid	Backbone
+sbW5Cl	068E	PEPTIDE	WB7	(2~{S},3~{S})-2-amino-3-(5-chloro-1~{H}-indol-3-yl)butanoic acid	Backbone
+sbW6Cl	068F	PEPTIDE	TAA	(2~{S},3~{S})-2-amino-3-(6-chloro-1~{H}-indol-3-yl)butanoic acid	Backbone
+sbW6OM	0690	PEPTIDE	WB8	(2~{S},3~{S})-2-amino-3-(6-methoxy-1~{H}-indol-3-yl)butanoic acid	Backbone
+spAcc4	0691	PEPTIDE	B1J	2-aminospiro[3.3]heptane-2-carboxylic acid	Backbone
+4NMe2F	0692	PEPTIDE	YCF	(2~{S})-2-amino-3-[4-(dimethylamino)phenyl]propanoic acid	Backbone
+4tOAP	0693	PEPTIDE	PCV	(2~{S},4~{R})-4-prop-2-enoxypyrrolidine-2-carboxylic acid	Backbone
+NAlkY	0694	PEPTIDE	YCG	(2~{S})-3-(4-hydroxyphenyl)-2-(prop-2-ynylamino)propanoic acid	Backbone
+NAcY	0695	PEPTIDE	Y0J	(2~{S})-2-(carboxymethylamino)-3-(4-hydroxyphenyl)propanoic acid	Backbone
+sbW2Me	0696	PEPTIDE	WB9	(2~{S},3~{S})-2-amino-3-(2-methyl-1~{H}-indol-3-yl)butanoic acid	Backbone
+W2Et	0697	PEPTIDE	WBA	(2~{S})-2-amino-3-(2-ethyl-1~{H}-indol-3-yl)propanoic acid	Backbone
+W2Pr	0698	PEPTIDE	WBB	(2~{S})-2-amino-3-(2-propyl-1~{H}-indol-3-yl)propanoic acid	Backbone
+W2Ipe	0699	PEPTIDE	WBC	(2~{S})-2-amino-3-[2-(3-methylbutyl)-1~{H}-indol-3-yl]propanoic acid	Backbone
+W2Ihe	069A	PEPTIDE	WBD	(2~{S})-2-amino-3-[2-(4-methylpentyl)-1~{H}-indol-3-yl]propanoic acid	Backbone
+CF2PS	069B	PEPTIDE	DAI	(2~{S})-2-amino-4,4-difluoro-4-phosphonobutanoic acid	Backbone
+glF	069C	PEPTIDE	1A4	(2~{S})-2-(2-oxopyrrolidin-1-yl)-3-phenylpropanoic acid	Backbone
+W2Bz	069D	PEPTIDE	FCZ	(2~{S})-2-amino-3-(2-benzyl-1~{H}-indol-3-yl)propanoic acid	Backbone
+W2EtPh	069E	PEPTIDE	FD0	(2~{S})-2-amino-3-[2-(2-phenylethyl)-1~{H}-indol-3-yl]propanoic acid	Backbone
+W2PrPh	069F	PEPTIDE	FD1	(2~{S})-2-amino-3-[2-(3-phenylpropyl)-1~{H}-indol-3-yl]propanoic acid	Backbone
+Phe2NH2	06A0	PEPTIDE	FD2	(2~{S})-2-amino-3-(2-aminophenyl)propanoic acid	Backbone
+Phe2OH	06A1	PEPTIDE	FD3	(2~{S})-2-amino-3-(2-hydroxyphenyl)propanoic acid	Backbone
+or4Quin	06A2	PEPTIDE	WBE	(2~{or1})-2-amino-3-quinolin-4-ylpropanoic acid	Backbone
+orbMe2F	06A3	PEPTIDE	FD4	(2~{or1})-2-amino-3-methyl-3-phenylbutanoic acid	Backbone
+r4Quin	06A4	PEPTIDE	B1K	2-amino-3-quinolin-4-ylpropanoic acid	Backbone
+CF3AcAEF	06A8	PEPTIDE	YCH	(2~{S})-2-amino-3-[4-[2-[(2,2,2-trifluoroacetyl)amino]ethoxy]phenyl]propanoic acid	Backbone
+AbuMph	06A9	PEPTIDE	EAE	(2~{S})-2-amino-4-morpholin-4-ylbutanoic acid	Backbone
+dAbuMph	06AA	PEPTIDE	E08	(2~{R})-2-amino-4-morpholin-4-ylbutanoic acid	Backbone
+NO4Pal	06AB	PEPTIDE	FD5	(2~{S})-2-amino-3-(1-oxidopyridin-1-ium-4-yl)propanoic acid	Backbone
+Bip3Me	06AC	PEPTIDE	YCI	(2~{S})-2-amino-3-[4-(3-methylphenyl)phenyl]propanoic acid	Backbone
+Bip4CO2H	06AD	PEPTIDE	YCJ	4-[4-[(2~{S})-2-amino-2-carboxyethyl]phenyl]benzoic acid	Backbone
+Bip3F	06AE	PEPTIDE	YCK	(2~{S})-2-amino-3-[4-(3-fluorophenyl)phenyl]propanoic acid	Backbone
+Bip3Cl	06AF	PEPTIDE	YCL	(2~{S})-2-amino-3-[4-(3-chlorophenyl)phenyl]propanoic acid	Backbone
+S8	06B0	PEPTIDE	L0D	(2~{S})-2-amino-2-methyldec-9-enoic acid	Backbone
+b3hW	06B1	PEPTIDE	WBF	(3~{S})-3-amino-4-(1~{H}-indol-3-yl)butanoic acid	Backbone
+DBCO	06B2	CHEM	90O	2-azatricyclo[10.4.0.0^{4,9}]hexadeca-1(12),4(9),5,7,13,15-hexaen-10-yne	
+CLIPS	06B3	CHEM	B1L	2-[5,6-bis(bromomethyl)-2-(2-hydroxyethyl)-1,3-dihydroisoindol-2-ium-2-yl]ethanol	
+10R	06B4	PEPTIDE	10R	(5~{S})-5-methyloctanoic acid	Backbone
+90P	06B6	CHEM	90P	2-chloro-5-propan-2-yloxyaniline	
+90Q	06B7	CHEM	90Q	2-chloro-5-(trifluoromethyl)aniline	
+90R	06B8	CHEM	90R	thiophen-2-ylmethanamine	
+10S	06B9	PEPTIDE	10S	3-(2-chloro-4-propoxyphenyl)propanoic acid	Backbone
+dbhP	06BA	PEPTIDE	P0N	2-[(2~{R})-pyrrolidin-2-yl]acetic acid	Backbone
+NxG19	06BB	PEPTIDE	B1M	2-[(3-methylphenyl)methylamino]acetic acid	Backbone
+3OMBip	06BC	PEPTIDE	YCM	(2~{S})-2-amino-3-[4-(3-methoxyphenyl)phenyl]propanoic acid	Backbone
+YOPra	06BD	PEPTIDE	YCP	(2~{S})-2-amino-3-(4-prop-2-ynoxyphenyl)propanoic acid	Backbone
+NMeF4CO2H	06BE	PEPTIDE	YCQ	4-[(2~{S})-2-carboxy-2-(methylamino)ethyl]benzoic acid	Backbone
+NEtAlkF	06BF	PEPTIDE	FD6	(2~{S})-2-(but-3-ynylamino)-3-phenylpropanoic acid	Backbone
+F4pcCCA	06C0	PEPTIDE	YCR	4-[4-[(2~{S})-2-amino-2-carboxyethyl]phenyl]cyclohexane-1-carboxylic acid	Backbone
+F4ptCCA	06C1	PEPTIDE	YCS	4-[4-[(2~{S})-2-amino-2-carboxyethyl]phenyl]cyclohexane-1-carboxylic acid	Backbone
+W2MeOpr	06C2	PEPTIDE	WBG	(2~{S})-2-amino-3-[2-(3-methoxypropyl)-1~{H}-indol-3-yl]propanoic acid	Backbone
+W2prOH	06C3	PEPTIDE	WBH	(2~{S})-2-amino-3-[2-(3-hydroxypropyl)-1~{H}-indol-3-yl]propanoic acid	Backbone
+h4Pal	06C4	PEPTIDE	KB4	(2~{S})-2-amino-4-pyridin-4-ylbutanoic acid	Backbone
+hPhe4CN	06C5	PEPTIDE	YCT	(2~{S})-2-amino-4-(4-cyanophenyl)butanoic acid	Backbone
+ArgC6Alk	06C6	PEPTIDE	RAS	(2~{S})-2-amino-5-[[(~{Z})-~{N}'-(hex-5-ynylcarbamoyl)carbamimidoyl]amino]pentanoic acid	Backbone
+ArgPEG2Az	06C7	PEPTIDE	RAT	(2~{S})-2-amino-5-[[(~{Z})-~{N}'-[2-[2-(2-azidoethoxy)ethoxy]ethylcarbamoyl]carbamimidoyl]amino]pentanoic acid	Backbone
+LeuMeEpo	06C8	PEPTIDE	90S	(2~{R})-2-amino-4-methyl-1-[(2~{S})-2-methyloxiran-2-yl]pentan-1-one	Backbone
+PEG3acidprg	06C9	PEPTIDE	10T	3-[2-(2-prop-2-ynoxyethoxy)ethoxy]propanoic acid	Backbone
+LeuAld	06CA	PEPTIDE	90T	(2~{S})-2-amino-4-methylpentanal	Backbone
+PEG3NH2prg	06CB	PEPTIDE	90U	2-[2-(2-prop-2-ynoxyethoxy)ethoxy]ethanamine	Backbone
+10U	06CC	PEPTIDE	10U	4-(carboxyoxymethyl)benzoic acid	Backbone
+Chol	06CD	PEPTIDE	90V	(3~{S},8~{S},9~{S},10~{R},13~{R},14~{S},17~{R})-10,13-dimethyl-17-[(2~{R})-6-methylheptan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1~{H}-cyclopenta[a]phenanthren-3-ol	Backbone
+PEG24NH2acid	06CE	PEPTIDE	B1N	amino PEG 24 propanoic acid	Backbone
+B1O	06CF	PEPTIDE	B1O	(4-aminophenyl)methyl hydrogen carbonate	Backbone
+MalC6acid	06D0	PEPTIDE	10V	6-(2,5-dioxopyrrol-1-yl)hexanoic acid	Backbone
+GluOEt	06DA	PEPTIDE	EAF	(2~{S})-2-amino-5-ethoxy-5-oxopentanoic acid	Backbone
+Phe2NO2	06DB	PEPTIDE	FD7	(2~{S})-2-amino-3-(2-nitrophenyl)propanoic acid	Backbone
+Phe2Me	06DC	PEPTIDE	FD8	(2~{S})-2-amino-3-(2-methylphenyl)propanoic acid	Backbone
+aMePhe4F	06DD	PEPTIDE	Y0K	(2~{S})-2-amino-3-(4-fluorophenyl)-2-methylpropanoic acid	Backbone
+hCSCF3	06DE	PEPTIDE	MA8	(2~{S})-2-amino-4-(trifluoromethylsulfanyl)butanoic acid	Backbone
+aPrLysN3	06DF	PEPTIDE	PCW	(2~{S})-6-azido-2-(propylamino)hexanoic acid	Backbone
+aMeAspOMe	06E0	PEPTIDE	PCX	(2~{S})-4-methoxy-2-(methylamino)-4-oxobutanoic acid	Backbone
+Hept	06E1	PEPTIDE	B1Q	1,7-dichloroheptane	Backbone
+dMse	06E2	PEPTIDE	M04	(2~{R})-2-amino-4-methylselanylbutanoic acid	Backbone
+dPheF5	06E3	PEPTIDE	F0Q	(2~{R})-2-amino-3-(2,3,4,5,6-pentafluorophenyl)propanoic acid	Backbone
+dPhe2F	06E4	PEPTIDE	F0R	(2~{R})-2-amino-3-(2-fluorophenyl)propanoic acid	Backbone
+OHAc	06E5	PEPTIDE	B1P	2-hydroxyacetic acid	Backbone
+3Trz5c3Cl	06E7	CHEM	B1R	5-(3-chloropropyl)-1~{H}-triazole	
+aMeAlaCN	06E9	PEPTIDE	G09	(2~{S})-2-amino-3-cyano-2-methylpropanoic acid	Backbone
+Bip3Cl4CO2H	06EA	PEPTIDE	YCU	4-[4-[(2~{S})-2-amino-2-carboxyethyl]phenyl]-2-chlorobenzoic acid	Backbone
+TbAbu	06EB	PEPTIDE	EAG	(2~{S})-2-amino-5,5-dimethylhexanoic acid	Backbone
+bMe2Y	06EC	PEPTIDE	YCV	(2~{S})-2-amino-3-(4-hydroxyphenyl)-3-methylbutanoic acid	Backbone
+bMe2dY	06ED	PEPTIDE	Y0L	(2~{R})-2-amino-3-(4-hydroxyphenyl)-3-methylbutanoic acid	Backbone
+NxG20	06EE	PEPTIDE	B1S	2-[[(1~{S})-1-phenylethyl]amino]acetic acid	Backbone
+NxG21	06EF	PEPTIDE	B1T	2-(2-hydroxyethylamino)acetic acid	Backbone
+dTrp6F	06F0	PEPTIDE	W07	(2~{R})-2-amino-3-(6-fluoro-1~{H}-indol-3-yl)propanoic acid	Backbone
+AdAA	06F1	PEPTIDE	B1V	3-aminoadamantane-1-carboxylic acid	Backbone
+mPhTr	06F2	PEPTIDE	B1W	3-[4-(aminomethyl)triazol-1-yl]benzoic acid	Backbone
+d5fWProp	06F3	PEPTIDE	W08	(2~{R})-2-amino-3-(5-fluoro-1-prop-2-ynylindol-3-yl)propanoic acid	Backbone
+5fWProp	06F4	PEPTIDE	WBI	(2~{S})-2-amino-3-(5-fluoro-1-prop-2-ynylindol-3-yl)propanoic acid	Backbone
+gLeu	06F5	PEPTIDE	B1X	4-amino-6-methylheptanoic acid	Backbone
+ASMPh	06F6	PEPTIDE	90W	2-[(4-methoxyphenyl)methylsulfanyl]ethanamine	Backbone
+NMeYOMe	06F7	PEPTIDE	YCW	(2~{S})-3-(4-methoxyphenyl)-2-(methylamino)propanoic acid	Backbone
+oAPS	06F8	PEPTIDE	B1Y	2-(3-aminopropoxy)benzoic acid	Backbone
+DBCOTz	06F9	CHEM	B1U	3,4,5,13-tetrazatetracyclo[13.4.0.0^{2,6}.0^{7,12}]nonadeca-1(15),2(6),4,7(12),8,10,16,18-octaene	
+I2Tyr	06FA	PEPTIDE	YCX	(2~{S})-2-amino-3-(4-hydroxy-3,5-diiodophenyl)propanoic acid	Backbone
+NvaF3	06FB	PEPTIDE	EAH	(2~{S})-2-amino-5,5,5-trifluoropentanoic acid	Backbone
+hCha	06FC	PEPTIDE	KB5	(2~{S})-2-amino-4-cyclohexylbutanoic acid	Backbone
+NEtG	06FD	PEPTIDE	B1Z	2-(ethylamino)acetic acid	Backbone
+b3hF4CN	06FE	PEPTIDE	B21	3-amino-4-(4-cyanophenyl)butanoic acid	Backbone
+b3hF4F	06FF	PEPTIDE	B22	3-amino-4-(4-fluorophenyl)butanoic acid	Backbone
+Arg2F2	0700	PEPTIDE	N03	(2~{R})-2-amino-5-carbamimidamido-4,4-difluoropentanoic acid	Backbone
+Arg2F	0701	PEPTIDE	R07	(2~{R})-2-amino-5-carbamimidamido-4-fluoropentanoic acid	Backbone
+2r5rdMOle	0702	PEPTIDE	B24	(~{E},2~{R},5~{R})-5-amino-2-methylhex-3-enoic acid	Backbone
+2r5rdMHex	0703	PEPTIDE	B25	(2~{R},5~{R})-5-amino-2-methylhexanoic acid	Backbone
+Bip3CO2H	0704	PEPTIDE	YCZ	3-[4-[(2~{S})-2-amino-2-carboxyethyl]phenyl]benzoic acid	Backbone
+Bip3MOH4Cl	0705	PEPTIDE	YD0	(2~{S})-2-amino-3-[4-[4-chloro-3-(hydroxymethyl)phenyl]phenyl]propanoic acid	Backbone
+rbMeYme	0706	PEPTIDE	TAB	(2~{S},3~{R})-2-amino-3-(4-methoxyphenyl)butanoic acid	Backbone
+sbMeYme	0707	PEPTIDE	TAC	(2~{S},3~{S})-2-amino-3-(4-methoxyphenyl)butanoic acid	Backbone
+sbW4F	0708	PEPTIDE	WBJ	(2~{S},3~{S})-2-amino-3-(4-fluoro-1~{H}-indol-3-yl)butanoic acid	Backbone
+mYOCF3	0709	PEPTIDE	FD9	(2~{S})-2-amino-3-[3-(trifluoromethoxy)phenyl]propanoic acid	Backbone
+YOhAl	070A	PEPTIDE	YD1	(2~{S})-2-amino-3-[4-(hydroxymethoxy)phenyl]propanoic acid	Backbone
+R4	070B	PEPTIDE	LAP	(2~{R})-2-amino-2-methylhex-5-enoic acid	Backbone
+dNvaAl	070C	PEPTIDE	K0F	(2~{R})-2-aminooct-7-enoic acid	Backbone
+R6	070D	PEPTIDE	LAQ	(2~{R})-2-amino-2-methyloct-7-enoic acid	Backbone
+dNleAl	070E	PEPTIDE	K0G	(2~{R})-2-aminonon-8-enoic acid	Backbone
+S7	070F	PEPTIDE	L0F	(2~{S})-2-amino-2-methylnon-8-enoic acid	Backbone
+R7	0710	PEPTIDE	LAR	(2~{R})-2-amino-2-methylnon-8-enoic acid	Backbone
+dAhpAl	0711	PEPTIDE	K0H	(2~{R})-2-aminodec-9-enoic acid	Backbone
+YOdiacid	0712	PEPTIDE	YD2	2-[4-[(2~{S})-2-amino-2-carboxyethyl]phenoxy]propanedioic acid	Backbone
+NxG22	0713	PEPTIDE	B26	4-[(carboxymethylamino)methyl]benzoic acid	Backbone
+NxG23	0714	PEPTIDE	B27	2-(2,3-dihydro-1,4-benzodioxin-6-ylmethylamino)acetic acid	Backbone
+NxG24	0715	PEPTIDE	B28	2-(oxan-4-ylmethylamino)acetic acid	Backbone
+NAlkAcAEF	0716	PEPTIDE	PCY	(2~{S})-3-[4-(2-acetamidoethoxy)phenyl]-2-(but-3-ynylamino)propanoic acid	Backbone
+GluMe2	0717	PEPTIDE	AAB	(2~{S})-2-amino-3,3-dimethylpentanedioic acid	Backbone
+YMe2OMe	0718	PEPTIDE	AAC	(2~{S})-2-amino-3-(4-methoxyphenyl)-3-methylbutanoic acid	Backbone
+Bip4OH	0719	PEPTIDE	YD6	(2~{S})-2-amino-3-[4-(4-hydroxyphenyl)phenyl]propanoic acid	Backbone
+mYOPra	071A	PEPTIDE	FDA	(2~{S})-2-amino-3-(3-prop-2-ynoxyphenyl)propanoic acid	Backbone
+W5FCH2CO2H	071B	PEPTIDE	WBL	(2~{S})-2-amino-3-[1-(carboxymethyl)-5-fluoroindol-3-yl]propanoic acid	Backbone
+Dabcyl	071C	CHEM	10Y	4-[(~{E})-[4-(dimethylamino)phenyl]diazenyl]benzoic acid	
+Edans	071D	CHEM	B29	5-(2-aminoethylamino)naphthalene-1-sulfonic acid	
+F4SO3H	071E	PEPTIDE	YD7	(2~{S})-2-amino-3-(4-sulfophenyl)propanoic acid	Backbone
+F4mSO3H	071F	PEPTIDE	YD8	(2~{S})-2-amino-3-[4-(sulfomethyl)phenyl]propanoic acid	Backbone
+OMe	0720	PEPTIDE	90X	methanol	Backbone
+Et	0722	CHEM	B2B	ethane	
+2BrPr	0723	PEPTIDE	B2C	2-bromopropanoic acid	Backbone
+S2BrPr	0724	PEPTIDE	B2D	(2~{S})-2-bromopropanoic acid	Backbone
+R2BrPr	0725	PEPTIDE	B2E	(2~{R})-2-bromopropanoic acid	Backbone
+or2BrPr	0729	PEPTIDE	B2F	(2~{R or S})-2-bromopropanoic acid	Backbone
+hhF	072B	CHEM	B2G	(2~{R})-1-R2-2-(R1amino)-5-phenylpentan-1-one	
+2OxInd	072C	PEPTIDE	B2H	(2~{S})-2-amino-3-(2-oxo-1,3-dihydroindol-3-yl)propanoic acid	Backbone
+rAbu	072D	PEPTIDE	B2I	2-aminobutanoic acid	Backbone
+orAbu	072E	PEPTIDE	SAR	(2~{R or S})-2-aminobutanoic acid	Backbone
+AlaF	072F	PEPTIDE	SAS	(2~{R})-2-amino-3-fluoropropanoic acid	Backbone
+AlaF3	0730	PEPTIDE	B2J	(S)-2-amino-3,3,3-trifluoropropanoic acid	Backbone
+aMeAlaF2	0731	PEPTIDE	B2K	(S)-2-amino-3,3-difluoro-2-methylpropanoic acid	Backbone
+Phe3NH2	0732	PEPTIDE	FDB	(2~{S})-2-amino-3-(3-aminophenyl)propanoic acid	Backbone
+AlaPiperaz	0733	PEPTIDE	SAT	(2~{S})-2-amino-3-(4-R3-piperazin-1-yl)propanoic acid	Backbone
+NxG25	0734	PEPTIDE	B2L	2-[(4-hydroxyphenyl)methylamino]acetic acid	Backbone
+or2OxInd	0735	PEPTIDE	F0S	(2~{S})-2-amino-3-[(3~{R or S})-2-oxo-1,3-dihydroindol-3-yl]propanoic acid	Backbone
+NXG26	0736	PEPTIDE	B2O	2-[3-(dimethylamino)propylamino]acetic acid	Backbone
+NXG27	0737	PEPTIDE	B2P	2-(3-methoxypropylamino)acetic acid	Backbone
+Rh110	0738	CHEM	B2N	3',6'-diaminospiro[2-benzofuran-3,9'-xanthene]-1-one	
+Kpyr	0739	PEPTIDE	KB6	(2~{S})-2-amino-6-(2,4,6-triphenylpyridin-1-ium-1-yl)hexanoic acid	Backbone
+Phg3OH	073A	PEPTIDE	YD9	(2~{S})-2-amino-2-(3-hydroxyphenyl)acetic acid	Backbone
+dPhg3OH	073B	PEPTIDE	Y0M	(2~{R})-2-amino-2-(3-hydroxyphenyl)acetic acid	Backbone
+rPhgOH	073C	PEPTIDE	B2Q	2-amino-2-(3-hydroxyphenyl)acetic acid	Backbone
+r4BPhg	073D	PEPTIDE	B2R	2-amino-2-(4-bromophenyl)acetic acid	Backbone
+BrPh	073E	PEPTIDE	B2S	2-bromo-2-phenylacetic acid	Backbone
+SBrPh	073F	PEPTIDE	B2T	(2~{S})-2-bromo-2-phenylacetic acid	Backbone
+RBrPh	0740	PEPTIDE	B2U	(2~{R})-2-bromo-2-phenylacetic acid	Backbone
+BrBu	0741	PEPTIDE	B2V	2-bromobutanoic acid	Backbone
+SBrBu	0742	PEPTIDE	B2W	(2~{S})-2-bromobutanoic acid	Backbone
+RBrBu	0743	PEPTIDE	B2X	(2~{R})-2-bromobutanoic acid	Backbone
+BrPrCF3	0744	PEPTIDE	B2Y	2-bromo-4,4,4-trifluorobutanoic acid	Backbone
+SBrPrCF3	0745	PEPTIDE	B2Z	(2~{S})-2-bromo-4,4,4-trifluorobutanoic acid	Backbone
+RBrPrCF3	0746	PEPTIDE	B30	(2~{R})-2-bromo-4,4,4-trifluorobutanoic acid	Backbone
+Br4ClPh	0747	PEPTIDE	B31	2-bromo-2-(4-chlorophenyl)acetic acid	Backbone
+SBr4ClPh	0748	PEPTIDE	B32	(2~{S})-2-bromo-2-(4-chlorophenyl)acetic acid	Backbone
+RBr4ClPh	0749	PEPTIDE	B33	(2~{R})-2-bromo-2-(4-chlorophenyl)acetic acid	Backbone
+Br3FPh	074A	PEPTIDE	B34	2-bromo-2-(3-fluorophenyl)acetic acid	Backbone
+SBr3FPh	074B	PEPTIDE	B35	(2~{S})-2-bromo-2-(3-fluorophenyl)acetic acid	Backbone
+RBr3FPh	074C	PEPTIDE	B36	(2~{R})-2-bromo-2-(3-fluorophenyl)acetic acid	Backbone
+Br2ClPh	074D	PEPTIDE	B37	2-bromo-2-(2-chlorophenyl)acetic acid	Backbone
+SBr2ClPh	074E	PEPTIDE	B38	(2~{S})-2-bromo-2-(2-chlorophenyl)acetic acid	Backbone
+RBr2ClPh	074F	PEPTIDE	B39	(2~{R})-2-bromo-2-(2-chlorophenyl)acetic acid	Backbone
+BrIhex	0750	PEPTIDE	B3A	2-bromo-4-methylpentanoic acid	Backbone
+SBrIhex	0751	PEPTIDE	B3B	(2~{S})-2-bromo-4-methylpentanoic acid	Backbone
+RBrIhex	0752	PEPTIDE	B3C	(2~{R})-2-bromo-4-methylpentanoic acid	Backbone
+AlapentOH	0753	PEPTIDE	DAJ	(2~{S})-2-amino-3-(3-hydroxy-1-bicyclo[1.1.1]pentanyl)propanoic acid	Backbone
+3Inda	0754	PEPTIDE	B3D	(2~{S})-2-amino-3-(2~{H}-indazol-3-yl)propanoic acid	Backbone
+or3Inda	0755	PEPTIDE	B3E	(2~{S})-2-amino-3-(2~{H}-indazol-3-yl)propanoic acid	Backbone
+1Indolin	0756	PEPTIDE	B3F	(2~{S})-2-amino-3-(2,3-dihydroindol-1-yl)propanoic acid	Backbone
+Trp7Me	0757	PEPTIDE	B3G	(2~{S})-2-amino-3-(7-methyl-1~{H}-indol-3-yl)propanoic acid	Backbone
+b3Phe4CF3	0758	PEPTIDE	YDA	(3~{S})-3-amino-4-[4-(trifluoromethyl)phenyl]butanoic acid	Backbone
+b3Phe4Br	0759	PEPTIDE	YDB	(3~{S})-3-amino-4-(4-bromophenyl)butanoic acid	Backbone
+b3Phe4NO2	075A	PEPTIDE	YDC	(3~{S})-3-amino-4-(4-nitrophenyl)butanoic acid	Backbone
+b3Phe4CN	075B	PEPTIDE	YDD	(3~{S})-3-amino-4-(4-cyanophenyl)butanoic acid	Backbone
+b3Phe4F	075C	PEPTIDE	YDE	(3~{S})-3-amino-4-(4-fluorophenyl)butanoic acid	Backbone
+b3Phe24F2	075D	PEPTIDE	DAK	(3~{S})-3-amino-4-(2,4-difluorophenyl)butanoic acid	Backbone
+b3Phe34F2	075E	PEPTIDE	DAL	(3~{S})-3-amino-4-(3,4-difluorophenyl)butanoic acid	Backbone
+b3Phe234F3	075F	PEPTIDE	DAM	(3~{S})-3-amino-4-(2,3,4-trifluorophenyl)butanoic acid	Backbone
+b3PheF5	0760	PEPTIDE	DAN	(3~{S})-3-amino-4-(2,3,4,5,6-pentafluorophenyl)butanoic acid	Backbone
+orAlaPip4	0761	PEPTIDE	B3H	(2~{R or S})-2-amino-3-piperidin-4-ylpropanoic acid	Backbone
+orAlaMph	0762	PEPTIDE	B3I	(2~{R or S})-2-amino-3-morpholin-4-ylpropanoic acid	Backbone
+7IndW	0763	PEPTIDE	WBM	(2~{S})-2-amino-3-[7-(2,3-dihydro-1~{H}-inden-2-yl)-1~{H}-indol-3-yl]propanoic acid	Backbone
+Bip3Me4OH	0764	PEPTIDE	YDF	(2~{S})-2-amino-3-[4-(4-hydroxy-3-methylphenyl)phenyl]propanoic acid	Backbone
+sbW7az	0765	PEPTIDE	TAD	(2~{S},3~{S})-2-amino-3-(1~{H}-pyrrolo[2,3-b]pyridin-3-yl)butanoic acid	Backbone
+7CpeW	0766	PEPTIDE	WBN	(2~{S})-2-amino-3-(7-cyclopentyl-1~{H}-indol-3-yl)propanoic acid	Backbone
+Prot4OPh	0767	PEPTIDE	FDC	(2~{S},4~{R})-4-phenoxypyrrolidine-2-carboxylic acid	Backbone
+orAlaF3	0768	PEPTIDE	AAD	(2~{R or S})-2-amino-3,3,3-trifluoropropanoic acid	Backbone
+oraMeAlaF2	0769	PEPTIDE	V05	(2~{R or S})-2-amino-3,3-difluoro-2-methylpropanoic acid	Backbone
+or1Thq	076A	PEPTIDE	FDD	(2~{R or S})-2-amino-3-(3,4-dihydro-2~{H}-quinolin-1-yl)propanoic acid	Backbone
+LysDNP	076B	PEPTIDE	KB7	(2~{S})-2-amino-6-(2,4-dinitroanilino)hexanoic acid	Backbone
+MCA	076C	PEPTIDE	10Z	2-(7-methoxy-2-oxochromen-4-yl)acetic acid	Backbone
+SerOtBu	076E	PEPTIDE	SAU	(2~{S})-2-amino-3-[(2-methylpropan-2-yl)oxy]propanoic acid	Backbone
+AsnTrt	076F	PEPTIDE	FDE	(2~{S})-2-amino-4-oxo-4-(tritylamino)butanoic acid	Backbone
+Boc	0770	PEPTIDE	110	~{tert}-butyl hydrogen carbonate	Backbone
+Tyr3NH2	0772	PEPTIDE	YDG	(2~{S})-2-amino-3-(3-amino-4-hydroxyphenyl)propanoic acid	Backbone
+NEtdA	0773	PEPTIDE	A06	(2~{R})-2-(ethylamino)propanoic acid	Backbone
+SbMeW7OMe	0774	PEPTIDE	TAE	(2~{S},3~{S})-2-amino-3-(7-methoxy-1~{H}-indol-3-yl)butanoic acid	Backbone
+SbMeW7Cl	0775	PEPTIDE	TAF	(2~{S},3~{S})-2-amino-3-(7-chloro-1~{H}-indol-3-yl)butanoic acid	Backbone
+cMetO2	0776	PEPTIDE	MA9	(2~{S})-2-amino-2-(1,1-dioxothietan-3-yl)acetic acid	Backbone
+3Pal6F	0777	PEPTIDE	FDF	(2~{S})-2-amino-3-(4-fluoropyridin-3-yl)propanoic acid	Backbone
+SMeamBCP	0778	PEPTIDE	B3J	3-[(1~{S})-1-aminoethyl]bicyclo[1.1.1]pentane-1-carboxylic acid	Backbone
+RMeamBCP	0779	PEPTIDE	B3K	3-[(1~{R})-1-aminoethyl]bicyclo[1.1.1]pentane-1-carboxylic acid	Backbone
+DabN3Lac	077A	PEPTIDE	90Y	(3~{S})-5-azido-3-hydroxypentan-2-one	Backbone
+SF2Cba	077B	PEPTIDE	LAS	(2~{S})-2-amino-3-(3,3-difluorocyclobutyl)propanoic acid	Backbone
+rF2Cba	077C	PEPTIDE	B3L	2-amino-3-(3,3-difluorocyclobutyl)propanoic acid	Backbone
+TyrOMealkenLeu	077D	PEPTIDE	B3M	(~{E},2~{R},5~{S})-5-amino-2-[(4-methoxyphenyl)methyl]-7-methyloct-3-enoic acid	Backbone
+Phe4SamPyrr	077E	PEPTIDE	YDH	(2~{S})-2-amino-3-[4-[(2~{S})-2-(aminomethyl)pyrrolidin-1-yl]phenyl]propanoic acid	Backbone
+Mspg	077F	PEPTIDE	B3N	2-(3-methylsulfonylpropylamino)acetic acid	Backbone
+Phe43PyNH2	0780	PEPTIDE	YDI	(2~{S})-2-amino-3-[4-(2-aminopyridin-3-yl)phenyl]propanoic acid	Backbone
+Phe4RamPyrr	0781	PEPTIDE	YDJ	(2~{S})-2-amino-3-[4-[(2~{R})-2-(aminomethyl)pyrrolidin-1-yl]phenyl]propanoic acid	Backbone
+Cmpg	0782	PEPTIDE	B3O	2-[(4-amino-4-oxobutyl)amino]acetic acid	Backbone
+Proc23CH2	0783	PEPTIDE	P0O	(1~{S},5~{R})-2-azabicyclo[3.1.0]hexane-1-carboxylic acid	Backbone
+sProc35c2	0784	PEPTIDE	PCZ	(1~{R},3~{S},4~{S})-2-azabicyclo[2.2.1]heptane-3-carboxylic acid	Backbone
+AlaPOOEt2	0785	PEPTIDE	SAV	(2~{R})-2-amino-3-diethoxyphosphorylpropanoic acid	Backbone
+AlaIsxnMOM	0786	PEPTIDE	HAR	(2~{S})-2-amino-3-[2-(methoxymethyl)-3-oxo-1,2-oxazol-5-yl]propanoic acid	Backbone
+PheFalkenAsp	0787	PEPTIDE	B3P	(2~{R})-2-[(~{Z},3~{S})-3-amino-2-fluoro-4-phenylbut-1-enyl]butanedioic acid	Backbone
+PheFalkenSer	0788	PEPTIDE	B3Q	(~{Z},2~{R},5~{S})-5-amino-2-benzyl-4-fluoro-6-hydroxyhex-3-enoic acid	Backbone
+PhealkenSer	0789	PEPTIDE	B3R	(~{E},2~{R},5~{R})-5-amino-2-benzyl-6-hydroxyhex-3-enoic acid	Backbone
+dAlaPyz1	078A	PEPTIDE	S0C	(2~{R})-2-amino-3-pyrazol-1-ylpropanoic acid	Backbone
+Aoaa	078B	PEPTIDE	111	2-methoxyacetic acid	Backbone
+ProalkenVal	078C	PEPTIDE	B3S	(~{E},2~{R})-2-propan-2-yl-4-[(2~{S})-pyrrolidin-2-yl]but-3-enoic acid	Backbone
+t7aHep2en	078D	PEPTIDE	B3T	(~{E})-7-aminohept-2-enoic acid	Backbone
+McEt	078E	PEPTIDE	90Z	2-sulfanylethanol	Backbone
+Cysteamine2cBu	078F	PEPTIDE	910	1-(methylsulfanylmethyl)cyclobutan-1-amine	Backbone
+dPhe2OAl	0790	PEPTIDE	W09	(2~{R})-2-amino-3-(2-prop-2-enoxyphenyl)propanoic acid	Backbone
+Phe2OAl	0791	PEPTIDE	WBO	(2~{S})-2-amino-3-(2-prop-2-enoxyphenyl)propanoic acid	Backbone
+AcApG	0792	PEPTIDE	B3U	2-(3-acetamidopropylamino)acetic acid	Backbone
+ClTgl	0793	PEPTIDE	B3V	(~{E})-4-chloro-2-methylbut-2-enoic acid	Backbone
+Phe2Al	0794	PEPTIDE	WBP	(2~{S})-2-amino-3-(2-prop-2-enylphenyl)propanoic acid	Backbone
+ClCH2RRcPr	0795	PEPTIDE	B3W	(1~{R},2~{R})-2-(chloromethyl)cyclopropane-1-carboxylic acid	Backbone
+dSerMe	0796	PEPTIDE	S0D	(2~{R})-2-amino-3-methoxypropanoic acid	Backbone
+cBuS	0797	PEPTIDE	SAW	(2~{S})-2-amino-2-(1-hydroxycyclobutyl)acetic acid	Backbone
+nMeSMe	0798	PEPTIDE	SAX	(2~{S})-3-methoxy-2-(methylamino)propanoic acid	Backbone
+SFAM	0799	PEPTIDE	112	(3',6'-dihydroxy-3-oxospiro[2-benzofuran-1,9'-xanthene]-5-yl)carbamothioic ~{O}-acid	Backbone
+rbaFW	079A	PEPTIDE	B3X	2-amino-3-(5-fluoro-1~{H}-indol-3-yl)hex-5-enoic acid	Backbone
+rPhe4Cl	079B	PEPTIDE	B3Y	2-amino-3-(4-chlorophenyl)propanoic acid	Backbone
+3Pal2F	079C	PEPTIDE	FDG	(2~{S})-2-amino-3-(2-fluoropyridin-3-yl)propanoic acid	Backbone
+nMePipA	079D	PEPTIDE	PD0	(2~{S})-2-(methylamino)-3-piperidin-1-ylpropanoic acid	Backbone
+aMeSMe	079E	PEPTIDE	S0E	(2~{S})-2-amino-3-methoxy-2-methylpropanoic acid	Backbone
+nMedHag	079F	PEPTIDE	P0P	(2~{R})-2-(methylamino)butanoic acid	Backbone
+Valeric	07A0	PEPTIDE	113	hexanoic acid	Backbone
+Butyryl	07A1	PEPTIDE	114	4-sulfanylbutanoic acid	Backbone
+IsoxazoAla	07A2	PEPTIDE	HAS	(2~{S})-2-amino-3-(3-oxo-1,2-oxazol-5-yl)propanoic acid	Backbone
+dOrn	07A3	PEPTIDE	K0I	(2~{R})-2,5-diaminopentanoic acid	Backbone
+TolAsp	07A4	PEPTIDE	DAO	(2~{S})-2-amino-4-[carboxy-(4-methylphenyl)methoxy]-4-oxobutanoic acid	Backbone
+Morpip	07A5	PEPTIDE	PD1	(3~{S})-morpholine-3-carboxylic acid	Backbone
+Aopa	07A6	PEPTIDE	115	2-methoxypropanoic acid	Backbone
+h6ea	07A7	PEPTIDE	116	pentanoic acid	Backbone
+dbHag	07A8	PEPTIDE	911	(3~{R})-3-aminobutanoic acid	Backbone
+FAib	07A9	PEPTIDE	GA7	(2~{S})-2-amino-3-fluoro-2-methylpropanoic acid	Backbone
+cBuALac	07AA	PEPTIDE	B42	(2~{S})-3-cyclobutyl-2-hydroxypropanoic acid	Backbone
+amcBuMe	07AB	PEPTIDE	B43	3-(aminomethyl)-3-methylcyclobutane-1-carboxylic acid	Backbone
+SerBnLac	07AC	PEPTIDE	B44	(2~{S})-2-hydroxy-3-phenylmethoxypropanoic acid	Backbone
+dPhe3F	07AD	PEPTIDE	F0U	(2~{R})-2-amino-3-(3-fluorophenyl)propanoic acid	Backbone
+AlaNO2	07AE	PEPTIDE	NA3	(2~{S})-2-amino-3-nitropropanoic acid	Backbone
+NMeNvaF	07AF	PEPTIDE	PD2	(2~{S})-5-fluoro-2-(methylamino)pentanoic acid	Backbone
+PEOL	07B0	PEPTIDE	117	1-hydroperoxypropane	Backbone
+HagLac	07B1	PEPTIDE	B45	(2~{S})-2-hydroxybutanoic acid	Backbone
+F2FLac	07B2	PEPTIDE	B46	(2~{S})-3-(2-fluorophenyl)-2-hydroxypropanoic acid	Backbone
+ChaLac	07B3	PEPTIDE	B47	(2~{S})-3-cyclohexyl-2-hydroxypropanoic acid	Backbone
+ThpO	07B4	PEPTIDE	B48	4-aminooxane-4-carboxylic acid	Backbone
+dBHagMe	07B5	PEPTIDE	912	methyl (3~{R})-3-aminobutanoate	Backbone
+IleLac	07B6	PEPTIDE	B49	(2~{S},3~{S})-2-hydroxy-3-methylpentanoic acid	Backbone
+rPyroAla	07B7	PEPTIDE	B4A	2-amino-3-pyrrol-1-ylpropanoic acid	Backbone
+NMePe	07B8	PEPTIDE	913	~{N}-methylpropan-1-amine	Backbone
+NleLac	07B9	PEPTIDE	B4C	(2~{S})-2-hydroxyhexanoic acid	Backbone
+5COH	07BA	PEPTIDE	B4B	(2~{S})-1-methoxy-2-methylbutane	Backbone
+914	07BB	PEPTIDE	914	3-azidopropan-1-amine	Backbone
+118	07BC	PEPTIDE	118	4-[(2-methylpropan-2-yl)oxy]-4-oxobutanoic acid	Backbone
+915	07BD	PEPTIDE	915	2-azidoethanamine	Backbone
+orAbuF2	07BE	PEPTIDE	B4D	2-(R or S)-amino-4,4-difluorobutanoic acid	Backbone
+orPhe4NH2	07BF	PEPTIDE	B4E	2-(R or S)-amino-3-(4-aminophenyl)propanoic acid	Backbone
+Nva1Trz4MOM	07C0	PEPTIDE	B09	(2~{S})-2-amino-5-[4-(methoxymethyl)triazol-2-ium-1-yl]pentanoic acid	Backbone
+3AzProp	07C1	PEPTIDE	B1B	3-azidopropanoic acid	Backbone
+AF647	07C2	CHEM	119	1-(5-carboxypentyl)-2-[(1~{E},3~{E},5~{E})-5-[3,3-dimethyl-5-sulfo-1-(3-sulfopropyl)indol-2-ylidene]penta-1,3-dienyl]-3-methyl-3-(3-sulfopropyl)indol-1-ium-5-sulfonate	
+dPhe4N3	07C3	PEPTIDE	Y0N	(2~{R})-2-amino-3-(4-azidophenyl)propanoic acid	Backbone
+dAspOAl	07C4	PEPTIDE	D06	(2~{R})-2-amino-4-methoxy-4-oxobutanoic acid	Backbone
+dPhe3Al	07C5	PEPTIDE	916	1-oxonona-5,7-dien-4-yl(^{1})	Backbone
+NMeNvaAl	07C6	PEPTIDE	B4F	~{N}-methylpentan-1-amine	Backbone
+NMeNleAl	07C7	PEPTIDE	B4G	~{N}-methylhexan-1-amine	Backbone
+dProc5Ph	07C9	PEPTIDE	P0Q	(2~{R},5~{S})-5-phenylpyrrolidine-2-carboxylic acid	Backbone
+nAdmG	07CA	PEPTIDE	B4I	2-(1-adamantylmethylamino)acetic acid	Backbone
+rAlaF2	07CB	PEPTIDE	B4J	2-amino-3,3-difluoropropanoic acid	Backbone
+PipH	07CC	PEPTIDE	B4K	4-aminopiperidine-4-carboxylic acid	Backbone
+SbMeW4Cl	07CD	PEPTIDE	WBQ	(2~{S},3~{S})-2-amino-3-(4-chloro-1~{H}-indol-3-yl)butanoic acid	Backbone
+NxG28	07CE	PEPTIDE	B4N	2-(2,2-dimethylpropylamino)acetic acid	Backbone
+NxG29	07CF	PEPTIDE	B4O	2-(2-methoxyethylamino)acetic acid	Backbone
+C13N15Arg	07D0	PEPTIDE	RAU	(2~{S})-2-(^{15}N)azanyl-5-[(~{C}-(^{15}N)azanylcarbonimidoyl)(^{15}N)amino](1,2,3,4,5-^{13}C_{5})pentanoic acid	Backbone
+PEG8AcidPrg	07D1	CHEM	11A	3-[2-[2-[2-[2-[2-[2-(2-prop-2-ynoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoic acid	
+PEG4acidPrg	07D2	CHEM	11B	3-[2-[2-(2-prop-2-ynoxyethoxy)ethoxy]ethoxy]propanoic acid	
+d4Quin	07D3	PEPTIDE	W0A	(2~{R})-2-amino-3-quinolin-4-ylpropanoic acid	Backbone
+rAlaPip4	07D4	PEPTIDE	B4P	2-amino-3-piperidin-4-ylpropanoic acid	Backbone
+rAlaMph	07D5	PEPTIDE	B4Q	2-amino-3-morpholin-4-ylpropanoic acid	Backbone
+dAlaMph	07D6	PEPTIDE	S0F	(2~{R})-2-amino-3-morpholin-4-ylpropanoic acid	Backbone
+d1Thq	07D7	PEPTIDE	F0V	(2~{R})-2-amino-3-(3,4-dihydro-2~{H}-quinolin-1-yl)propanoic acid	Backbone
+dAlaF3	07D8	PEPTIDE	A07	(2~{S})-2-amino-3,3,3-trifluoropropanoic acid	Backbone
+d3Inda	07D9	PEPTIDE	W0B	(2~{R})-2-amino-3-(2~{H}-indazol-3-yl)propanoic acid	Backbone
+dAbuF2	07DA	PEPTIDE	L0H	(2~{R})-2-amino-4,4-difluorobutanoic acid	Backbone
+dPhe4NH2	07DB	PEPTIDE	Y0O	(2~{R})-2-amino-3-(4-aminophenyl)propanoic acid	Backbone
+5AFL	07DC	CHEM	917	6-amino-3',6'-dihydroxyspiro[2-benzofuran-3,9'-xanthene]-1-one	
+BCP4COOH	07DD	PEPTIDE	DAP	3-[(2~{S})-2-amino-2-carboxyethyl]bicyclo[1.1.1]pentane-1-carboxylic acid	Backbone
+bMe1Nal	07DE	PEPTIDE	TAG	(2~{S})-2-amino-3-naphthalen-1-ylbutanoic acid	Backbone
+rbMe1Nal	07DF	PEPTIDE	TAH	(2~{S},3~{R})-2-amino-3-naphthalen-1-ylbutanoic acid	Backbone
+sbMe1Nal	07E0	PEPTIDE	TAI	(2~{S},3~{S})-2-amino-3-naphthalen-1-ylbutanoic acid	Backbone
+YEtGOH	07E1	PEPTIDE	9AO	(2~{S})-2-amino-3-[4-[2-(2-oxoethylamino)ethoxy]phenyl]propanoic acid	Backbone
+NxG30	07E2	PEPTIDE	B4R	2-[(4-chlorophenyl)methylamino]acetic acid	Backbone
+NxG31	07E3	PEPTIDE	B4S	2-[(4-methoxyphenyl)methylamino]acetic acid	Backbone
+NxG32	07E4	PEPTIDE	B4T	2-(oxan-4-ylamino)acetic acid	Backbone
+NxG33	07E5	PEPTIDE	B4U	2-[2-(oxan-4-yl)ethylamino]acetic acid	Backbone
+NxG34	07E6	PEPTIDE	B4V	2-(piperidin-4-ylmethylamino)acetic acid	Backbone
+NxG35	07E7	PEPTIDE	B4W	2-[(1-methylpiperidin-4-yl)methylamino]acetic acid	Backbone
+Bip3MOH4OH	07E8	PEPTIDE	YDK	(2~{S})-2-amino-3-[4-[4-hydroxy-3-(hydroxymethyl)phenyl]phenyl]propanoic acid	Backbone
+rbPhE	07E9	PEPTIDE	FDH	(2~{S},3~{R})-2-amino-3-phenylpentanedioic acid	Backbone
+sbPhE	07EA	PEPTIDE	FDI	(2~{S},3~{S})-2-amino-3-phenylpentanedioic acid	Backbone
+cACBC	07EB	PEPTIDE	S0G	(1~{S},2~{R})-2-aminocyclobutane-1-carboxylic acid	Backbone
+cACHC	07EC	PEPTIDE	KB8	(1~{R},2~{S})-2-aminocyclohexane-1-carboxylic acid	Backbone
+BCH	07ED	PEPTIDE	B4X	4-aminobicyclo[2.1.1]hexane-1-carboxylic acid	Backbone
+BCO	07EE	PEPTIDE	B4Y	4-aminobicyclo[2.2.2]octane-1-carboxylic acid	Backbone
+2BrisoVal	07EF	CHEM	B52	2-bromo-3-methylbutanoic acid	
+2BrHex	07F0	CHEM	B53	2-bromohexanoic acid	
+BrPrNH	07F1	CHEM	B54	3-bromopropan-1-amine	
+7AzIndo	07F2	PEPTIDE	B4M	(2~{S})-2-amino-3-pyrrolo[2,3-b]pyridin-1-ylpropanoic acid	Backbone
+d7AzIndo	07F3	PEPTIDE	F0W	(2~{R})-2-amino-3-pyrrolo[2,3-b]pyridin-1-ylpropanoic acid	Backbone
+dProc4OH	07F4	PEPTIDE	P0R	(2~{R},4~{R})-4-hydroxypyrrolidine-2-carboxylic acid	Backbone
+dProc4NH2	07F5	PEPTIDE	P0S	(2~{R},4~{R})-4-aminopyrrolidine-2-carboxylic acid	Backbone
+dProt4NH2	07F6	PEPTIDE	P0T	(2~{R},4~{S})-4-aminopyrrolidine-2-carboxylic acid	Backbone
+dProc4OPh	07F7	PEPTIDE	F0X	(2~{R},4~{R})-4-phenoxypyrrolidine-2-carboxylic acid	Backbone
+dProt4OPh	07F8	PEPTIDE	F0Y	(2~{R},4~{S})-4-phenoxypyrrolidine-2-carboxylic acid	Backbone
+dProc4Bn	07F9	PEPTIDE	F0Z	(2~{R},4~{R})-4-benzylpyrrolidine-2-carboxylic acid	Backbone
+dProt4Bn	07FA	PEPTIDE	F10	(2~{R},4~{S})-4-benzylpyrrolidine-2-carboxylic acid	Backbone
+dProc4Ph	07FB	PEPTIDE	F11	(2~{R},4~{S})-4-phenylpyrrolidine-2-carboxylic acid	Backbone
+dProt4Ph	07FC	PEPTIDE	F12	(2~{R},4~{R})-4-phenylpyrrolidine-2-carboxylic acid	Backbone
+dProt5Ph	07FD	PEPTIDE	P0U	(2~{R},5~{R})-5-phenylpyrrolidine-2-carboxylic acid	Backbone
+Prot4NBzl	07FE	PEPTIDE	FDJ	(2~{S},4~{R})-4-(phenylmethoxycarbonylamino)pyrrolidine-2-carboxylic acid	Backbone
+AEFX1	07FF	PEPTIDE	YDL	(2~{S})-2-amino-3-[4-[2-[[2-[3-(pyridin-3-ylcarbamoylamino)phenyl]acetyl]amino]ethoxy]phenyl]propanoic acid	Backbone
+AEFX2	0800	PEPTIDE	YDM	(2~{S})-2-amino-3-[4-[2-[3-[3-(pyridin-3-ylcarbamoylamino)phenyl]propanoylamino]ethoxy]phenyl]propanoic acid	Backbone
+bme8F1Nal	0801	PEPTIDE	TAJ	(2~{S})-2-amino-3-(8-fluoronaphthalen-1-yl)butanoic acid	Backbone
+sbme8F1Nal	0802	PEPTIDE	TAK	(2~{S},3~{S})-2-amino-3-(8-fluoronaphthalen-1-yl)butanoic acid	Backbone
+rbme8F1Nal	0803	PEPTIDE	TAL	(2~{S},3~{R})-2-amino-3-(8-fluoronaphthalen-1-yl)butanoic acid	Backbone
+MalC3acid	0805	PEPTIDE	11C	3-(2,5-dioxopyrrol-1-yl)propanoic acid	Backbone
+MalC4acid	0806	PEPTIDE	11D	4-(2,5-dioxopyrrol-1-yl)butanoic acid	Backbone
+MalC5acid	0807	PEPTIDE	11E	5-(2,5-dioxopyrrol-1-yl)pentanoic acid	Backbone
+TtdsNHAc	080B	CHEM	B55	4-[3-[2-[2-(3-aminopropoxy)ethoxy]ethoxy]propylamino]-4-oxobutanoic acid	
+PEG4AcOMe	080C	CHEM	919	3-[2-[2-(2-methoxyethoxy)ethoxy]ethoxy]propanoic acid	
+NPrOAc	080D	PEPTIDE	B56	2-(3-aminopropoxy)acetic acid	Backbone
+BCP4Ph	080E	PEPTIDE	FDK	(2~{S})-2-amino-3-(3-phenyl-1-bicyclo[1.1.1]pentanyl)propanoic acid	Backbone
+dPro44F2	080F	PEPTIDE	P0V	(2~{R})-4,4-difluoropyrrolidine-2-carboxylic acid	Backbone
+Prot4O2Nal	0810	PEPTIDE	PD3	(2~{S},4~{R})-4-naphthalen-2-yloxypyrrolidine-2-carboxylic acid	Backbone
+dProt4OH	0811	PEPTIDE	P0W	(2~{R},4~{S})-4-hydroxypyrrolidine-2-carboxylic acid	Backbone
+NiPG	0812	PEPTIDE	B57	2-(propan-2-ylamino)acetic acid	Backbone
+NcmG	0813	PEPTIDE	B58	2-(carboxymethylamino)acetic acid	Backbone
+W4OMe	0814	PEPTIDE	WBR	(2~{S})-2-amino-3-(4-methoxy-1~{H}-indol-3-yl)propanoic acid	Backbone
+raMePip	0815	PEPTIDE	B59	2-methylpiperidine-2-carboxylic acid	Backbone
+AdmA	0816	PEPTIDE	DAQ	(2~{S})-3-(1-adamantyl)-2-aminopropanoic acid	Backbone
+N3Hx	0817	PEPTIDE	11M	1-azido-6-bromohexane	Backbone
+ACE	0818	CHEM	B5A	1,3-dibromopropan-2-one	
+L6	0819	CHEM	11F	4-[2-(2-bromoethyl)phenoxy]butanoic acid	
+L35	081A	CHEM	11G	(3~{E},7~{Z})-11-bromoundeca-3,7-dienoic acid	
+L112	081B	CHEM	11H	(1-[(~{E})-5-bromopent-2-enoyl]azepane-4-carboxylic acid	Undefined
+L201	081C	CHEM	11I	3-[[(2~{S})-2-(bromomethyl)cyclopropyl]methylcarbamoyl]benzoic acid	Undefined
+L201M	081D	CHEM	11J	3-[[(2~{S})-2-(bromomethyl)cyclopropyl]methyl-methylcarbamoyl]benzoic acid	Undefined
+L210	081E	CHEM	11K	2-[3-(4-bromobutanoylamino)phenyl]acetic acid	
+L178	081F	CHEM	11L	2-[4-[(3-bromo-2-oxopropyl)sulfanylmethyl]phenyl]acetic acid	
+dProc4t1	0821	PEPTIDE	F13	(2~{R},4~{R})-4-(4-phenyltriazol-1-yl)pyrrolidine-2-carboxylic acid	Backbone
+dProt4t1	0822	PEPTIDE	F14	(2~{R},4~{S})-4-(4-phenyltriazol-1-yl)pyrrolidine-2-carboxylic acid	Backbone
+dProt4OBn	0823	PEPTIDE	F15	(2~{R},4~{S})-4-phenylmethoxypyrrolidine-2-carboxylic acid	Backbone
+dProc4t2	0824	PEPTIDE	P0X	(2~{R},4~{R})-4-[4-(4-methoxyphenyl)triazol-1-yl]pyrrolidine-2-carboxylic acid	Backbone
+dProt4t2	0825	PEPTIDE	P0Y	(2~{R},4~{S})-4-[4-(4-methoxyphenyl)triazol-1-yl]pyrrolidine-2-carboxylic acid	Backbone
+dProc4t3	0826	PEPTIDE	P0Z	(2~{R},4~{R})-4-[4-(4-hydroxycyclohexyl)triazol-1-yl]pyrrolidine-2-carboxylic acid	Backbone
+dProt4t3	0827	PEPTIDE	P10	(2~{R},4~{S})-4-[4-(4-hydroxycyclohexyl)triazol-1-yl]pyrrolidine-2-carboxylic acid	Backbone
+dProc4t4	0828	PEPTIDE	P11	(2~{R},4~{R})-4-[4-(methoxymethyl)triazol-1-yl]pyrrolidine-2-carboxylic acid	Backbone
+dProt4t4	0829	PEPTIDE	P12	(2~{R},4~{S})-4-[4-(methoxymethyl)triazol-1-yl]pyrrolidine-2-carboxylic acid	Backbone
+dProc4t5	082A	PEPTIDE	P13	(2~{R},4~{R})-4-[4-(2-hydroxypropan-2-yl)triazol-1-yl]pyrrolidine-2-carboxylic acid	Backbone
+dProt4t5	082B	PEPTIDE	P14	(2~{R},4~{S})-4-[4-(2-hydroxypropan-2-yl)triazol-1-yl]pyrrolidine-2-carboxylic acid	Backbone
+dProc4t6	082C	PEPTIDE	P15	(2~{R},4~{R})-4-(4-cyclohexyltriazol-1-yl)pyrrolidine-2-carboxylic acid	Backbone
+dProt4t6	082D	PEPTIDE	P16	(2~{R},4~{S})-4-(4-cyclohexyltriazol-1-yl)pyrrolidine-2-carboxylic acid	Backbone
+W2Al	082E	PEPTIDE	B5B	6-oxohexan-3-yl(^{1})	Backbone
+3AOPA	082F	PEPTIDE	B5C	2-(3-amino-2-oxopyridin-1-yl)acetic acid	Backbone
+3A4ClPA	0830	PEPTIDE	B5D	2-(3-amino-4-chlorophenyl)acetic acid	Backbone
+3APA	0831	PEPTIDE	B5E	2-(3-aminophenyl)acetic acid	Backbone
+RbOHW	0832	PEPTIDE	WBS	(2~{S},3~{R})-2-amino-3-hydroxy-3-(1~{H}-indol-3-yl)propanoic acid	Backbone
+SbOHW	0833	PEPTIDE	WBT	(2~{S},3~{S})-2-amino-3-hydroxy-3-(1~{H}-indol-3-yl)propanoic acid	Backbone
+Triazine	0834	CHEM	B5F	1,3,5-triazine	
+BPSM	0835	CHEM	B5G	1-bromo-2-(2-bromoethylsulfonylmethylsulfonyl)ethane	
+gAhpAl	0836	PEPTIDE	B4Z	heptanal	Backbone
+3ApOL	0837	PEPTIDE	918	3-aminopropan-1-ol	Backbone
+gdAhpAl	0838	PEPTIDE	B50	heptanal	Backbone
+hFLac	0839	PEPTIDE	B51	(2~{S})-2-hydroxy-4-phenylbutanoic acid	Backbone
+NvaF	083A	PEPTIDE	KB9	(2~{S})-2-amino-5-fluoropentanoic acid	Backbone
+NHEtPh	083C	PEPTIDE	91A	2-phenylethanamine	Backbone
+Ac1Naph	083E	PEPTIDE	11N	2-naphthalen-1-ylacetic acid	Backbone
+Ac4FPhe	083F	PEPTIDE	11O	2-(4-fluorophenyl)acetic acid	Backbone
+AcBip	0840	PEPTIDE	11P	2-(4-phenylphenyl)acetic acid	Backbone
+4AlkMOBz	0841	PEPTIDE	B5H	1-ethynyl-4-methoxybenzene	Backbone
+MeOPrp	0842	PEPTIDE	B5I	3-methoxyprop-1-yne	Backbone
+AlkChOH	0843	PEPTIDE	B5J	4-ethynylcyclohexan-1-ol	Backbone
+Prot4O24FBn	0844	PEPTIDE	PD4	(2~{S},4~{R})-4-[(2,4-difluorophenyl)methoxy]pyrrolidine-2-carboxylic acid	Backbone
+Prot4O4ClBn	0845	PEPTIDE	PD5	(2~{S},4~{R})-4-[(4-chlorophenyl)methoxy]pyrrolidine-2-carboxylic acid	Backbone
+AcPEG12Chol	0846	CHEM	91C	[(3~{S},8~{S},9~{S},10~{R},13~{R},14~{S},17~{R})-10,13-dimethyl-17-[(2~{R})-6-methylheptan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1~{H}-cyclopenta[a]phenanthren-3-yl] 3-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[(2-bromoacetyl)amino]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoate	
+BrAcNH2	0847	CHEM	91D	2-bromoacetamide	
+2PyrimAla	0848	PEPTIDE	HAT	(2~{S})-2-amino-3-pyrimidin-2-ylpropanoic acid	Backbone
+6Quin	0849	PEPTIDE	FDN	(2~{S})-2-amino-3-quinolin-6-ylpropanoic acid	Backbone
+dTrp5F	084A	PEPTIDE	W0C	(2~{R})-2-amino-3-(5-fluoro-1~{H}-indol-3-yl)propanoic acid	Backbone
+dTrp5Br	084B	PEPTIDE	W0D	(2~{R})-2-amino-3-(5-bromo-1~{H}-indol-3-yl)propanoic acid	Backbone
+dTrp5Cl	084C	PEPTIDE	W0E	(2~{R})-2-amino-3-(5-chloro-1~{H}-indol-3-yl)propanoic acid	Backbone
+dTrp5OMe	084D	PEPTIDE	W0F	(2~{R})-2-amino-3-(5-methoxy-1~{H}-indol-3-yl)propanoic acid	Backbone
+SbMeW4OMe	084E	PEPTIDE	WBU	(2~{S},3~{S})-2-amino-3-(4-methoxy-1~{H}-indol-3-yl)butanoic acid	Backbone
+SbMeW4F	084F	PEPTIDE	WBV	(2~{S},3~{S})-2-amino-3-(4-fluoro-1~{H}-indol-3-yl)butanoic acid	Backbone

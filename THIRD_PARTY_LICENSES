@@ -1,0 +1,36 @@
+--------------------------------------------------
+Third party dependencies listed by License type
+[Format: Name Version License URL]
+--------------------------------------------------
+
+ Name             Version    License                                              URL
+ falcon           2.0.0      Apache Software License                              https://falconframework.org
+ requests         2.24.0     Apache Software License                              https://requests.readthedocs.io
+ python-dateutil  2.8.1      Apache Software License; BSD License                 https://dateutil.readthedocs.io
+ uvloop           0.14.0     Apache Software License; MIT License                 http://github.com/MagicStack/uvloop
+ numpy            1.19.2     BSD                                                  https://www.numpy.org
+ pandas           1.0.3      BSD                                                  https://pandas.pydata.org
+ click            7.1.2      BSD License                                          https://palletsprojects.com/p/click/
+ enum34           1.1.10     BSD License                                          https://bitbucket.org/stoneleaf/enum34
+ idna             2.10       BSD License                                          https://github.com/kjd/idna
+ python-dotenv    0.14.0     BSD License                                          https://github.com/theskumar/python-dotenv
+ starlette        0.13.6     BSD License                                          https://github.com/encode/starlette
+ ujson            4.0.1      BSD License                                          https://github.com/ultrajson/ultrajson
+ uvicorn          0.12.1     BSD License                                          https://github.com/encode/uvicorn
+ websockets       8.1        BSD License                                          https://github.com/aaugustin/websockets
+ chardet          3.0.4      GNU Library or Lesser General Public License (LGPL)  https://github.com/chardet/chardet
+ PyYAML           5.3.1      MIT License                                          https://github.com/yaml/pyyaml
+ SQLAlchemy       1.4.0      MIT License                                          http://www.sqlalchemy.org
+ fastapi          0.61.1     MIT License                                          https://github.com/tiangolo/fastapi
+ fastapi-utils    0.2.1      MIT License                                          https://fastapi-utils.davidmontague.xyz
+ greenlet         1.0.0      MIT License                                          https://greenlet.readthedocs.io/
+ gunicorn         20.0.4     MIT License                                          http://gunicorn.org
+ h11              0.11.0     MIT License                                          https://github.com/python-hyper/h11
+ httptools        0.1.1      MIT License                                          https://github.com/MagicStack/httptools
+ pyMSA            0.8.1      MIT License                                          https://github.com/benhid/pyMSA
+ pydantic         1.6.1      MIT License                                          https://github.com/samuelcolvin/pydantic
+ pytz             2020.1     MIT License                                          http://pythonhosted.org/pytz
+ six              1.15.0     MIT License                                          https://github.com/benjaminp/six
+ urllib3          1.25.9     MIT License                                          https://urllib3.readthedocs.io/
+ watchgod         0.6        MIT License                                          https://github.com/samuelcolvin/watchgod
+ certifi          2020.6.20  Mozilla Public License 2.0 (MPL 2.0)                 https://certifiio.readthedocs.io/en/latest/
