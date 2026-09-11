@@ -27,7 +27,7 @@ sniffio==1.2.0
 SQLAlchemy==1.4.26
 starlette==0.16.0
 typing-extensions==3.10.0.2
-ujson==4.2.0
+ujson==5.13.0
 urllib3==1.26.7
 uvicorn==0.15.0
 uvloop==0.16.0
